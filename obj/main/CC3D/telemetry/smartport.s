@@ -14,10 +14,10 @@
 	.file	"smartport.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_.profile.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234cf```c\200\000F\206Ml\315\314\000\004\205\001I"
 	.text
-	.section	.gnu.lto_.jmpfuncs.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234\205P\273J\003A\024\275gf7F\211\257\224\251\374"
 	.ascii	"\006\377O\326\306R\254\304R$\242I|\254\032\177\300\330"
 	.ascii	"\012a\213T\"\253 hc!\222B\213\340\271wgc\026\024\207"
@@ -34,7 +34,7 @@
 	.ascii	"\375\322c\324\315\356\350>\314\305\017\275\376\341f"
 	.ascii	"u\025<\265)Qn\256o\021Fj\273"
 	.text
-	.section	.gnu.lto_.inline.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_.inline.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234\235R;N\303@\024\234\367\274q\026;ql\210\004\302"
 	.ascii	"\021N\001-\342\004\210\002Q\272\345\002\024\344\026"
 	.ascii	")8\200\013\012\312tp\000\016\220\016\211&\320\244C\024"
@@ -56,11 +56,11 @@
 	.ascii	"\372\301\376w\224}.\"\261\334\374f\266T\254L\014\237"
 	.ascii	"\233\036^\331"
 	.text
-	.section	.gnu.lto_.pureconst.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_.pureconst.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234cf``\020e\200\000.\006\0116)vI\016\011\036\011"
 	.ascii	">I~\026\001\026A\011!K\000\020*\001\201"
 	.text
-	.section	.gnu.lto_smartPortDataReceive.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_smartPortDataReceive.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234uRKOSQ\020\2369\367\321\322\007\005\227(>\202H"
 	.ascii	"\334Pwn\214q\357\312\177 \022\026$\002\24641.\220S\332"
 	.ascii	"D\023\215\222j\014\301G\202FD\220\227\240\310C\251\002"
@@ -104,7 +104,7 @@
 	.ascii	"\254\304\355:\343\254,+r\271OU\270\334\205\305\200\305"
 	.ascii	"Jy\305\351\337\325\002\240\342"
 	.text
-	.section	.gnu.lto_smartPortSendByte.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_smartPortSendByte.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234\215S[KTQ\024^k\357s\316\\\234qF\351!|\351j\022"
 	.ascii	"\205B\017\321CA\277\240\207\036z\256\006\037\202\254"
 	.ascii	"\230\346\245\007i\2173hD\204\015]\314\356Tf\267\261"
@@ -154,7 +154,7 @@
 	.ascii	"\262X\371\332\362\212\362XtS\331\306\212U\321\330\206"
 	.ascii	"\365\321Xi\0040bE\242\221\015\222\226\337\252v\262\262"
 	.text
-	.section	.gnu.lto_smartPortSendPackage.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_smartPortSendPackage.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234\215\225[o\023W\020\307\317\234co\034\333\330!"
 	.ascii	"R_\374\002U\032\"\225\202%\036\020\355C\305'\3403\020"
 	.ascii	"\245y@J\332\310\230J\250\2628\271\230\333C\022 \017"
@@ -209,7 +209,7 @@
 	.ascii	"\340\3062\306w|!\276.\255\020e\2012\261kK\325?\246<"
 	.ascii	"\211\320"
 	.text
-	.section	.gnu.lto_initSmartPortTelemetry.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_initSmartPortTelemetry.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234m\222Mk\023Q\024\206\317{&3\216\211\025\021\225"
 	.ascii	"\022P*X\272K\366\256\004\367.\304?\020J\224@\223J:\033"
 	.ascii	"\027\2417%\005]\030J\005)\370\001\"b4\232\332\306\357"
@@ -238,7 +238,7 @@
 	.ascii	"\311\252\227\033\247\023\245J\311+\025&.\355\276=?Y"
 	.ascii	"\271\\\272\362\017\006\313\347H"
 	.text
-	.section	.gnu.lto_freeSmartPortTelemetryPort.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_freeSmartPortTelemetryPort.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234u\221=K\303P\024\206\3179i\223@\027q*.\"\016\335"
 	.ascii	"\032\360\2178\370\013J\351 X-i\026\207\322D*8I\261\010"
 	.ascii	"\202\037\233X\255\266\265\365c-\2708)\342 \210\264K"
@@ -261,7 +261,7 @@
 	.ascii	"\256kFj-\225N\031\372\246\226M't#\263\241\033\361$\374"
 	.ascii	"\002\277\331\317\323"
 	.text
-	.section	.gnu.lto_configureSmartPortTelemetryPort.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_configureSmartPortTelemetryPort.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234mTKOSA\024\236o\346>Z\313\243(bE\0235\230\020\243"
 	.ascii	"\322\245\013\243K\267\376\0017JX\230\210\032\350\306"
 	.ascii	"\005\361\026jb\242\250\021\243FQB|\213\012\210\357g"
@@ -312,7 +312,7 @@
 	.ascii	"b\346\223\373\312\215\241\265\033\326\227\377\006F#"
 	.ascii	"\363\205"
 	.text
-	.section	.gnu.lto_canSendSmartPortTelemetry.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_canSendSmartPortTelemetry.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234m\220\313K[A\024\306\317w\346\3165\032\261\342"
 	.ascii	"J\262\263\012\"\210\371\023\\\370\227\210d!\030+1\233"
 	.ascii	".\304\211IiVE\354F|\024Zh}kK\205\322\215\370\330\372"
@@ -338,7 +338,7 @@
 	.ascii	"\333?\030O'\006\022\311D:\3654>\234\354M\245\207\236"
 	.ascii	"\244\322]}t\007\264\301\266\355"
 	.text
-	.section	.gnu.lto_isSmartPortTimedOut.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_isSmartPortTimedOut.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234eO=K\003Q\020\334\331\013\361 \026b%\351$E\020"
 	.ascii	"B\3567\205\220B\360T.\327X\204\274\213'Z\371\205\235"
 	.ascii	"\321B\020\317\017\024\301\306N\020\255\304 )\204\200"
@@ -356,7 +356,7 @@
 	.ascii	"\302\364\254\343\227fJn\311\367\026\234\262[\360\374"
 	.ascii	"\3719\317\317\027\351\027\366od\322"
 	.text
-	.section	.gnu.lto_checkSmartPortTelemetryState.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_checkSmartPortTelemetryState.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234u\221Oh\023Q\020\306\347\233\267\273ILA\351)\346"
 	.ascii	"\240H\213E\221\346\350Ez\363\346Q\274\247u\021\241\211"
 	.ascii	"\222F\304C\350K\263\005O\322\212B\375W\024\024\253\325"
@@ -387,7 +387,7 @@
 	.ascii	"\345\362\335}\224\310\272g\217n\356\034\316\246{\373"
 	.ascii	"\335\343\307\322\375g\334_-|\3576"
 	.text
-	.section	.gnu.lto_handleSmartPortTelemetry.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_handleSmartPortTelemetry.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234\225ZwxUU\266\337{\337\232\333\022B\017\235\004"
 	.ascii	"\010\220B\357\315\202\376\241\276\367\324\367\306\361"
 	.ascii	"\373f\306O\221\347\360>\301\031\304.zCB(\002\311$4i"
@@ -659,7 +659,7 @@
 	.ascii	"?\206y\337\375\337W\337\376\323[o\216z\365\215\241\377"
 	.ascii	"\017\304utS"
 	.text
-	.section	.gnu.lto_.symbol_nodes.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234U\217\311n\323P\024\206\177\373\306C[7\211\335"
 	.ascii	"0KD\014I:\245e\236\207\027\352\023\2609Ud\245U\331t"
 	.ascii	"\325\035%D\331\260@\274\002\004w\010m\003\033\026\354"
@@ -690,7 +690,7 @@
 	.ascii	"\236\221\367\034\367\342\371_\235\"\376\003\2461\374"
 	.ascii	"\251"
 	.text
-	.section	.gnu.lto_.refs.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_.refs.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234\035\314=K\003Q\024\204\341w\356\271w\343~%Y7\033"
 	.ascii	"\023c\022\020+\211\330X\372#\375I\026\026\202E\300\""
 	.ascii	"\240\"H@\261\020\013\021\321B\360\340\201\341\231b8"
@@ -704,7 +704,7 @@
 	.ascii	"\027\226\027RZ{6\242\273\027\343G\357[\221\236\305\037"
 	.ascii	"\243\203\036\311"
 	.text
-	.section	.gnu.lto_.decls.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_.decls.3bf5a4339a9ff610,"",%progbits
 	.ascii	"x\234\255|\011TTI\262(\267\262\252\200\242\000\267\266"
 	.ascii	"\035\247\347\265\355\274q\2267\335\3666\363{\336\314"
 	.ascii	"\274i\027\272\033\307\355\001\316\362\347\375\317\320"
@@ -1343,7 +1343,7 @@
 	.ascii	"\337\264\222,0o\360\204\320\010\214*\370\342#\374\377"
 	.ascii	"\007q\037\376O"
 	.text
-	.section	.gnu.lto_.symtab.822772a3ba2c5fca,"",%progbits
+	.section	.gnu.lto_.symtab.3bf5a4339a9ff610,"",%progbits
 	.ascii	"smartPortState\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000'\002\000\000initSmartPortTelemetry\000\000"
 	.ascii	"\000\000\000\000\000\000\000\000\000\0008\001\000\000"

@@ -14,17 +14,17 @@
 	.file	"stm32f10x_bkp.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_.profile.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234cf```a\200\000F\006\177C\000\001C\000\211"
 	.text
-	.section	.gnu.lto_.jmpfuncs.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234cf\300\016\222\2404\017\02032}db\274\377\344\374"
 	.ascii	"E\216\027L?\231@\002\313\031\245 \242\027g-k\346\007"
 	.ascii	"\213220\256\000\211\002A=\023\210`\006\021, \202\025"
 	.ascii	"D\260\001\005\231\353\353\331Al\016\006\006N\006\006"
 	.ascii	".\006\006n\240a\000\222\230\022\023"
 	.text
-	.section	.gnu.lto_.inline.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_.inline.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234m\215\313\021\2000\010D\027\022\211\177\257\336"
 	.ascii	"\354\300\022\354\310\236,\301\022,\301R,\3010q\242N"
 	.ascii	"\302\201e\336.`\220\257\216\202\266\200\033\011\354"
@@ -34,11 +34,11 @@
 	.ascii	"\362\377\256\202\024\036\3115GT\247\251&M\341\006\027"
 	.ascii	"P\025\262"
 	.text
-	.section	.gnu.lto_.pureconst.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_.pureconst.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234cf``\220d\200\000\036\006\011F)&)f)\026)V)6)v)"
 	.ascii	"\016)N).)n)\000\025\247\001\241"
 	.text
-	.section	.gnu.lto_BKP_DeInit.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_BKP_DeInit.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234cf\300\004R@\374\031\210m\200\230\221\231\201\221"
 	.ascii	"i\3029\006\206F\016&FF\020\203\201\221\241\236\211\261"
 	.ascii	"\236\361%\323G&\306\011\007V\317\340V_\332\320\320\360"
@@ -56,7 +56,7 @@
 	.ascii	"x\227\242\314\262\324\"\375\342\242d\375\342\222\\c"
 	.ascii	"\2434\220tRv\201^2\003\000\277\323kO"
 	.text
-	.section	.gnu.lto_BKP_TamperPinLevelConfig.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_BKP_TamperPinLevelConfig.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234ePM(DQ\030\375\316w\231\204\205\2544{\354<\306"
 	.ascii	"N\211$\013?\231\302z2<y1\232\036\311\316\033\215l,&"
 	.ascii	"Y\210l\374\344\377\247\024;\275l\024E\2631\262 \232"
@@ -79,7 +79,7 @@
 	.ascii	"\003\335\275\241\260i\373\255\221vs\334\034\376\001"
 	.ascii	"\316\206\216\036"
 	.text
-	.section	.gnu.lto_BKP_TamperPinCmd.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_BKP_TamperPinCmd.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234eP\275KBQ\024?\277\373L\244\032\242I\034\003\221"
 	.ascii	" |e[\0204TCP\004\266G\226\221\224\021\317G\265\371\014"
 	.ascii	"\245\206 q\022B\032*,\355\003\012j}\364\007d\011\025"
@@ -101,7 +101,7 @@
 	.ascii	"\225\327\276\371%\3674\331\306\374+^}J\367\377\002j"
 	.ascii	"\244}\346"
 	.text
-	.section	.gnu.lto_BKP_ITConfig.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_BKP_ITConfig.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234eP;H\202Q\024>\337\375-D\013\242I\034\003\221 "
 	.ascii	"\374K\267 h\250\226(\002\333E\315H\312\020\225j\353"
 	.ascii	"W\224\\\"i\012D\010zY\366X\242\371'\334\202\244\226"
@@ -122,7 +122,7 @@
 	.ascii	"\361\253\321X\310\345\234\227\327\276\305\260\303O\306"
 	.ascii	"\351\300\252;\346\215\005~\001_R}\263"
 	.text
-	.section	.gnu.lto_BKP_RTCOutputConfig.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_BKP_RTCOutputConfig.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234}QMh\023A\030\235of\263VZ\265\350\245\344\"XJO"
 	.ascii	"\355jK/\005\241\250x\021\265\232\202\307`c\324\240\251"
 	.ascii	"a\273\021o\231\264I\375C(\025A\264\021T\304h\324\246"
@@ -156,7 +156,7 @@
 	.ascii	"<\247\302\272\317\257\032\301\220\356?\366\013\305\340"
 	.ascii	"\366G"
 	.text
-	.section	.gnu.lto_BKP_SetRTCCalibrationValue.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_BKP_SetRTCCalibrationValue.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234}RQH\024Q\024}\367\275\235qa\245\226\276d~\372"
 	.ascii	"\020\221(\235R\374\021\202\240\350/\011\224~e\265\255"
 	.ascii	"\226\334m\031\267\350o\337n\243\333W\210\021Df\030\022"
@@ -190,7 +190,7 @@
 	.ascii	"B\250\021JDN\305\216\204zN\207\325D4n\204\217\377\006"
 	.ascii	"Dx\370\231"
 	.text
-	.section	.gnu.lto_BKP_WriteBackupRegister.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_BKP_WriteBackupRegister.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234mQ_HSQ\030?\3379ww\177\356(\351I\366R \3037o)\364"
 	.ascii	"\020\004R#\210\212${\037\323\214F-\3066\2447\317t\322"
 	.ascii	"K\017n=4\214\021#b\232\246\263U\224O#z\030HI\024i\022"
@@ -224,7 +224,7 @@
 	.ascii	"\324s\227\372\274\236k\212\307\027\361\211H \370\007"
 	.ascii	"\2340\377\301"
 	.text
-	.section	.gnu.lto_BKP_ReadBackupRegister.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_BKP_ReadBackupRegister.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234ePKh\023Q\024}\367\275\231I\223\011X\\VA\241\224"
 	.ascii	"\356:\332\356\004\261H\320\205\010\305\212\333`k\245"
 	.ascii	"A#!\011\322]\337\264#\210\270\260Q0T\202\026\221Z?m"
@@ -256,7 +256,7 @@
 	.ascii	"\352\274L\237\373\256\304:\372\231q\362LO8tN$\243\261"
 	.ascii	"\177\230\023\350N"
 	.text
-	.section	.gnu.lto_BKP_GetFlagStatus.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_BKP_GetFlagStatus.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234cf\300\004R@\374\022\210m\200\230\221\231\201\221"
 	.ascii	"i\3029\006\206F\016&FF\020\203\201\221\241\236\211\261"
 	.ascii	"\236\361%\323G&\3063;\377]fT_\332\320\320\364a\323\304"
@@ -275,7 +275,7 @@
 	.ascii	"\365\213Kr\215\215\322@\322I\331\005z\311\014\000[\020"
 	.ascii	"g\347"
 	.text
-	.section	.gnu.lto_BKP_ClearFlag.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_BKP_ClearFlag.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234\215\217\277KBQ\024\307\317\367\274\227\010\016"
 	.ascii	"ES\371\017\010\201\276RZ\2421\332\202HwI3z\224!*\321"
 	.ascii	"\346\223t\217~@P\266E\226\225T\344\232D\320\226TB!\221"
@@ -296,7 +296,7 @@
 	.ascii	"E\365\245PT\213E\203Z,\036\366\270ge90\037q\005\351"
 	.ascii	"\007\340\267\210\034"
 	.text
-	.section	.gnu.lto_BKP_GetITStatus.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_BKP_GetITStatus.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234cf\300\004R@\374\022\210m\200\230\221\231\201\221"
 	.ascii	"i\3029\006\206F\016&FF\020\203\201\221\241\236\211\261"
 	.ascii	"\236\361%\323G&\3063;\377]fT_\332\320\320\364\241iz"
@@ -314,7 +314,7 @@
 	.ascii	"\361.E\231e\251E\372\305E\311\372\305%\271\306Fi \351"
 	.ascii	"\244\354\002\275d\006\000d\275h\007"
 	.text
-	.section	.gnu.lto_BKP_ClearITPendingBit.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_BKP_ClearITPendingBit.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234\215\217\277KBQ\024\307\317\367<\023\301\241h*"
 	.ascii	"\377\001'}\245\264Dc\264\005\201\356\222f\364(C\236"
 	.ascii	"\022m\276G\272G\024\364\313\206 \372a\345\224k\022\015"
@@ -335,7 +335,7 @@
 	.ascii	"\270\256%\027\"\223\272\266\022\327\325\224\036SS\351"
 	.ascii	"D00/\313\321\305\244?F?\301.\210\332"
 	.text
-	.section	.gnu.lto_.symbol_nodes.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234U\307M\022C@\000D\341\236\031d\"\256\200\370\213"
 	.ascii	"8e;\202\023\250,r\024\353\234\201\213(\024\213\364\333"
 	.ascii	"\274\372\034\200\005W6%0\374\000\022\343\307\303f4\342"
@@ -343,10 +343,10 @@
 	.ascii	"/\336\305-c\361\233\217\177\233\216\311i\364\275\207"
 	.ascii	"C\202\357\274\232\343\323~l\006\372=G"
 	.text
-	.section	.gnu.lto_.refs.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_.refs.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.decls.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_.decls.b10f8665227d0b08,"",%progbits
 	.ascii	"x\234\355YkP\224W\232\356\323\207ks1\223TL\326\037\273"
 	.ascii	"\306\335\2622S\231\240\335$1[\273\265\331\250\231\265"
 	.ascii	"vf\326Qwf\252f\267\010\321NB\215\022\012\233l\246\366"
@@ -608,7 +608,7 @@
 	.ascii	"\211>\035\327\347N\364\271s}\356D\237;\327\347N\364"
 	.ascii	"\271s}\356\037\375\017\342\010\362\015"
 	.text
-	.section	.gnu.lto_.symtab.4081882be8c9f030,"",%progbits
+	.section	.gnu.lto_.symtab.b10f8665227d0b08,"",%progbits
 	.ascii	"BKP_DeInit\000\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\267\000\000\000BKP_TamperPinLevelConfig\000\000"
 	.ascii	"\000\000\000\000\000\000\000\000\000\000\303\000\000"

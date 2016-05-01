@@ -14,11 +14,11 @@
 	.file	"main.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.65e444ce50e65546,"",%progbits
+	.section	.gnu.lto_.profile.7cc069eb5a5db515,"",%progbits
 	.ascii	"x\234cf```c\200\000F\206\325\\K\231\001\004\271\001"
 	.ascii	"h"
 	.text
-	.section	.gnu.lto_.jmpfuncs.65e444ce50e65546,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.7cc069eb5a5db515,"",%progbits
 	.ascii	"x\234\225U\333N\023Q\024={Zz\341\356\035p\036L|\346"
 	.ascii	"\037\374\002\337}\3677H&X\243&\032|\321\004_\032\210"
 	.ascii	"\001\205JQ\021\205\002\225\213r\251\\*\"W\241(&&\362"
@@ -62,7 +62,7 @@
 	.ascii	"{0\3566\217\373\327C\313\342A^\245\362\353\017\007\352"
 	.ascii	".c"
 	.text
-	.section	.gnu.lto_.inline.65e444ce50e65546,"",%progbits
+	.section	.gnu.lto_.inline.7cc069eb5a5db515,"",%progbits
 	.ascii	"x\234\205R\273\015\3020\020}>G\004\223\320P#\261DjF"
 	.ascii	"\360l\226h)R\263\000m\006`\014*$v\340lG\361\3056\220"
 	.ascii	"H\357.\367y\367\213F\375\271S\224\032\303D\227N\201"
@@ -75,11 +75,11 @@
 	.ascii	"PUW%pm\374v\332\177\224T\3753\3444=\332\206'\330N\347"
 	.ascii	"4\200\307\017\315\223#\020"
 	.text
-	.section	.gnu.lto_.pureconst.65e444ce50e65546,"",%progbits
+	.section	.gnu.lto_.pureconst.7cc069eb5a5db515,"",%progbits
 	.ascii	"x\234cf```g\200\000f\006)N\023\036\023\000\002X\000"
 	.ascii	"\245"
 	.text
-	.section	.gnu.lto_init.65e444ce50e65546,"",%progbits
+	.section	.gnu.lto_init.7cc069eb5a5db515,"",%progbits
 	.ascii	"x\234\245[\011X\025G\266\356S}\331WwA\005\025\305\005"
 	.ascii	"\321dbb4q\262\314\313\274\314d&y\231\214/\2133\361\031"
 	.ascii	"\243\306\227h\2141\311\3732\237o.\213b\334@T\002\212"
@@ -398,7 +398,7 @@
 	.ascii	"\351\3016\200\037\316\230\362\345\304\031\237\017\233"
 	.ascii	"<}\312\247C?\222\376\017_c\317\314"
 	.text
-	.section	.gnu.lto_main.65e444ce50e65546,"",%progbits
+	.section	.gnu.lto_main.7cc069eb5a5db515,"",%progbits
 	.ascii	"x\234\225V[SSW\024\336k\237\334\310\311MP:\344\201\342"
 	.ascii	"TFf\274d\306\231N\373\332\237\322\372\324:\355C\373"
 	.ascii	"\322\2072\036$L}\241\264\216:\026\213\242Uk\013\305"
@@ -476,7 +476,7 @@
 	.ascii	"\217\261\354\275\201\317>\335\037\370\370\375\017?\021"
 	.ascii	"b\357~\366\017\261S\353\221"
 	.text
-	.section	.gnu.lto_HardFault_Handler.65e444ce50e65546,"",%progbits
+	.section	.gnu.lto_HardFault_Handler.7cc069eb5a5db515,"",%progbits
 	.ascii	"x\234e\221\277K[Q\024\307\317\367\334\367^\243\351 "
 	.ascii	"\202\016\001'\007\021\213\316\235\244K7\273\364\037"
 	.ascii	"0\265\031\034\332\320g:\006o\222\007\355d\203-hi\024"
@@ -503,7 +503,7 @@
 	.ascii	"\036\240V7\361\344\351\240\233xx?\025O%\356&\335\276"
 	.ascii	"d*\351\016]\001<\211\245\332"
 	.text
-	.section	.gnu.lto_.symbol_nodes.65e444ce50e65546,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.7cc069eb5a5db515,"",%progbits
 	.ascii	"x\234M\222\311NTA\024\206\377\356K\003\0158082\313 "
 	.ascii	"\363<\313\360\002n\\\371\012n}\202\343\242\242\211&"
 	.ascii	"b4\321D\023\203\244V\232\2701\321\004\0272\224\003\216"
@@ -550,7 +550,7 @@
 	.ascii	"\312\333\311W1\314\204\203'\355\304\376 \357fX%\360"
 	.ascii	"\017\207\0323("
 	.text
-	.section	.gnu.lto_.refs.65e444ce50e65546,"",%progbits
+	.section	.gnu.lto_.refs.7cc069eb5a5db515,"",%progbits
 	.ascii	"x\234-\317\301J\002Q\024\006\340\377\377\307qFg4\030"
 	.ascii	"p\245\321\312mo\020=[d+}\207\334Z\352V\320 \"D)\244"
 	.ascii	"l\021\270+\252g\250L\245\237\301\313\3758\227s\017\347"
@@ -563,7 +563,7 @@
 	.ascii	"d\341\211\340\263g\275\260XB9@\271\304$eREr\0005\231"
 	.ascii	"z5\374\003I]*~"
 	.text
-	.section	.gnu.lto_.decls.65e444ce50e65546,"",%progbits
+	.section	.gnu.lto_.decls.7cc069eb5a5db515,"",%progbits
 	.ascii	"x\234\354\275\007\224,\311q\0308\325\331=m\246{\006"
 	.ascii	"\330]\354\202\237\013`\261\000>H\020\004A\210\000!\222"
 	.ascii	"\022\366(\342\000-)\022\024y\002\337\021:Q\007\200\024"
@@ -2105,7 +2105,7 @@
 	.ascii	"\323jX\236n\317[\243\002\2529\215\206M\376\017vW\214"
 	.ascii	"h"
 	.text
-	.section	.gnu.lto_.symtab.65e444ce50e65546,"",%progbits
+	.section	.gnu.lto_.symtab.7cc069eb5a5db515,"",%progbits
 	.ascii	"init\000\000\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\365\004\000\000led_config\000\000\004\000\030\000\000"
 	.ascii	"\000\000\000\000\0005\007\000\000main\000\000\000\000"

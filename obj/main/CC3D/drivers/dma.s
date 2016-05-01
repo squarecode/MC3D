@@ -14,10 +14,10 @@
 	.file	"dma.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.b2061322be4da445,"",%progbits
+	.section	.gnu.lto_.profile.25bf2ac91c7f9997,"",%progbits
 	.ascii	"x\234cf```a\200\000F\206lC\000\001{\000\245"
 	.text
-	.section	.gnu.lto_.jmpfuncs.b2061322be4da445,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.25bf2ac91c7f9997,"",%progbits
 	.ascii	"x\234cf\300\016N@iv\006FF\006\006\020b\372\310\304x"
 	.ascii	"\377\377\365\377\\/\230~21\314i\350h`a`\\\316(\305P"
 	.ascii	"\317\300\300\014\225\237~o\342>V\260\374\006\210\374"
@@ -28,7 +28,7 @@
 	.ascii	"R\014 \005\247\037\375\370\314\0032\200I\200\201q\015"
 	.ascii	"P3;\023##s}=\003\000\342\3619-"
 	.text
-	.section	.gnu.lto_.inline.b2061322be4da445,"",%progbits
+	.section	.gnu.lto_.inline.25bf2ac91c7f9997,"",%progbits
 	.ascii	"x\234cf\300\016\244\030!4;\003\0033\023#\003\023\220"
 	.ascii	"\311\266@\036D102p\010\003E\230.\360\303\205X\004@\302"
 	.ascii	"\314\270$XpI\260\342\222`c\340\006Ip\034\260CH\360\002"
@@ -39,11 +39,11 @@
 	.ascii	"\373\031b\253\310\001;\007\006\246\011\314\012 B\000"
 	.ascii	"Dp\200\010\026p\310\000\000\352\276+\321"
 	.text
-	.section	.gnu.lto_.pureconst.b2061322be4da445,"",%progbits
+	.section	.gnu.lto_.pureconst.25bf2ac91c7f9997,"",%progbits
 	.ascii	"x\234cf``\340g\200\000v\006\006F\011f\011\026\011V\011"
 	.ascii	"6\011v\011\000\006\034\000\304"
 	.text
-	.section	.gnu.lto_dmaNoOpHandler.b2061322be4da445,"",%progbits
+	.section	.gnu.lto_dmaNoOpHandler.25bf2ac91c7f9997,"",%progbits
 	.ascii	"x\234cf\300\004R@|\006\210\225\201\230\221\231\201\221"
 	.ascii	"i\3029\006\206F\016&FF\020\203\201\221\241\236\211\261"
 	.ascii	"\236\361%\323G&\306\011\007V\317\340V_\332\320\320\360"
@@ -59,7 +59,7 @@
 	.ascii	"\314<\375\224\242\314\262\324\242b\375\224\334D\275"
 	.ascii	"d\006\366\344\214\304\274\274\324\034\000\027zT\320"
 	.text
-	.section	.gnu.lto_DMA1_Channel2_IRQHandler.b2061322be4da445,"",%progbits
+	.section	.gnu.lto_DMA1_Channel2_IRQHandler.25bf2ac91c7f9997,"",%progbits
 	.ascii	"x\234eN\261J\303P\024\275\347&\015\301,\322\315\370"
 	.ascii	"\001\025\244\315\257\370\013\245u\350P\207\024\334J"
 	.ascii	"_$\203\223v,\264\272I\253\215\212\025\234\343\350\242"
@@ -78,7 +78,7 @@
 	.ascii	"\327\266\274\252_\333\336\364\033^\265^.U\350\017y\216"
 	.ascii	"i\022"
 	.text
-	.section	.gnu.lto_DMA1_Channel3_IRQHandler.b2061322be4da445,"",%progbits
+	.section	.gnu.lto_DMA1_Channel3_IRQHandler.25bf2ac91c7f9997,"",%progbits
 	.ascii	"x\234eN=K\003A\024|\363\356\203\203k$\235\347\017\210"
 	.ascii	" \311\375\025\377BH,R\304\"\001\273\220=\271\302Jc\245"
 	.ascii	"\340G'F\023O\211`e\344\254\005E,\004\221\330D\320\316"
@@ -96,7 +96,7 @@
 	.ascii	"`eJ\322\225\241\253\212\317l\321o\324\313~\255T]\366"
 	.ascii	"+\365\352\312R\275\341Wj\245b\231\376\000\020\027h "
 	.text
-	.section	.gnu.lto_DMA1_Channel6_IRQHandler.b2061322be4da445,"",%progbits
+	.section	.gnu.lto_DMA1_Channel6_IRQHandler.25bf2ac91c7f9997,"",%progbits
 	.ascii	"x\234eN=K\003Q\020\334\331\273\234\007i$\235\361\007"
 	.ascii	"D\220\344\376\212\177!$\026)b\221\200]\310\273p\205"
 	.ascii	"6\232R\360\243\023\243\211\212\242\326g+\250\210\220"
@@ -114,7 +114,7 @@
 	.ascii	"D\254$\255\014\255*>39\257Z)x\345|i\311+VJ\313\213\225"
 	.ascii	"\252W,\347s\005\372\003/\275h\274"
 	.text
-	.section	.gnu.lto_DMA1_Channel7_IRQHandler.b2061322be4da445,"",%progbits
+	.section	.gnu.lto_DMA1_Channel7_IRQHandler.25bf2ac91c7f9997,"",%progbits
 	.ascii	"x\234eN\261J\003A\024|\363\356r\034\\\241\244\363\374"
 	.ascii	"\200\010\222\334\257\370\013!\261H\021\213\004\354B"
 	.ascii	"v\303\025\2514\245`\264\023\243\211\012\012\246=\301"
@@ -132,7 +132,7 @@
 	.ascii	"C\252\032\237\205BP\257\225\202j\261\262\026\224k\225"
 	.ascii	"\365\325Z=(W\213\205\022\375\001p\003h\213"
 	.text
-	.section	.gnu.lto_dmaInit.b2061322be4da445,"",%progbits
+	.section	.gnu.lto_dmaInit.25bf2ac91c7f9997,"",%progbits
 	.ascii	"x\234\225\222\271K\003A\024\207\337\357\255\256\201"
 	.ascii	"X\210`a\264\263\210\215\311\177am'\330\211ZXh\021\301"
 	.ascii	".\270+A\2554h#x\024\202x$\336\367\311\332\330\010\006"
@@ -157,7 +157,7 @@
 	.ascii	"J\2624\024n\2134\204[\352\233[\303\215\221\346\366\246"
 	.ascii	"H[\270\261\245>\324@\237x\212\"\350"
 	.text
-	.section	.gnu.lto_dmaSetHandler.b2061322be4da445,"",%progbits
+	.section	.gnu.lto_dmaSetHandler.25bf2ac91c7f9997,"",%progbits
 	.ascii	"x\234\225\222\317OSA\020\307wv\337{\255\200\001=!z\360"
 	.ascii	"B\210F\350\325\243'\343\277Q\013&\215\300\241\030o\204"
 	.ascii	"\367\260\032\215\012\310\301\240 \2204j\241X\244(\002"
@@ -197,7 +197,7 @@
 	.ascii	"V\370K\002\"+XZVy*x\"X\026\362\006\374\345\345\307\375"
 	.ascii	"\201\223\277\001\330\302\177\034"
 	.text
-	.section	.gnu.lto_.symbol_nodes.b2061322be4da445,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.25bf2ac91c7f9997,"",%progbits
 	.ascii	"x\234U\310\301\015\202@\020\205\341\177gva\233@\005"
 	.ascii	"\245\316G\011T`8x\360h%\236,\300J\0101l\014;\227\177"
 	.ascii	"\276\347\300\213rv\022\314o\220\270?3vV\370{\311\244"
@@ -205,12 +205,12 @@
 	.ascii	"\31275G\207Q\355n\246)\023\003\237\357\032\210^\032"
 	.ascii	"K\323^o2\217\337\263\001S\2511\001"
 	.text
-	.section	.gnu.lto_.refs.b2061322be4da445,"",%progbits
+	.section	.gnu.lto_.refs.25bf2ac91c7f9997,"",%progbits
 	.ascii	"x\234%\310\301\015\0001\014\002AX\333\027\245\253\364"
 	.ascii	"_U\210\216\307jDI:\372g\013\273^\372e\222\375\021\001"
 	.ascii	"1\205\3124j3hz\345\013M\260u\001\"\371\000\324"
 	.text
-	.section	.gnu.lto_.decls.b2061322be4da445,"",%progbits
+	.section	.gnu.lto_.decls.25bf2ac91c7f9997,"",%progbits
 	.ascii	"x\234\215W}PSW\026\177\347]\022B\010\321\035\272Z\331"
 	.ascii	"qT\3542\355\256\232\025::;\323\231\255\213\333\305N"
 	.ascii	"\265\254\272\177\365\217\014B\250\231\205\350\220\320"
@@ -344,7 +344,7 @@
 	.ascii	"6a\335\277}\342\014Q\261\357\274n\010-\011F\323\347"
 	.ascii	"\350\350\3572 \377\007y$:\343"
 	.text
-	.section	.gnu.lto_.symtab.b2061322be4da445,"",%progbits
+	.section	.gnu.lto_.symtab.25bf2ac91c7f9997,"",%progbits
 	.ascii	"dmaNoOpHandler\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\354\000\000\000DMA1_Channel2_IRQHandler\000"
 	.ascii	"\000\000\000\000\000\000\000\000\000\000\000\357\000"

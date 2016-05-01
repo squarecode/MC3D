@@ -14,27 +14,27 @@
 	.file	"pwm.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.ccdaf98b741b4b3d,"",%progbits
+	.section	.gnu.lto_.profile.7eef6b785d959558,"",%progbits
 	.ascii	"x\234cf```a\200\000F\006;q\000\001\007\000^"
 	.text
-	.section	.gnu.lto_.jmpfuncs.ccdaf98b741b4b3d,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.7eef6b785d959558,"",%progbits
 	.ascii	"x\234cf\300\016\002\24043\003\023##\023\003##s9#\003"
 	.ascii	"\003#2\207\011\310a\256\257gd\372\310\304xq\326\262"
 	.ascii	"f\376\027L?\201\222\014\214\313\031\245\030\300\242"
 	.ascii	"\213\332W\355\341\003\2136800\256\000\0123\000\000\340"
 	.ascii	"h\017\245"
 	.text
-	.section	.gnu.lto_.inline.ccdaf98b741b4b3d,"",%progbits
+	.section	.gnu.lto_.inline.7eef6b785d959558,"",%progbits
 	.ascii	"x\234cf\300\016\202\24143\003\003\033\037#\003\023\220"
 	.ascii	"\311\266@\236\011,\304\303\300\3008\301\217\021\227"
 	.ascii	"\004\023\203\240\002P\202\347\215?\003\327\031\003\204"
 	.ascii	"\014\224d\000\000\027\273\006\230"
 	.text
-	.section	.gnu.lto_.pureconst.ccdaf98b741b4b3d,"",%progbits
+	.section	.gnu.lto_.pureconst.7eef6b785d959558,"",%progbits
 	.ascii	"x\234cf```g\200\000f\006\011F\011&)\000\001\254\000"
 	.ascii	"["
 	.text
-	.section	.gnu.lto_ppmReadRawRC.ccdaf98b741b4b3d,"",%progbits
+	.section	.gnu.lto_ppmReadRawRC.7eef6b785d959558,"",%progbits
 	.ascii	"x\234e\220\315+\204Q\024\306\317s\336w^S,$\242Y\331"
 	.ascii	"L>\222\311\177\240\374\003\362\037L\323`\312\2744\210"
 	.ascii	"\215\\\032\221\205\244\024\212\2224\030f|D!\032;%6\026"
@@ -57,7 +57,7 @@
 	.ascii	"6DE\261\336\246n\273+\022\0157\264\333\315\221\226\306"
 	.ascii	"\256X^\2505h\333\341\266\037\375\013\215\256"
 	.text
-	.section	.gnu.lto_pwmReadRawRC.ccdaf98b741b4b3d,"",%progbits
+	.section	.gnu.lto_pwmReadRawRC.7eef6b785d959558,"",%progbits
 	.ascii	"x\234e\220\315+\204Q\024\306\317s\336w^S,$\242Y\331"
 	.ascii	"L>\222\311\177\240\374\003\362\037L\323`\312\2744\310"
 	.ascii	"l\344\322\210,$\245P\224\2441>\306W\0246c\247d\026,"
@@ -79,7 +79,7 @@
 	.ascii	"\361@W_\264>D%\261xK\257\335\023\211\206\233:\355\326"
 	.ascii	"H[sO\254 \324\036\264\355p\307\017\026\210\215\255"
 	.text
-	.section	.gnu.lto_rxPwmInit.ccdaf98b741b4b3d,"",%progbits
+	.section	.gnu.lto_rxPwmInit.7eef6b785d959558,"",%progbits
 	.ascii	"x\234\215\221MHTQ\024\307\357\377\274\017_\363\374\010"
 	.ascii	"\011\"\203h#\003\3058\320\266\215\320\246E\013i\023"
 	.ascii	"\264\323\301BR\213\311\310\215\370F\007\234U\210Qhe"
@@ -116,18 +116,18 @@
 	.ascii	"\014\227\037>SZVTRx\340d\351\261\242\343yea#\224_\\"
 	.ascii	"\\\220\037:\361\007\312\356Es"
 	.text
-	.section	.gnu.lto_.symbol_nodes.ccdaf98b741b4b3d,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.7eef6b785d959558,"",%progbits
 	.ascii	"x\234cf``hd\200\002&\245z\006\206\011\347\030\030\352"
 	.ascii	"\353\031\346\254\350\340a`R\254gD\025P\256g\202\011"
 	.ascii	"\314[\300\301\300\250Z\317\014\341344\000\271j\365,"
 	.ascii	"\310\\\225zV$.3\020.y\360\217\221\231\221\005B3\261"
 	.ascii	"\"\350\207\377\030\031\000\336B#T"
 	.text
-	.section	.gnu.lto_.refs.ccdaf98b741b4b3d,"",%progbits
+	.section	.gnu.lto_.refs.7eef6b785d959558,"",%progbits
 	.ascii	"x\234cf``\340d\200\000&&&F\026&\006\016\006\000\001"
 	.ascii	"O\000\""
 	.text
-	.section	.gnu.lto_.decls.ccdaf98b741b4b3d,"",%progbits
+	.section	.gnu.lto_.decls.7eef6b785d959558,"",%progbits
 	.ascii	"x\234\225TkLTG\024\276gga\037]\201\026\213\206\266\011"
 	.ascii	"%)\251\215\272\366\221\246?\2154i\372\247\241$\375\325"
 	.ascii	"4\233-\254u\023Xpw)\230\364\307\010\232R%Hi-/\265\340"
@@ -214,7 +214,7 @@
 	.ascii	"\367\026\273\203!\231\370v\032\011,\304\264.--E\263"
 	.ascii	"\336bvf\330-o(J\222\2706\351\007+\376\005\001\225N "
 	.text
-	.section	.gnu.lto_.symtab.ccdaf98b741b4b3d,"",%progbits
+	.section	.gnu.lto_.symtab.7eef6b785d959558,"",%progbits
 	.ascii	"rxPwmInit\000\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\337\000\000\000ppmRead\000\000\002\000\000\000"
 	.ascii	"\000\000\000\000\000\000\343\000\000\000pwmRead\000"

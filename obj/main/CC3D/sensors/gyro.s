@@ -14,10 +14,10 @@
 	.file	"gyro.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_.profile.421a3134b9659614,"",%progbits
 	.ascii	"x\234cf```c\200\000F\206\273L\263\030\001\005Q\001\205"
 	.text
-	.section	.gnu.lto_.jmpfuncs.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.421a3134b9659614,"",%progbits
 	.ascii	"x\234cf\300\016VAi\036 f\006#\020\340\000bN&FF\346\372"
 	.ascii	"znFF\306z^\006\006>\006\006~\006\006\001\240\204 H\204"
 	.ascii	"\221\351#\023\343\305Y\313\232\371_0\375db`d`\\\316"
@@ -26,7 +26,7 @@
 	.ascii	"Z\006\\r+\201r\014\010s@F\211A\230\365@\012\000\005"
 	.ascii	"j\035\307"
 	.text
-	.section	.gnu.lto_.inline.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_.inline.421a3134b9659614,"",%progbits
 	.ascii	"x\234m\220;n\002A\014\206\177{fg\311\276X$\204\004\015"
 	.ascii	"%\012u\224\206#D\332s\204cP\245\241\330\212G\267\025"
 	.ascii	"iS\245AB \345\000\034\000\321&m\232Ht\261w\311\346A"
@@ -42,12 +42,12 @@
 	.ascii	"\363\317Z\307u\256E\355\345\017\374\333B\257U\376\364"
 	.ascii	"\023\010\0071["
 	.text
-	.section	.gnu.lto_.pureconst.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_.pureconst.421a3134b9659614,"",%progbits
 	.ascii	"x\234cf``\220d\200\000\036\006\011f\011\016\011N\011"
 	.ascii	"n\011^\026>\026~\026\001\026A\011\021I1\011\000\024"
 	.ascii	"\346\001\216"
 	.text
-	.section	.gnu.lto_applyGyroZero.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_applyGyroZero.421a3134b9659614,"",%progbits
 	.ascii	"x\234uR\317KTQ\024>\337\271\357\275\371\031JB\213\201"
 	.ascii	"\210\030B\202\362\355\375\013\242m\373H$\302E\0123-"
 	.ascii	"j!\336q&\015\202\224a\002\373\215\013s\312\324\3122"
@@ -81,7 +81,7 @@
 	.ascii	"=\251\264\177\346B\252\247\255\223\234\216\363]\351"
 	.ascii	"?\350\250\017\266"
 	.text
-	.section	.gnu.lto_initGyroFilterCoefficients.part.0.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_initGyroFilterCoefficients.part.0.421a3134b9659614,"",%progbits
 	.ascii	"x\234mRMKTa\024~\317y\357\227^k\206\332\015\004\205"
 	.ascii	"\201\253\234\275\213\350'\264iQ;\221\012\027)\314lj"
 	.ascii	"!\336\321AZH\310\320B\354\003]\250S\246S\246\226_1\201"
@@ -118,7 +118,7 @@
 	.ascii	"\370\265\332\372\206x\362rC\2621\221\214_\275\221h\254"
 	.ascii	"\256SF\355\365\372\344/\221C1\340"
 	.text
-	.section	.gnu.lto_initGyroFilterCoefficients.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_initGyroFilterCoefficients.421a3134b9659614,"",%progbits
 	.ascii	"x\234ePMk\023Q\024\275\347\276\231\311\230\010-\272"
 	.ascii	"2\365\243\222Eq\323\331\370\003\304_\340_\250E\244\013"
 	.ascii	"[H6\272\010y\223\016\342B\264\004\027\025?H\027\325"
@@ -147,7 +147,7 @@
 	.ascii	"\313\034\032\315\214\2453\336\341c\351\261\301a\262"
 	.ascii	"\206\216\216d~\003\375\006\314/"
 	.text
-	.section	.gnu.lto_useGyroConfig.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_useGyroConfig.421a3134b9659614,"",%progbits
 	.ascii	"x\234e\221\301K\033Q\020\306\347{\273Y\003QZ<\006\004"
 	.ascii	"/A\017j\256\036\013\375\007<\350YD\324\012m\"\331\223"
 	.ascii	"\202\370Vrh\261\210H\221@[\021D\215\332\306\232D\245"
@@ -174,7 +174,7 @@
 	.ascii	"x\213\335\021\022\335\372\264\247\263\365I\3375\276"
 	.ascii	"9\262'"
 	.text
-	.section	.gnu.lto_gyroSetCalibrationCycles.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_gyroSetCalibrationCycles.421a3134b9659614,"",%progbits
 	.ascii	"x\234eP\277KBQ\030\375\316}&\202Q\322dBS\210K\370\266"
 	.ascii	"\346 \350\017\350?\260\227\204`J\357\325\340 ^\305\300"
 	.ascii	")\254!\372\015\025\221ei\321\022M.\322\020\024\321`"
@@ -195,7 +195,7 @@
 	.ascii	"ph\312\014\314\207\242\221\361\230\021\016Z\223\301"
 	.ascii	"\271\205\220\031\234\376\005A2~\200"
 	.text
-	.section	.gnu.lto_isGyroCalibrationComplete.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_isGyroCalibrationComplete.421a3134b9659614,"",%progbits
 	.ascii	"x\234eN=K\003Q\020\334\331'\311A\032\261\222\303\332"
 	.ascii	" \204\334o\222 ba\002w\225E\310\273xA\013\021c\353G"
 	.ascii	"\247\236\037\250)%\215\235MP$\205\020DA\022\320\316"
@@ -213,7 +213,7 @@
 	.ascii	"~\301[]\\)z\301R1(\371\201\267\274\346\227\362\005\372"
 	.ascii	"\005_\023a\210"
 	.text
-	.section	.gnu.lto_isOnFinalGyroCalibrationCycle.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_isOnFinalGyroCalibrationCycle.421a3134b9659614,"",%progbits
 	.ascii	"x\234eN=K\003Q\020\334\331\027\342A\032\261\222\303"
 	.ascii	"\376\020B\3567I\020\2610\201\273\312\"\344]<\321J\214"
 	.ascii	"\255\306N\214\037\250$\225\235\235\026r\")\204 \332"
@@ -231,7 +231,7 @@
 	.ascii	"\362\303\240\354\257-\255V\374p\271\022V\203\320_Y\017"
 	.ascii	"\252\2452\375\002j\315b\022"
 	.text
-	.section	.gnu.lto_calculateCalibratingCycles.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_calculateCalibratingCycles.421a3134b9659614,"",%progbits
 	.ascii	"x\234eP\317K\002A\024~\357\315\356&\024!\035\227\356"
 	.ascii	"^\302\375\223\"$\252C\012\356\251\2038nB\235\"\"\"\312"
 	.ascii	"\242\016\221\225?N\036\"\202<\007F\024\010B\012\246"
@@ -253,7 +253,7 @@
 	.ascii	"/\255\305\035w9\356&\222\256\263\262\221LDc\360\007"
 	.ascii	"Z^\205s"
 	.text
-	.section	.gnu.lto_isOnFirstGyroCalibrationCycle.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_isOnFirstGyroCalibrationCycle.421a3134b9659614,"",%progbits
 	.ascii	"x\234eN=K\003Q\020\334\331\273\304\2034b%\207\205]\020"
 	.ascii	"C\3567I\020\2610\201\\\225\342\310\273\344D+1\266~t"
 	.ascii	"b\374\300\217\302\302N\254E\221\200\201\020\264\211"
@@ -271,7 +271,7 @@
 	.ascii	"\277\300814\251\370\272y\317/\027\274\265\245\325\242"
 	.ascii	"\347/\027\375R\331\367V*\345R\276@?\276\323l\243"
 	.text
-	.section	.gnu.lto_performAcclerationCalibration.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_performAcclerationCalibration.421a3134b9659614,"",%progbits
 	.ascii	"x\234\215W\331O\224W\024\277\347~\263\357\202\002\203"
 	.ascii	"\262(AP\213\223\364\245\011i\332&>\364\251/\266\177"
 	.ascii	"\200\024'\225D!\005k\352\203\361c\011\370`\252\022m"
@@ -367,7 +367,7 @@
 	.ascii	"\262\324\375\375\017\005\305\356\345\377\001V\253\246"
 	.ascii	"\265"
 	.text
-	.section	.gnu.lto_gyroUpdate.part.1.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_gyroUpdate.part.1.421a3134b9659614,"",%progbits
 	.ascii	"x\234\215V\355O\233U\024\277\347>}^\332\247/8\346\304"
 	.ascii	"\342`\223-\3702V?\315d&&F\343\037\260/~\306e1\373\260"
 	.ascii	"-\201\304\227\017\270\207\327\020%:\253&\340\230B\342"
@@ -440,7 +440,7 @@
 	.ascii	"\324\277\362\332\253{\212\337\261\025\277\273\277\364"
 	.ascii	"\177\324\206$\330"
 	.text
-	.section	.gnu.lto_gyroUpdate.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_gyroUpdate.421a3134b9659614,"",%progbits
 	.ascii	"x\234uT\337oTE\024\236o\356\357\273-\273lKm61\232\324"
 	.ascii	"\244$Z\226\304H\010\211\017F\343\037\340\253O\225\020"
 	.ascii	"\303\203\220t\037\224\350\246\323\356\026\372`\240\331"
@@ -495,7 +495,7 @@
 	.ascii	"c\257\360y|\345\265W\337h~\327l~o\177\352_\311\265\335"
 	.ascii	"x"
 	.text
-	.section	.gnu.lto_.symbol_nodes.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.421a3134b9659614,"",%progbits
 	.ascii	"x\234U\217IN\303@\020E\277\273\322\216\2238\304\006"
 	.ascii	"\223\005!\023s\230\302<s\025\256RY \201X\000\027\010"
 	.ascii	"\012\010\016\300\025\254\010\026Ha\203\224\035\202("
@@ -516,7 +516,7 @@
 	.ascii	"B\347j\220\274\"\232\241K\326\203\177\364\031\217e\361"
 	.ascii	"\020 \360\013qU\221\010"
 	.text
-	.section	.gnu.lto_.refs.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_.refs.421a3134b9659614,"",%progbits
 	.ascii	"x\234%\215\331\012\302@\024CO\356l]n\255N\265V\3207"
 	.ascii	"\037\005\361\247\375NG\015!\004\022\222\000\274\371"
 	.ascii	"#\200\002\026\245\034\003\321,\005rT\031\255#\212\034"
@@ -526,7 +526,7 @@
 	.ascii	"\246\337\334\312\260\245\225\263\330\022*\272\364\222"
 	.ascii	"\363\001\265\367\005="
 	.text
-	.section	.gnu.lto_.decls.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_.decls.421a3134b9659614,"",%progbits
 	.ascii	"x\234\235Z{TT\327\271\237}\36603\014\003DMMJ\233JL\352"
 	.ascii	"m\233\250\321\364\246\355m\326j\024\037\213\324\030"
 	.ascii	"+f%\315\375\203\"\216J/\202\2051\251\377\334\034\006"
@@ -925,7 +925,7 @@
 	.ascii	"A\304\216\336\250X1\323P\013\341\346\377\000\263\300"
 	.ascii	"\327\213"
 	.text
-	.section	.gnu.lto_.symtab.aa5ed491a6623266,"",%progbits
+	.section	.gnu.lto_.symtab.421a3134b9659614,"",%progbits
 	.ascii	"gyroADC\000\000\004\000\014\000\000\000\000\000\000"
 	.ascii	"\000\242\001\000\000gyroZero\000\000\000\000\000\000"
 	.ascii	"\000\000\000\000\000\000\247\001\000\000initGyroFil"

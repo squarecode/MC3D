@@ -1,5 +1,5 @@
 # 1 "./src/main/build_config.c"
-# 1 "/home/rca/betaflight_MC3D/betaflight//"
+# 1 "/home/rca/betaflight_MC3D/MC3D//"
 # 1 "<built-in>"
 #define __STDC__ 1
 #define __STDC_VERSION__ 199901L
@@ -370,7 +370,7 @@
 #define CC3D 1
 #define __FORKNAME__ "betaflight"
 #define __TARGET__ "CC3D"
-#define __REVISION__ "3f52429"
+#define __REVISION__ "fa1705f"
 # 1 "./src/main/build_config.c"
 # 18 "./src/main/build_config.c"
 # 1 "/usr/lib/gcc/arm-none-eabi/4.9.3/include/stdbool.h" 1 3 4

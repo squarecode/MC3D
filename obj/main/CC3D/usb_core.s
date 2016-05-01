@@ -14,10 +14,10 @@
 	.file	"usb_core.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_.profile.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234cf```c\200\000F\206\311\\\275l\000\004,\001;"
 	.text
-	.section	.gnu.lto_.jmpfuncs.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234mP9\012\002A\020\354\352\021/\360\302\365Z}\204"
 	.ascii	"\377\3611\203\230\012\376\302\353\013>BLM\0041054\263"
 	.ascii	"\217\035E\330e\226\252\251\356\352j&P\371\267\200cF"
@@ -30,7 +30,7 @@
 	.ascii	"\013\3218\225\345L\250H\315\365\271\246\256\233\240"
 	.ascii	"\377L\340\003]\373-\322"
 	.text
-	.section	.gnu.lto_.inline.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_.inline.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234\225R=K\303P\024=\367\2754\246\265m\322/\353G\251"
 	.ascii	"\035\212\243Xp\020\004qpp\312\340\340\244\223\016vp"
 	.ascii	"\027\\\024\034\034\034\362\007\204\012R\005AD\035\004"
@@ -56,12 +56,12 @@
 	.ascii	"\005\0360p}H\255\377\206\0274\347\270\220\203\024\244"
 	.ascii	"n\212\337\214\017<\314i\006"
 	.text
-	.section	.gnu.lto_.pureconst.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_.pureconst.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234%\301I\012\2000\000\004\260\201\212\007\301\015"
 	.ascii	"\353\322\350\007\374\377\007=\230\224$o~5\212No0\232"
 	.ascii	"\314m\261\332T\273\303\351\322p{\362\001HZ\003{"
 	.text
-	.section	.gnu.lto_Standard_GetConfiguration.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_Standard_GetConfiguration.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234uRMHTQ\024\276\347\336\367\336<\347\2159D\253\241"
 	.ascii	"E\033\221\250q\240\010ZdDH\213\250\225\265\226\034\206"
 	.ascii	"\034(\203\261\334\211ot\250\026\026i.\314\354G$3\377"
@@ -103,7 +103,7 @@
 	.ascii	"\261\322\242B\357\221\200/\327\313\264=\276\222\203"
 	.ascii	"G\213\177\001\016\200a\355"
 	.text
-	.section	.gnu.lto_Standard_GetInterface.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_Standard_GetInterface.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234uR]H\024Q\024\276\347\336\231\331qg\315%zZz\350"
 	.ascii	"E$j\\(\202\036\262\"\244\207\250'\353YrYr\241\014\326"
 	.ascii	"\362M\234\325\245z\350O\363\301\314~D2\363\377\247\325"
@@ -145,7 +145,7 @@
 	.ascii	"\276\357x\320\237\355c\332~\177\321\221\023\205\277"
 	.ascii	"\000\260Kb8"
 	.text
-	.section	.gnu.lto_Standard_GetStatus.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_Standard_GetStatus.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234\235VilUE\024\2363w{[\337V\212R@\032\032\266\300"
 	.ascii	"\263\006c\002J\324\030\305\030\365\217h\302\017\223"
 	.ascii	"\312\362\"5ZL\305%1\204\333\276\012J@\026\033\305\005"
@@ -247,7 +247,7 @@
 	.ascii	"\371X\366\314Wgge\3171\336|\"{f\370\255{\376\001\010"
 	.ascii	"\323)\342"
 	.text
-	.section	.gnu.lto_DataStageIn.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_DataStageIn.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234\235VkPUU\024\336k\237\313}_@\023\304\233\205\312"
 	.ascii	"\017\030\033\244\311i\246~\3244f\375hj\246\031\263\037"
 	.ascii	"\3751t\256\305d\352 \3528\223\343\271\\ z\370L\203\312"
@@ -348,7 +348,7 @@
 	.ascii	"\234\343\323\263\322\307\315\236:\325\227iU\257\377"
 	.ascii	"\002\371\000\236\362"
 	.text
-	.section	.gnu.lto_Data_Setup0.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_Data_Setup0.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234\225Y\011tUE\266\255\252\233\274\227\274\314!\023"
 	.ascii	"\031HHH\302\220\201\231\340Bp\341\260\376\222\217\275"
 	.ascii	"\032\005\333\266\225\006\214\335t\323@3h\373\327\347"
@@ -588,7 +588,7 @@
 	.ascii	"Y\236\2356f\332\364\251\326\327G\215\2310=\267\227\365"
 	.ascii	"\365\377\316\235\370\247i\177\376\177s\030\377k"
 	.text
-	.section	.gnu.lto_DataStageOut.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_DataStageOut.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234\235VkLTW\020>s\356\356\335'\354\012-\256\010h"
 	.ascii	"EEk\221\246M_\377\032c\375\321\324\244\211\372\247\177"
 	.ascii	"\250\022lIZm\261\332\370\303x\0270\332F|\225\210Z\253"
@@ -685,7 +685,7 @@
 	.ascii	"\276\227=\353\243/>V'\314\23593;W\225\253\177\000\310"
 	.ascii	"\270\232\232"
 	.text
-	.section	.gnu.lto_Standard_SetInterface.part.0.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_Standard_SetInterface.part.0.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234\225\222QH\223Q\024\307\357\377\336os\266D\351"
 	.ascii	"Q\202\036$F\350\034$A\364\030\322[/Y\3173\307\036\006"
 	.ascii	"Y0\311\247\304\2735\"A#,J\322\212\021\221\245\271f\315"
@@ -722,7 +722,7 @@
 	.ascii	"\360\035ni\362\007\016\205\203\265\001!\367\004\177"
 	.ascii	"\003|\007fX"
 	.text
-	.section	.gnu.lto_Standard_SetInterface.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_Standard_SetInterface.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234}T[H\224Q\020>s\316\177\333\375w\315\242\007\225"
 	.ascii	"\242\207\036\"j[\350\002\325CADo\276dA/a%\033\010]`"
 	.ascii	"%!\310\372W\327(\322\012\313\012\263B\242\262\262LK"
@@ -773,7 +773,7 @@
 	.ascii	"\234`\226\177[\316\206\314\254\255\301\300\234,\306"
 	.ascii	"W\006\376\000\3154\032\223"
 	.text
-	.section	.gnu.lto_Standard_SetConfiguration.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_Standard_SetConfiguration.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234u\224]H\223a\024\307\237\363\274\237nN\245;w\321"
 	.ascii	"]\210\344\353 \373\300\333\220\010\242\233\254k\315"
 	.ascii	"\261\213A\0370I\350B|\247\013\2024\323\204\202\254\240"
@@ -817,7 +817,7 @@
 	.ascii	"\032\374^_MU\300\337\340\013x\352\003^\317\211\372\272"
 	.ascii	"\032\357\361\200\257\334\313\376\001\247a\255\037"
 	.text
-	.section	.gnu.lto_Standard_ClearFeature.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_Standard_ClearFeature.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234\215W{PT\327\031?\337\271\273w\337\260,,*\202\032"
 	.ascii	"\311\014\032E\214\217\032\243qL\324L\333\031'\035M\337"
 	.ascii	"\223\342\213v\314Xu\320$\315\037\216\027\027\201\372"
@@ -958,7 +958,7 @@
 	.ascii	"2\3762\320\232\376\301\204\214?\375j\362\014\323l4\250"
 	.ascii	"d\216\373\305\377\001\243\302\256\244"
 	.text
-	.section	.gnu.lto_Standard_SetEndPointFeature.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_Standard_SetEndPointFeature.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234\205VkLTG\024\2363w\367\356.\373`E@X\037EQ\011"
 	.ascii	"\026\304\364\221\3244i\232F\233\264\211I+\265\351\217"
 	.ascii	"\266\210J\032\022\213-\276\372\307xW(\030E\261T\255"
@@ -1056,7 +1056,7 @@
 	.ascii	">'cF\332\304\254\031_\314\312\314\232\243dO|OM\235\223"
 	.ascii	">g\356ls\332\374\311\031\237}\230>\363?y\337:G"
 	.text
-	.section	.gnu.lto_Standard_SetDeviceFeature.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_Standard_SetDeviceFeature.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234\215\221OL\023Q\020\306\347\233\255\333\255\304"
 	.ascii	"h8\366\304\215\240.\233h\214wC\274y*\234Kizh\342\237"
 	.ascii	"d\211\334\010\257\320\003'C\204\340\001\224\023P-\224"
@@ -1084,7 +1084,7 @@
 	.ascii	"\031\310\2463\311.?;\220\361\275~?\355\335\355\357K"
 	.ascii	"\246\357\370\231\3164\355\003\025l\351\036"
 	.text
-	.section	.gnu.lto_NoData_Setup0.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_NoData_Setup0.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234\215W{lS\327\031?\337\271~?b;\211\235\304v\354"
 	.ascii	"\242\264\012\024\322\300\252jt\223\212\264U\225\246"
 	.ascii	"mL*\253\324\377(e\221\306\304`\013\217\377\020\327I"
@@ -1215,7 +1215,7 @@
 	.ascii	"[0{\276\375\365\212?/\250\2307\177\352\\\327\317\347"
 	.ascii	"\316\231_9w\366\264\3713\346W\374\037\247\272 \016"
 	.text
-	.section	.gnu.lto_Standard_GetDescriptorData.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_Standard_GetDescriptorData.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234\215S[HTQ\024=\373\234\373\230gI\324\217\004\005"
 	.ascii	"b\0221\016\024AET\204E\037F\037\326\267\3440\326@Y8"
 	.ascii	"f_\342\035\035\254\217\224P1+{\210T\246\346\253\264"
@@ -1262,7 +1262,7 @@
 	.ascii	"\231\340\366\272\324\323\007RS\275\356\214\277Ul\204"
 	.ascii	"\276"
 	.text
-	.section	.gnu.lto_Post0_Process.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_Post0_Process.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234uRMhSA\020\236\331}\371\217X\364\026,\352\251\212"
 	.ascii	"\246\021K\361.\305\233\027\243^\243\0159\004\374\201"
 	.ascii	"\024{\013\335\244\221z\020-\376\365`5 \032\253\306\266"
@@ -1298,7 +1298,7 @@
 	.ascii	"\304\327\021\011\372\216t\264\007\202\207#\241\346 "
 	.ascii	"\374\006\2037/u"
 	.text
-	.section	.gnu.lto_Setup0_Process.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_Setup0_Process.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234\225VkL\223W\030>\357\367}\375Zh\271\016Ej\024"
 	.ascii	"\024R\360R\353\266\230\370G\227\030c\226%\3733\235\177"
 	.ascii	"\335$\230\220l\323\340t\277\214_/Sg\306\346p\031L\255"
@@ -1384,7 +1384,7 @@
 	.ascii	"\244hJ!S\226\314Z\266H]\274h\321\322\242\317U\032\347"
 	.ascii	"-\374\037\237\271'\321"
 	.text
-	.section	.gnu.lto_Out0_Process.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_Out0_Process.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234\215TmH\224Y\024>\347\336\367k\234\031'\214`\361"
 	.ascii	"\317\006\005\0255\016\024A\277\\\330\244\177\301\202"
 	.ascii	"\365\333L\346\207P\031\223\333\217@z\235\004\373%RK"
@@ -1439,7 +1439,7 @@
 	.ascii	"\221pA\031\370VVl\252\214Tl(\256,\255\014\177\003U\303"
 	.ascii	"\015\364"
 	.text
-	.section	.gnu.lto_SetDeviceAddress.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_SetDeviceAddress.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234uT]h\\E\024\2363s\367\336\273\273I\266I\033\204"
 	.ascii	"\025\212\020J\221\232.*\202\017\305?j_D\020\242\276"
 	.ascii	"\3066\346a\241\266\222b\237,\235\375!\021\021\033\027"
@@ -1495,7 +1495,7 @@
 	.ascii	"vlim\333\336\321\276\276M\250W7o\245\264\332\366\374"
 	.ascii	"K\377\002\245q\314\373"
 	.text
-	.section	.gnu.lto_In0_Process.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_In0_Process.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234\215U]lTU\020>s\356\377v\267\273\320n1\213F\023"
 	.ascii	"\036\200\350\262Fc\354\023&\332\370\244\211I\365\315"
 	.ascii	"X\333f\023\233 5\245\362d\323\333m\265>\240i\252\361"
@@ -1563,7 +1563,7 @@
 	.ascii	"\265\2522\\VRS\2655\\\023\332RS\031zwKEYeuMxC%s\277"
 	.ascii	"P\275\271\266\246zSimym\370\177{\303\314\025"
 	.text
-	.section	.gnu.lto_NOP_Process.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_NOP_Process.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234cf\300\004R@\\\001\304\346@\314\310\314\300\310"
 	.ascii	"4\341\034\003C#\007\023##\210\301\300\310P\317\304X"
 	.ascii	"\317\370\222\351#\023\343\204\003\253gp\253/mhh\370"
@@ -1576,7 +1576,7 @@
 	.ascii	"x\227\242\314\262\324\"\375\342\242d\375\322\342\244"
 	.ascii	"\370\344\374\242T\275d\006\000\317\"<\336"
 	.text
-	.section	.gnu.lto_.symbol_nodes.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234U\320Mk\023Q\024\006\340w\346\334\231\306\330I"
 	.ascii	"2&\343$\235\246i\233\246j\375\376\376\326\377\342\306"
 	.ascii	"\235\177\341\224\020T\"\250\264\241\213\226J\033\262"
@@ -1607,7 +1607,7 @@
 	.ascii	"n\200\360\211\017\031\315\366'\371\237\377\002x\203"
 	.ascii	"\357L"
 	.text
-	.section	.gnu.lto_.refs.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_.refs.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234EO1N\003A\014\234\361\2569\337\355%9.\271K\000"
 	.ascii	"\201(\002H\010)AQh\371\011\317\241\240\201\212\017!"
 	.ascii	"\012~\000\025\022\015\242\241\340\005x\257\200\325\216"
@@ -1624,7 +1624,7 @@
 	.ascii	"\254\220&`\307}\324\324\203!ep\3214\007\017\361\013"
 	.ascii	"\217\223\031\220"
 	.text
-	.section	.gnu.lto_.decls.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_.decls.86ad5e4fef303a61,"",%progbits
 	.ascii	"x\234\255Z\011TTW\232\256[\267\200\242(\300\304\304"
 	.ascii	"\244M\2465\244\207I\347$\321^\246\247\317\351\231\356"
 	.ascii	"\030%\211\231\216\022\300t\317\3649C\243\226\206n\005"
@@ -2035,7 +2035,7 @@
 	.ascii	"\361y\303\227\201F\205?\346:\370\277\007\011\201\226"
 	.ascii	"\376/\300\240\004q"
 	.text
-	.section	.gnu.lto_.symtab.61dd241d141cbdf9,"",%progbits
+	.section	.gnu.lto_.symtab.86ad5e4fef303a61,"",%progbits
 	.ascii	"Standard_GetConfiguration\000\000\000\000\000\000\000"
 	.ascii	"\000\000\000\000\000\300\000\000\000Standard_GetInt"
 	.ascii	"erface\000\000\000\000\000\000\000\000\000\000\000\000"

@@ -14,10 +14,10 @@
 	.file	"rx.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_.profile.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234cf```c\200\000F\206?\234OY\000\006{\001\371"
 	.text
-	.section	.gnu.lto_.jmpfuncs.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234\205TK+EQ\024^k\237+\014\\\241\210\011R\036y\026"
 	.ascii	"I\036\345o\310\324\1770\3229\030x\014\030\210d\240\030"
 	.ascii	"x\\\357\367\373q\275\315\210b\"dB\231(%\351\226\265"
@@ -46,7 +46,7 @@
 	.ascii	"\273[e\274T\361\354\322\023jo\262\316\315\213\376\327"
 	.ascii	"I8\257jA\350)U#\302>\001\330\356Q\362"
 	.text
-	.section	.gnu.lto_.inline.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_.inline.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234mUKo\024G\020\376\272\247\347\261\343\361\356z"
 	.ascii	"M\214\3318\361\032\004\006%\230H \204 \240\371\001h"
 	.ascii	"o\271E\342\022\203\341W,\007\"\203\020\254,p\020\001"
@@ -97,14 +97,14 @@
 	.ascii	"\\\322\366.\213\252\340[\204]\237\276\003$\375\255p"
 	.ascii	"\015M;\263K\341\217\016\3124>\000a\020\001\352"
 	.text
-	.section	.gnu.lto_.pureconst.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_.pureconst.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234%\301\271\016@@\024\005\320'\363\246\320H\220p"
 	.ascii	"\3574Lc\2115!b\255\374\377?)\234cD\344\225\237\027\011"
 	.ascii	"\254\201E\210\2101\022\244G\306\234D\201\022\236\025"
 	.ascii	"j4\256e\307\236\203\035u\322\031\013Vl\272\273\223\027"
 	.ascii	"n>\356\003\344\252\007\244"
 	.text
-	.section	.gnu.lto_nullReadRawRC.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_nullReadRawRC.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234ePKK\202Q\020\235s\257\251`\221\024D\270jc\022"
 	.ascii	"\224\376\005\241\177\320?\020\261\022\362\013\254\300"
 	.ascii	"\235\237\341:\242ZH-\012,zk\357\2606\326\246 4\332\344"
@@ -126,7 +126,7 @@
 	.ascii	"\237:\303\221\221\031m:\030\012\014Oj\243\3011\213\177"
 	.ascii	"\334\247i\201\211?\014\366\204J"
 	.text
-	.section	.gnu.lto_isPulseValid.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_isPulseValid.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234\215Q]K\024a\024>\317ygf\247tI\012\272\230\213"
 	.ascii	"n\314\226H\335\177P\021\375\220D\272\220\312bM\360F"
 	.ascii	"|W\027\332n\"L\010R\353\"\242\355k\327\217\224\202 "
@@ -155,7 +155,7 @@
 	.ascii	"RGWw2\325'o{'\305\257\364^\3549\177\2667\325q\265\353"
 	.ascii	"r\367_\364\363\322*"
 	.text
-	.section	.gnu.lto_rxUpdateFlightChannelStatus.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_rxUpdateFlightChannelStatus.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234uRMkSA\024\2353\363\346\345\345%\210(H\011\330"
 	.ascii	"\215\206\242H\337_\020\227\376\012C,X\250YT\0217\245"
 	.ascii	"\223\017\260.\214%d!\370\265\220b\264\232X\305\256\\"
@@ -186,7 +186,7 @@
 	.ascii	"\277H\357pV\304\262g2\271\334\310\230\276\220\031\033"
 	.ascii	"=\275\015\014\030\351\365"
 	.text
-	.section	.gnu.lto_resetRxSignalReceivedFlagIfNeeded.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_resetRxSignalReceivedFlagIfNeeded.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234u\221MOSQ\020\206\347\235s\356G)1\006\023\027,"
 	.ascii	"\214.\220\035\375\007j\374\015\376\000\265a\301\002"
 	.ascii	"\026U\0227\204\323\322D\027\306\220\246\213&\212\033"
@@ -217,7 +217,7 @@
 	.ascii	"R\327\344\355KR<9\234J\365\017]\27500\330\377\007P\027"
 	.ascii	"\000."
 	.text
-	.section	.gnu.lto_calculateNonDataDrivenChannel.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_calculateNonDataDrivenChannel.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234\215U_L\233U\024\277\347~\375\376\364\337\332P"
 	.ascii	"(Ma,J\010\232\340\372\344\313\236\366\352\2131\361\305"
 	.ascii	"\007_\020I4q\304\300\226,&\313>Z\262\355\011\0351\004"
@@ -282,7 +282,7 @@
 	.ascii	"7\332\253\332\016tv\266w\354\177QH\317u\274\332~\320"
 	.ascii	"\331\265\265\377\017\321\216\312\276"
 	.text
-	.section	.gnu.lto_getRxChannelCount.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_getRxChannelCount.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234\225\223\315OSA\020\300gv\337Gi1\030L<\220\250"
 	.ascii	"1\034\210Q\350\237\340\301\253w\257Vb\242\211\364P."
 	.ascii	"\\\010\333\217\210F#\212$\230\010\230\032\025T\244\026"
@@ -319,7 +319,7 @@
 	.ascii	"\033\350\240OK+x\332|\035\207N\370\374\376\343\247\332"
 	.ascii	"\177\000^\371Z\262"
 	.text
-	.section	.gnu.lto_isRxDataDriven.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_isRxDataDriven.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234cf\300\004R@|\035\210E\201\230\221\231\201\221"
 	.ascii	"i\3029\006\206F\016&FF\020\203\201\221\241\236\211\261"
 	.ascii	"\236\361%\323G&\3063;\377]fT_\332\320\320\364\341\322"
@@ -335,7 +335,7 @@
 	.ascii	"5@K\205\365\364\213\213\222\365s\0233\363\364\213*\200"
 	.ascii	"H/\231\001\000\034JR\222"
 	.text
-	.section	.gnu.lto_applyRxChannelRangeConfiguraton.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_applyRxChannelRangeConfiguraton.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234mR[KTQ\024^\337\336\347\234\231qF\307\212\"\006"
 	.ascii	"\222H\314 tz\350\245\267~@\177BD\"H\011}\351E<^\300"
 	.ascii	"y\022\261\260!2\002\221\322J\363\222\346\015\224\300"
@@ -373,7 +373,7 @@
 	.ascii	"\312\377\322r\262j\312*\257\\\2560\253\313\252.V\374"
 	.ascii	"\001*\256%\357"
 	.text
-	.section	.gnu.lto_readRxChannelsApplyRanges.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_readRxChannelsApplyRanges.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234\205U}L\225U\030?\317y\357}\337\367~q\371\026\310"
 	.ascii	"Y\333\255\261V@\375S\177\350\037m\256\277Z[k\265\346"
 	.ascii	"\326*\306\330j\023d\210\323\266\230/\037\006\263bFN"
@@ -450,7 +450,7 @@
 	.ascii	"\376t\343\226m\2319a\226\360\235-o\247g\244f\375\013"
 	.ascii	"\273B\012\376"
 	.text
-	.section	.gnu.lto_getRxfailValue.part.0.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_getRxfailValue.part.0.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234u\222\333KTQ\024\306\367\267\317\305\321\321\232"
 	.ascii	"\012\"\006!Ad\014R\037z\353)\210\372\033z\035Dk\300"
 	.ascii	"F\320\202^\3043\323\020\202(a=HiYa\231\346\245\213\226"
@@ -490,7 +490,7 @@
 	.ascii	"H\317?\345\366z\013\212\216\273=E\245\356\302\202\243"
 	.ascii	"\305\336B\317\311\263%\3563\236boR|\361\017E\264`D"
 	.text
-	.section	.gnu.lto_getRxfailValue.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_getRxfailValue.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234\225\224\333O\\E\030\300\347\23397\330]X\332\244"
 	.ascii	"\211\033\323\032\233\246\030\245\373\340\233\017\306"
 	.ascii	"\304\304'\023\377\006Bh%V\232P\233\370Bz\226n\255\011"
@@ -557,7 +557,7 @@
 	.ascii	"\337\257\225V\354\334]\272\275\374\325]\225\333+v\354"
 	.ascii	"\251*}\247bW\345?\352q\225\204"
 	.text
-	.section	.gnu.lto_detectAndApplySignalLossBehaviour.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_detectAndApplySignalLossBehaviour.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234\235WmP\224\327\025\276\347\276\373\005\273\354"
 	.ascii	".,,\260\202H\320a\034\015\350L;\306\211\312t\232\351"
 	.ascii	"\264?2\323\351d\232\177\231RK\033f\200$\0202\376\250"
@@ -681,7 +681,7 @@
 	.ascii	"\\_Y^^T\366\374\343\305%%\305O\024\227\026\305\277P"
 	.ascii	"XR\374\273_V\226T\024\375\007\"\305\357\210"
 	.text
-	.section	.gnu.lto_calculateRxChannelsAndUpdateFailsafe.part.1.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_calculateRxChannelsAndUpdateFailsafe.part.1.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234uPMk\023Q\024\275\347\276\351dd\026V\005\027])"
 	.ascii	"\2454\013i~\202\376\210\376\000%t\321E\273\030\025\334"
 	.ascii	"\204\276| YI\011.\342G\244\"\266\265\255ik\255`\027"
@@ -710,7 +710,7 @@
 	.ascii	"\023C\231\213A63vat<\023\\\221w(K~\366r\020\214\214"
 	.ascii	"_\032\036\035\033\371\007!\375\344\315"
 	.text
-	.section	.gnu.lto_calculateRxChannelsAndUpdateFailsafe.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_calculateRxChannelsAndUpdateFailsafe.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234mRMkSQ\020\235s\357\373H\233\240E%\213\272\261"
 	.ascii	"\213\232\256\032p\323\255{\267\376\0005t\321E\273\210"
 	.ascii	"\012nBo>(]H(\305\305\2036b\021kmkj\243U\373\201\004"
@@ -745,7 +745,7 @@
 	.ascii	"{\261\247/\034\275\306Og\204\374\221\253\321hw\337\225"
 	.ascii	"\363=\275\335\177\0005\363'\232"
 	.text
-	.section	.gnu.lto_updateRSSIADC.part.2.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_updateRSSIADC.part.2.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234uVmLSW\030>\357\271\267\367\266\264\264\245|#\352"
 	.ascii	"2f\3302\221\237\373\263d\373\273,K\226m\331\237\355"
 	.ascii	"\307\0104\213\311 \013\270\304?\306[J\212Y\366\201\335"
@@ -824,7 +824,7 @@
 	.ascii	"\234\277[R\376\351'^g%N\337\366V\226\242f\311\307^{"
 	.ascii	"\225\220\276QQ\346\335\372\037\257KC\267"
 	.text
-	.section	.gnu.lto_updateRSSIADC.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_updateRSSIADC.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234uR]H\024Q\024\276\347\334\331\231]\307B\012z\220"
 	.ascii	"\036\"\021\011B\211^\213z\215\010\242\242\247\036\332"
 	.ascii	"\326!\204\\bw\003_\314;\353R\021Q*FZY+\221Y\332\232"
@@ -863,7 +863,7 @@
 	.ascii	"\365\257Y\261\017z\313O\2360\326\006\310\334o\004|\024"
 	.ascii	"\351=n\350A\033\335\343/5*~\001\3310+s"
 	.text
-	.section	.gnu.lto_useRxConfig.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_useRxConfig.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234e\220OKBA\024\305\357\271\363\020C\202(\010q\025"
 	.ascii	"\204\270\011\375\000m\202\026}\201\372\000!\025.R\320"
 	.ascii	"\215\033q\236\030\270\012k\021B\1776\025Y\226\202\255"
@@ -884,7 +884,7 @@
 	.ascii	"\305\331X<\222L\233\035\216R\1772=\231\210\317\307\026"
 	.ascii	"\246\0233\251\271_r\021vp"
 	.text
-	.section	.gnu.lto_resetAllRxChannelRangeConfigurations.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_resetAllRxChannelRangeConfigurations.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234\215\222\317O\023A\024\307\347\373f\273\024\212"
 	.ascii	"\226hB\010\0364\251\015\007\0025z\347\302\205\030O\376"
 	.ascii	"\007\015Al\242%\251\232\020/,P!\361D\360\322(\370\013"
@@ -921,7 +921,7 @@
 	.ascii	"\210\036\213\264\237\211\205OG:\242\210\374\002\372"
 	.ascii	"K\004\300"
 	.text
-	.section	.gnu.lto_serialRxInit.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_serialRxInit.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234\225\227kL\024W\024\307\357\271\2633;\373\022\212"
 	.ascii	"\321\020L\320\306X\323\207\362\271_\232&\375\336~j\372"
 	.ascii	"\241I\023kmcbm\242\037j\323\020gq}+\"\242\"\276\037"
@@ -1007,7 +1007,7 @@
 	.ascii	"\223\2472}\326\234\217\276\233\371\365\364o\274\323"
 	.ascii	"fN\371r\306\264\257\376\001`[{2"
 	.text
-	.section	.gnu.lto_rxInit.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_rxInit.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234\215W{P\224\327\025\277\347~\373\202\335\205]\036"
 	.ascii	"\313\272*\242\200hx\231\350X\247f\034::\375\2473\375"
 	.ascii	"+\231\366\237\376a\015\3550\323\350\214\332L\2463L>"
@@ -1136,7 +1136,7 @@
 	.ascii	"[\253\377\364\347\302\224(\014\366\020\302k\353^\337"
 	.ascii	"P\370?8\012G\213"
 	.text
-	.section	.gnu.lto_serialRxFrameStatus.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_serialRxFrameStatus.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234m\224\313O\023a\020\300\277\371\366\335R\013V="
 	.ascii	"\364`<h\214Q\340\344\335\304\243\377\204\006\243\361"
 	.ascii	" &x\361B\330b5\032\021P\300\007\212\022ED\005T\012\025"
@@ -1187,7 +1187,7 @@
 	.ascii	"\225\024\357\336\266\253\264\270l\037\276\213J\204Y"
 	.ascii	"\266o\363\236\322\035\273v\376\001\274\024\3376"
 	.text
-	.section	.gnu.lto_calculateChannelRemapping.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_calculateChannelRemapping.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234eP\317KTQ\024\276\337\271w\036\243S\"\375Bf\021"
 	.ascii	"\265\030$\010\037\024\270h\025TK7\321\037\3200\014\024"
 	.ascii	"\344S\246\011r\345\235q\240\250\215\305\200#\246.B\314"
@@ -1216,7 +1216,7 @@
 	.ascii	"\351\212\367\036\370\237\236\363\322\251\2763=\327\274"
 	.ascii	"t\313\016x\241\347|\262;\336\373\017y\354\307<"
 	.text
-	.section	.gnu.lto_rxIsReceivingSignal.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_rxIsReceivingSignal.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234cf\300\004R@|\015\210E\201\230\221\231\201\221"
 	.ascii	"i\3029\006\206F\016&FF\020\203\201\221\241\236\211\261"
 	.ascii	"\236\361%\323G&\3063;\377]fT_\332\320\320\364\341\320"
@@ -1231,7 +1231,7 @@
 	.ascii	"##\324@\260\215\214 \233\200La=\375\342\242d\375\334"
 	.ascii	"\304\314<\375\242\012 \322Kf\000\000\037\360R\342"
 	.text
-	.section	.gnu.lto_rxAreFlightChannelsValid.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_rxAreFlightChannelsValid.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234cf\300\004R@|\015\210E\201\230\221\231\201\221"
 	.ascii	"i\3029\006\206F\016&FF\020\203\201\221\241\236\211\261"
 	.ascii	"\236\361%\323G&\3063;\377]fT_\332\320\320\364a\322\354"
@@ -1246,7 +1246,7 @@
 	.ascii	"\270\032(\314p\217\221\021j \330FF\220M@\246\260\236"
 	.ascii	"~qQ\262~nbf\236~Q\005\020\351%3\000\000\277zRe"
 	.text
-	.section	.gnu.lto_suspendRxSignal.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_suspendRxSignal.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234m\220\315K\002a\020\306\347\231]u\303\202(\202"
 	.ascii	"\022\352\320\245\233\3767]:\205\247\016u\260K\027qM"
 	.ascii	"\213N%V\020\364E\207\312\262\264\017\272uX(\242.}BA"
@@ -1269,7 +1269,7 @@
 	.ascii	"\017\214\206\202\201\341\301\241\221@hL^\177\220~\000"
 	.ascii	"T>\255\363"
 	.text
-	.section	.gnu.lto_resumeRxSignal.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_resumeRxSignal.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234m\220\275K\003A\020\305\347\315\231\313I,D\021"
 	.ascii	"T\320\322t\311\177c/\251,\264\210\215M\310\236F\260"
 	.ascii	"2AP\004\215`!F\243\371@\354\017\005\355\014\"(\210\250"
@@ -1289,7 +1289,7 @@
 	.ascii	"\340z\227\363\001I\332/h\237\004\030\217\305W\222\211"
 	.ascii	"\370\322\302\342r<\271*3\226\240_Z\006\224\342"
 	.text
-	.section	.gnu.lto_updateRx.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_updateRx.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234\245\226\373O\034U\024\307\357\271\263;\263\273"
 	.ascii	"\263\257ny\330\015\266D$`\202\020R\023\023\177\261\377"
 	.ascii	"CM\374\27165\351\017\364\207-M\374\205t(\013E\023\265"
@@ -1364,7 +1364,7 @@
 	.ascii	"\227\366V\355\321_\215\354\252\332\263\263zW\365\201"
 	.ascii	"\375\377\001\377\270\346y"
 	.text
-	.section	.gnu.lto_shouldProcessRx.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_shouldProcessRx.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234mP\313KTa\024?\277\363\335\373\335k\323\242\007"
 	.ascii	"D\\\"z\211\004\342\245Mki\333\266\177 \006\027.t1\025"
 	.ascii	"\264\021\277\031'l\021\021R\020hmD\233\312\306\264\210"
@@ -1395,7 +1395,7 @@
 	.ascii	"\235\335q\352\254\234\266$%\222gR\251\216\356\323':"
 	.ascii	"\273:~\000\321&\324\006"
 	.text
-	.section	.gnu.lto_parseRcChannels.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_parseRcChannels.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234uT\337oTE\024\236o\346\376\332\275\273\335\246"
 	.ascii	"\030b\032cL\232\246\032-\373\310\013\011&\376\023>j"
 	.ascii	"\232h\372`5E\023^*\263\333\225\022h`\003\225l\203H\225"
@@ -1450,7 +1450,7 @@
 	.ascii	"\014\332\267\276\361~\333;\255\357\242\005[\376\001"
 	.ascii	"r\251\332\007"
 	.text
-	.section	.gnu.lto_updateRSSIPWM.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_updateRSSIPWM.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234\215S[KTQ\024\336k\2373s\216sqF%\213\211z\021\262"
 	.ascii	"\010\235\207\036\013\372\017\375\202\302\247\036\214"
 	.ascii	"\320\240\036\222\316\250L>D\210J^\313\014*\313\312\314"
@@ -1499,7 +1499,7 @@
 	.ascii	"\360\311/\020\326\376\203\205\273\212\213\367\376\004"
 	.ascii	"\334\276\304\351"
 	.text
-	.section	.gnu.lto_updateRSSI.part.3.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_updateRSSI.part.3.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234eO\317+DQ\024>\337\271\367=\217\261\020e1\013\261"
 	.ascii	"\220\235\371\003l\374\0216v4\315\302\202\305\240lp1"
 	.ascii	"I)I\026,\260\220\374\032Cd\341\255^J\331 \011)\261\031"
@@ -1523,7 +1523,7 @@
 	.ascii	"\216\256D\272O^c\222b\311\336t:\325\325\323\322\321"
 	.ascii	"\231\372\006g\346\232Z"
 	.text
-	.section	.gnu.lto_updateRSSI.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_updateRSSI.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234m\220AK\025Q\024\307\317\377\334\231y\243c$\005"
 	.ascii	"-\\\210-\036.B\347\013\264\3603D\037\240z\270p\241\213"
 	.ascii	"\227A\233\207w\236C\264\210\220W\013Q\253ET\232\366"
@@ -1552,7 +1552,7 @@
 	.ascii	"\213\205\260\377|\337@X\274,ow\201\202\302\245b\261"
 	.ascii	"w`\360l_\177\357o\273\300\312s"
 	.text
-	.section	.gnu.lto_initRxRefreshRate.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_initRxRefreshRate.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234e\220_+\303a\024\307\317\367<\333\254\226\022\345"
 	.ascii	"bWnfw\366\026\274\004y\001\302\232\270\340\342\307\305"
 	.ascii	"n\344\331ZRJ\222\213\345\357\205d\230aE\341\346w%)\244"
@@ -1575,7 +1575,7 @@
 	.ascii	"w\306\372\234\330p\177g\317H\254c\304\371\003t.\212"
 	.ascii	"0"
 	.text
-	.section	.gnu.lto_.symbol_nodes.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234U\222\333SSW\024\306\277sv\016\027\305p\211\202"
 	.ascii	"Gmc\274\2401\021Q\2167\202\241\177\200\377\202\376#"
 	.ascii	"\316\2700\3038\216<\330\031\037\372\242-\315\360\320"
@@ -1629,7 +1629,7 @@
 	.ascii	"(\375\342\211X\365\337\247\247\033\211\333\236\350\211"
 	.ascii	"!\371s\316\302\377\233\015>A"
 	.text
-	.section	.gnu.lto_.refs.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_.refs.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234\035\220\335r\3320\030Dw?\331\222lc,\214\014\302"
 	.ascii	"6\2648$\035D\333\024ZB\351\317\364\325\233\233\246\323"
 	.ascii	"G\350\323\304\311^\355\315\316\2369\012\300\177\342"
@@ -1651,7 +1651,7 @@
 	.ascii	"\340L\\\224\372*W%W-W\253\276\275x\017\232\267K\376"
 	.ascii	"\030-\363'\"\361\014\033\245 z"
 	.text
-	.section	.gnu.lto_.decls.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_.decls.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"x\234\275|{XTW\226o\235\332UP\024\005\0305&!\223\211"
 	.ascii	"\261\323Nz&\035\363\350\236\356\2713\337\355\370J\242"
 	.ascii	"\255\321A\323\235\231\371\346\363\022(#\323\010v\025"
@@ -2336,7 +2336,7 @@
 	.ascii	"M+\264[\274I\324\374&d\245\2173\206\202md\345v\344\015"
 	.ascii	"\335\356/\\\277\243\267-R_\374?cu\035\366"
 	.text
-	.section	.gnu.lto_.symtab.e4f63857cbed953,"",%progbits
+	.section	.gnu.lto_.symtab.e3f6cd000bb1a2ad,"",%progbits
 	.ascii	"rxRuntimeConfig\000\000\004\000\002\000\000\000\000"
 	.ascii	"\000\000\000\221\002\000\000rcRaw\000\000\004\000$\000"
 	.ascii	"\000\000\000\000\000\000\307\002\000\000rcData\000\000"

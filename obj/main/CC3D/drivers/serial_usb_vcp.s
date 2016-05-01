@@ -14,10 +14,10 @@
 	.file	"serial_usb_vcp.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_.profile.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234cf```e\200\000F\2069L\311\000\002\305\001\013"
 	.text
-	.section	.gnu.lto_.jmpfuncs.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234mN\271\021\2000\014\263l\236\360\0365\213\246\314"
 	.ascii	"\034L\000\333pL@CAKI\207\235\244\304\205t\326\311\222"
 	.ascii	"\205\376g\311<\022\003\312H\024Q\014J\000\241\"\252"
@@ -26,7 +26,7 @@
 	.ascii	"\332\200J#X\274\365\371(\017\251b\212\217\320\007\255"
 	.ascii	"@\016j"
 	.text
-	.section	.gnu.lto_.inline.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_.inline.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234m\221\277N\3030\020\306\277\263\235\304m\022cU"
 	.ascii	"\250HH\2102u\250\304S0\3479\312c\260u`\310\310\330\011"
 	.ascii	":#\006\244\256\354\300\013\300\202PG\220\020\022\033"
@@ -44,12 +44,12 @@
 	.ascii	"\350\332\237\241\255\270\316\311a\027\275\037\241\361"
 	.ascii	"0xDy\357s%\033\277\020\366>\357"
 	.text
-	.section	.gnu.lto_.pureconst.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_.pureconst.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234cf``\220e\200\000>\006\006F\006&\006f)V)6\006v"
 	.ascii	")\016)N).\013n\013\036\011^\011\001\011\000\026\311"
 	.ascii	"\001\320"
 	.text
-	.section	.gnu.lto_usbVcpSetBaudRate.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_usbVcpSetBaudRate.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234eO\277K\303`\020\275wI\323J\035\304I29X\2725\216"
 	.ascii	"\216\216\316\376\003%M3\004\264H\322v\355\247Vp,N\235"
 	.ascii	"-b\355/A\035\2648\324I\021\024\305\301I\247\026t\021"
@@ -69,7 +69,7 @@
 	.ascii	"\263\221r(\346\345\202\274\235s\334X\306.dW\355\274"
 	.ascii	"\373\003\036\276n\253"
 	.text
-	.section	.gnu.lto_usbVcpSetMode.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_usbVcpSetMode.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234eO=K\003Q\020\334\331w$\201(\210\225\\ea\010\202"
 	.ascii	"\344,\374\001\371'!^\25680Q\3564m\236\022\373h\225Z"
 	.ascii	"\221\304|\234 \012j\025;\033-l\202\215U\202\246\221"
@@ -89,7 +89,7 @@
 	.ascii	"\300\337\316\225\355\275\214M\011\267\344\357\347K\266"
 	.ascii	"c\024w\013\316/\272\332n\000"
 	.text
-	.section	.gnu.lto_isUsbVcpTransmitBufferEmpty.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_isUsbVcpTransmitBufferEmpty.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234eO=K\003Q\020\334\331\0131\020A\021\004\271\312"
 	.ascii	"\302p\010\222\373\013\376\223p\236)\0164\310\235\246"
 	.ascii	"\315\213\306^\254\304RQc\214\021\304\302\010\302Yi\341"
@@ -107,7 +107,7 @@
 	.ascii	"\3710r\243|\030xs\271\245h&W\364\027\262>\245\202B\264"
 	.ascii	"\350\025\374\374\037\336\235d\337"
 	.text
-	.section	.gnu.lto_usbVcpAvailable.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_usbVcpAvailable.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234eOMKBQ\020\2353\317\217\007\266\210\226\256\202"
 	.ascii	"\022\011\302\367\027Z\364\007\372\005f\346B(\011_\271"
 	.ascii	"\023\257\342\242U\224\004\005Q\004Q\231\231b\264\310"
@@ -130,7 +130,7 @@
 	.ascii	"_0\247\374\261\340\234/Hz8b\316\007\"\301\320\017\034"
 	.ascii	"\014\2035"
 	.text
-	.section	.gnu.lto_usbVcpBeginWrite.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_usbVcpBeginWrite.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234m\221\313k\023Q\024\306\317wf:\011\246\245\342"
 	.ascii	"\256\331(\304\222\205\264q\343\312\205\256\335\365/"
 	.ascii	"\2101f\021\2601\314\304n{\223F\020qQ\252\213V\015UD"
@@ -159,7 +159,7 @@
 	.ascii	"\251\013\311K\316\271dO:\337\231\246p6\347\024R\271"
 	.ascii	"t\306\314_\264\013V2\331\235/\330\177\0015T\276\317"
 	.text
-	.section	.gnu.lto_usbTxBytesFree.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_usbTxBytesFree.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234eM?\013Aq\024\275\347>\241,2\232EJ\357}$\177\036"
 	.ascii	"\303+\244\367b\365#\037@R\224L\022&\263Ef\311\"\331"
 	.ascii	"L\024\033\231\014<\3677\273u:\267{\316=\307\240\377"
@@ -172,7 +172,7 @@
 	.ascii	"\323\362\\\333\252\344\235\252Ut\235F\311\365,\257\344"
 	.ascii	":\371r\266\356\025\262\015\273f\332\364\003\371EC]"
 	.text
-	.section	.gnu.lto_usbVcpFlush.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_usbVcpFlush.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234uT]l\024U\024>\347\316\354\314\356\314n\267m\332"
 	.ascii	"\202\373\200&\2254\306\226\215\204\304\030\304\237W"
 	.ascii	"\037}\360\025\373\367\320D\201\354.\204\007I\357v\213"
@@ -228,7 +228,7 @@
 	.ascii	"\261\241\026\364\035\333#1O\355\366\235\333bzlw}\235"
 	.ascii	"'\032\253\216\304\376\0010\346\370\252"
 	.text
-	.section	.gnu.lto_usbVcpEndWrite.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_usbVcpEndWrite.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234m\221\317k\023Q\020\307\337wv\273YM\203\342\315"
 	.ascii	"\\\024b\311A\232x\361\344A\317\336\374\013b\2149\004"
 	.ascii	"l\014\273\261\267\322\227\030\241\024\221\322zh\321"
@@ -258,7 +258,7 @@
 	.ascii	"<\2238g\237Jt\247r\261\22403Y;\237\314\246\322z\356"
 	.ascii	"\254\2257\022\211\256\\\336\372\015\260\356\320\212"
 	.text
-	.section	.gnu.lto_usbVcpWrite.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_usbVcpWrite.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234\215S\337KSQ\034?\337s\356\335\32661\012\202|\310"
 	.ascii	"\300\314\242\346\242\027{\211\244\307\336\372\013L\227"
 	.ascii	"\017\2034\331\226o\342\231[%\025!+J+\263\210\322\374"
@@ -300,7 +300,7 @@
 	.ascii	"\217\273\360D\301)oQA\271\253,\327E,\356R\257\257\260"
 	.ascii	"\324U\014.\245\354\244\307g*(()\363y~\003\233rgU"
 	.text
-	.section	.gnu.lto_usbVcpRead.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_usbVcpRead.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234eR[KTQ\024^\337>\2279:B\322\343\364P0\211D\341"
 	.ascii	"\364P\322c/\375\200z\016L\307\011\006Jb&\305\027q;\036"
 	.ascii	"\006\037$J\214D1*\211\314k\336\"\355e\314j|\260\033"
@@ -338,7 +338,7 @@
 	.ascii	"VR\025\276R\024&+Z\021\277ZZ\021\216he\225\027\365X"
 	.ascii	"u\244\3747\362\254\023\207"
 	.text
-	.section	.gnu.lto_usbVcpWriteBuf.part.0.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_usbVcpWriteBuf.part.0.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234uTKOSA\024\23633\367\336>nE\215n\330hR\011.\214"
 	.ascii	"$.\214+\243\033\345\017\2703\321ZX\220 \232\266\032"
 	.ascii	"\027\032G\250\250\211!HX`D#A\004\001\253\"\257\342\253"
@@ -390,7 +390,7 @@
 	.ascii	"\305BVx\327\236\252\230\025\215\205\"1OE\025\256U\341"
 	.ascii	"r\031\333W^\006\273\177\001\300\226\275!"
 	.text
-	.section	.gnu.lto_usbVcpWriteBuf.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_usbVcpWriteBuf.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234mRKk\023Q\024\276\337\235G\036\223\322\352\262"
 	.ascii	"\013\025jH76nt\343&\270\362_\3244\215\020\320(I\332"
 	.ascii	"]\311M\033\301E)\265\270\250\013\013\2456\306\264M5"
@@ -425,7 +425,7 @@
 	.ascii	"\361D0\032\012\253\303\301DP\013]\036\211&4\332\211"
 	.ascii	"%~\003\370\335\000\367"
 	.text
-	.section	.gnu.lto_usbVcpOpen.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_usbVcpOpen.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234\215\222OkSA\024\305\347\314\304\327\304\327\205"
 	.ascii	"\270k\021T*\304M\222o\340\327\320]\251\261\213\200\212"
 	.ascii	"$\330\225\241\223\030Q\\\230RJ\211X\265\202\305\304"
@@ -457,7 +457,7 @@
 	.ascii	"\357x\357\351\310\321\336\201\340)\177P \362\033\003"
 	.ascii	"=3\251"
 	.text
-	.section	.gnu.lto_usbVcpGetBaudRate.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_usbVcpGetBaudRate.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234e\2171K\003A\020\205\347\315\2361!\026b\231\312"
 	.ascii	"\302p]\356'\350?\011\361\014x\240A\3564]\310\252)\254"
 	.ascii	"D\202ElD\0241&1\202X\250UJA\264\021\014\210hc 6b8A\202"
@@ -476,7 +476,7 @@
 	.ascii	"\013\351\225`6\235w\227R.E\275\\\260\234\311\271\331"
 	.ascii	"\037\033\252o\222"
 	.text
-	.section	.gnu.lto_.symbol_nodes.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234U\215\271N\303@\024E\257g0\223\3046\304Y!\024\354"
 	.ascii	"[BX\303V\360m7B\226@T|\000A)R\244E\202\222\006A\350"
 	.ascii	"\322Q\320\001\262h\371\002\020^\010\232\231\346\351"
@@ -494,13 +494,13 @@
 	.ascii	"<D\355\336tj\275)<&\263\232\246\275\012\202\270>_K\366"
 	.ascii	"\370\005\243%\230\250"
 	.text
-	.section	.gnu.lto_.refs.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_.refs.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234%\301\313\025\000\020\014E\301\227\033\202\034"
 	.ascii	"\2372\364\337\241\205\031\227t\365\231\253\230/\333"
 	.ascii	"\301\011v\313\303\300\011\022\001\306\244\322\365\000"
 	.ascii	"\030\022\000\354"
 	.text
-	.section	.gnu.lto_.decls.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_.decls.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"x\234\255Y\013PTW\232\356\323\247\201\356\246\001\243"
 	.ascii	"\211\246\314T\306\220,\225\244\022\311dwR[S\273;\361"
 	.ascii	"\225\031\255\211\272\202yTv\212Bh\223\236At\2405\272"
@@ -801,7 +801,7 @@
 	.ascii	"\177\322\007~o\374\301\211\207PC\374CW\361\177\003e"
 	.ascii	"\"\335U"
 	.text
-	.section	.gnu.lto_.symtab.4f3124ebff3b4bb,"",%progbits
+	.section	.gnu.lto_.symtab.7eb47c6681ee4bbb,"",%progbits
 	.ascii	"usbTxBytesFree\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000a\001\000\000usbVcpOpen\000\000\000\000\000"
 	.ascii	"\000\000\000\000\000\000\000\213\001\000\000usbVcpG"

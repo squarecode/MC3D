@@ -14,17 +14,17 @@
 	.file	"usb_pwr.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.e18ca48cefc32d73,"",%progbits
+	.section	.gnu.lto_.profile.fc6d3a0706ddecd,"",%progbits
 	.ascii	"x\234cf```c\200\000F\206\315\214\335\214\000\004\210"
 	.ascii	"\001K"
 	.text
-	.section	.gnu.lto_.jmpfuncs.e18ca48cefc32d73,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.fc6d3a0706ddecd,"",%progbits
 	.ascii	"x\234cf\300\016\234\2404+\02032}db\2748kY3\377\013\246"
 	.ascii	"\237L\014\214\014\214\313\031\245\030\230\240\022\367"
 	.ascii	"\237\234\277\310\001\226\000\012\254\000J0Ct\261122"
 	.ascii	"\326\003i\0001\035\016+"
 	.text
-	.section	.gnu.lto_.inline.e18ca48cefc32d73,"",%progbits
+	.section	.gnu.lto_.inline.fc6d3a0706ddecd,"",%progbits
 	.ascii	"x\234cf\300\016VCiV\006\006naF\006&\236\007\261\014"
 	.ascii	"l\013\344\231@bL\334\014\014@!\006\016\001 \311\366"
 	.ascii	"A\017M\202\231\345\020\303#F\240T]\3272i\270\034+D9"
@@ -34,11 +34,11 @@
 	.ascii	"\005\030\230\026p\263\300\315\000\023\014\000\371\355"
 	.ascii	"\030)"
 	.text
-	.section	.gnu.lto_.pureconst.e18ca48cefc32d73,"",%progbits
+	.section	.gnu.lto_.pureconst.fc6d3a0706ddecd,"",%progbits
 	.ascii	"x\234cf``\340f\200\000V\006)&)f+V)6)\000\004\320\000"
 	.ascii	"\306"
 	.text
-	.section	.gnu.lto_PowerOn.e18ca48cefc32d73,"",%progbits
+	.section	.gnu.lto_PowerOn.fc6d3a0706ddecd,"",%progbits
 	.ascii	"x\234\215R\317O\023A\024\236o\246\264[\020$\236\264"
 	.ascii	"\361\326\00311\364\352\037\341\311\203W\305\306\030"
 	.ascii	"\0235\004\242\234\032fKIH4JL\274\000\025<\210\025\024"
@@ -72,7 +72,7 @@
 	.ascii	"\363\227|W\374\355\276\313\235gN\265wu\264\372\231\253"
 	.ascii	"\353\304\331s'\333.\374\002=\315@\037"
 	.text
-	.section	.gnu.lto_PowerOff.e18ca48cefc32d73,"",%progbits
+	.section	.gnu.lto_PowerOff.fc6d3a0706ddecd,"",%progbits
 	.ascii	"x\234uQ\317+DQ\024>\337\031\246W\362#;\317\0370)\231"
 	.ascii	"\235\177\3070+\013\232f\302J\356c\026SJ\024)\302\012"
 	.ascii	"\3030\277\013\273\227\224\224\037M\026\"\306f\210\035"
@@ -95,7 +95,7 @@
 	.ascii	"\035=\376H8\350\037\352\037\034\366\217\006C\376\221"
 	.ascii	"\310@_h,\334\023\244O\245\237\261\216"
 	.text
-	.section	.gnu.lto_Suspend.e18ca48cefc32d73,"",%progbits
+	.section	.gnu.lto_Suspend.fc6d3a0706ddecd,"",%progbits
 	.ascii	"x\234\235W{PT\347\025\277\347\336e\337\013X\035\037"
 	.ascii	"X\221\021'h\015\354h\022C3F\343\3208\315\037\315t\264"
 	.ascii	"3\375\323\211\214M\235\251\011\203I\354\037Ms\327\335"
@@ -216,7 +216,7 @@
 	.ascii	"\274\274\227\363_\361\346\342~y\356\352\307\262~\253"
 	.ascii	"X\326\376f\225\362\177\332\203\343F"
 	.text
-	.section	.gnu.lto_Resume_Init.e18ca48cefc32d73,"",%progbits
+	.section	.gnu.lto_Resume_Init.fc6d3a0706ddecd,"",%progbits
 	.ascii	"x\234\205\221OH\024q\024\307\177\337\367\233\231&T\222"
 	.ascii	"N\266\010\021\036\274\271\367\350\326=!\272G\355\251"
 	.ascii	"C!\212y\022\177\343n\255t\010\311\016QlP\020\215\253"
@@ -246,7 +246,7 @@
 	.ascii	"\036$\037\246\006\222\303Cwo\017\214\014\366\245\224"
 	.ascii	"=r\375\306\255\233\177\001\331\263\330\352"
 	.text
-	.section	.gnu.lto_Resume.e18ca48cefc32d73,"",%progbits
+	.section	.gnu.lto_Resume.fc6d3a0706ddecd,"",%progbits
 	.ascii	"x\234\235W[LTW\024=\373\334y?`\220\252\224hQ\211\321"
 	.ascii	"\032\221\317\232\364\247I?\233\366C\233\3766\326\360"
 	.ascii	"\321\2446Fk\3752\336\201\021\360\201\030Z[\243\025\255"
@@ -339,7 +339,7 @@
 	.ascii	"d\331\027\306\265\357\177\364\361\222\177\001(\302W"
 	.ascii	"D"
 	.text
-	.section	.gnu.lto_.symbol_nodes.e18ca48cefc32d73,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.fc6d3a0706ddecd,"",%progbits
 	.ascii	"x\234U\312;\012\302P\020\205\34133\231\020\210\205\033"
 	.ascii	"\320h|\203{<AD[W \006]\210\225\245n\301\302\3225\210"
 	.ascii	"\271\321\"w\232\2379|\006\340\212\377iI\340p\007H\034"
@@ -349,14 +349,14 @@
 	.ascii	"\260\335\275\013K\035\233\333\272\315\376\241\370\002"
 	.ascii	"\350\331/~"
 	.text
-	.section	.gnu.lto_.refs.e18ca48cefc32d73,"",%progbits
+	.section	.gnu.lto_.refs.fc6d3a0706ddecd,"",%progbits
 	.ascii	"x\234%\306Q\012\202@\000E\321w\235\241;\206E\021\206"
 	.ascii	"\277E\250\237E;i\377\213I\360|\235\222\344\227]\027"
 	.ascii	"\250`W\250C\352:\036\266\307\222\266\245\307#\236hg"
 	.ascii	"\274\3405\336p\214w\234\360\201\317\370\3029.\370\246"
 	.ascii	"}\360\233?zC\003a"
 	.text
-	.section	.gnu.lto_.decls.e18ca48cefc32d73,"",%progbits
+	.section	.gnu.lto_.decls.fc6d3a0706ddecd,"",%progbits
 	.ascii	"x\234\265X{TTIz\357\272\3254\335M\003\023\335\321\031"
 	.ascii	"\367$\242\223pfr\034qf\222\354$'9\253\362\010\314\372"
 	.ascii	" 4f\262'9\247\203\320\356pV\301\360\030w\316\346\217"
@@ -605,7 +605,7 @@
 	.ascii	"9\354r\237\025V7\267+\254Tqk\223U\253\363\337\366\025"
 	.ascii	"Xj\243\323}\353\341\365\177\2253`_"
 	.text
-	.section	.gnu.lto_.symtab.e18ca48cefc32d73,"",%progbits
+	.section	.gnu.lto_.symtab.fc6d3a0706ddecd,"",%progbits
 	.ascii	"PowerOn\000\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\340\000\000\000PowerOff\000\000\000\000\000\000"
 	.ascii	"\000\000\000\000\000\000\342\000\000\000Suspend\000"

@@ -1,5 +1,5 @@
 # 1 "./src/main/version.c"
-# 1 "/home/rca/betaflight_MC3D/betaflight//"
+# 1 "/home/rca/betaflight_MC3D/MC3D//"
 # 1 "<built-in>"
 #define __STDC__ 1
 #define __STDC_VERSION__ 199901L
@@ -370,7 +370,7 @@
 #define CC3D 1
 #define __FORKNAME__ "betaflight"
 #define __TARGET__ "CC3D"
-#define __REVISION__ "3f52429"
+#define __REVISION__ "fa1705f"
 # 1 "./src/main/version.c"
 # 18 "./src/main/version.c"
 # 1 "./src/main/version.h" 1
@@ -398,6 +398,6 @@ extern const char* const buildTime;
 # 19 "./src/main/version.c" 2
 
 const char * const targetName = "CC3D";
-const char * const shortGitRevision = "3f52429";
+const char * const shortGitRevision = "fa1705f";
 const char * const buildDate = "May  1 2016";
-const char * const buildTime = "16:35:45";
+const char * const buildTime = "18:27:03";

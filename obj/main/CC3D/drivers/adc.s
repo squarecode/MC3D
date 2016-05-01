@@ -14,21 +14,21 @@
 	.file	"adc.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.e0f3b6de6d21a021,"",%progbits
+	.section	.gnu.lto_.profile.732cae3d70ffc995,"",%progbits
 	.ascii	"x\234cf```a\200\000F\006\026f\000\000\177\000\020"
 	.text
-	.section	.gnu.lto_.jmpfuncs.e0f3b6de6d21a021,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.732cae3d70ffc995,"",%progbits
 	.ascii	"x\234cf\300\016\330\2414#\003##c=\003\000\002\026\000"
 	.ascii	"\216"
 	.text
-	.section	.gnu.lto_.inline.e0f3b6de6d21a021,"",%progbits
+	.section	.gnu.lto_.inline.732cae3d70ffc995,"",%progbits
 	.ascii	"x\234cf\300\016\244\2404#\003\003+\013##\210fbY \317"
 	.ascii	"\300\266@\236\011(\314\302\300\000\000\026T\001\273"
 	.text
-	.section	.gnu.lto_.pureconst.e0f3b6de6d21a021,"",%progbits
+	.section	.gnu.lto_.pureconst.732cae3d70ffc995,"",%progbits
 	.ascii	"x\234cf```f\200\000F\006)\000\000z\000\""
 	.text
-	.section	.gnu.lto_adcGetChannel.e0f3b6de6d21a021,"",%progbits
+	.section	.gnu.lto_adcGetChannel.732cae3d70ffc995,"",%progbits
 	.ascii	"x\234e\220MK\033Q\024\206\317{&\231\214\306E\350\316"
 	.ascii	"\264;\021-4\316O\260?\243\333\020\003\012m\026\021\334"
 	.ascii	"\211w$~\254\244k[\335\224\032\277\0225V\027u\023\304"
@@ -56,16 +56,16 @@
 	.ascii	"\310\270}\331\201\241tv\320M\366\245zR\024I\365'3\231"
 	.ascii	"\364\353\007\325\027\305~"
 	.text
-	.section	.gnu.lto_.symbol_nodes.e0f3b6de6d21a021,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.732cae3d70ffc995,"",%progbits
 	.ascii	"x\234cf``P`\200\002&\371z\006\206\011\347\030\030\352"
 	.ascii	"\353\031\346-\340``\225eX\310T\317\300*\307\270\030"
 	.ascii	"H1\000\000{\265\006\362"
 	.text
-	.section	.gnu.lto_.refs.e0f3b6de6d21a021,"",%progbits
+	.section	.gnu.lto_.refs.732cae3d70ffc995,"",%progbits
 	.ascii	"x\234cf``\340d\200\000&\006\006F&\006&\026\006\000\001"
 	.ascii	"\035\000\030"
 	.text
-	.section	.gnu.lto_.decls.e0f3b6de6d21a021,"",%progbits
+	.section	.gnu.lto_.decls.732cae3d70ffc995,"",%progbits
 	.ascii	"x\234\215ToLSW\024\277\247\257\320\366\255P\002\031"
 	.ascii	":>55!\323 \315\222e\331\267\221\371\301l\037\026\227"
 	.ascii	"l\373\262%M\245\317\321\244\024\245e\231\311>\\\300"
@@ -137,7 +137,7 @@
 	.ascii	"\272\254\351\007\035\322'\366t\351e\011\322\210\216"
 	.ascii	"\321pJ\366\365\231\325\221%\271\376\003O\015\204\342"
 	.text
-	.section	.gnu.lto_.symtab.e0f3b6de6d21a021,"",%progbits
+	.section	.gnu.lto_.symtab.732cae3d70ffc995,"",%progbits
 	.ascii	"adcGetChannel\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\275\000\000\000adcConfig\000\000\004\000\020"
 	.ascii	"\000\000\000\000\000\000\000\332\000\000\000adcValu"

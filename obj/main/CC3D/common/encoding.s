@@ -14,22 +14,22 @@
 	.file	"encoding.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.35dd47526cb70fb,"",%progbits
+	.section	.gnu.lto_.profile.2517b08e2beb642,"",%progbits
 	.ascii	"x\234cf```a\200\000F\006vV\000\000\207\000\025"
 	.text
-	.section	.gnu.lto_.jmpfuncs.35dd47526cb70fb,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.2517b08e2beb642,"",%progbits
 	.ascii	"x\234cf\300\016x\2404\023\003##c=#\210`\000\000\006"
 	.ascii	"\\\001\027"
 	.text
-	.section	.gnu.lto_.inline.35dd47526cb70fb,"",%progbits
+	.section	.gnu.lto_.inline.2517b08e2beb642,"",%progbits
 	.ascii	"x\234cf\300\016\214\2414\023\003\0033\023##\003#\230"
 	.ascii	"\311\300\266@\036D\001\271l\254\020Qf\230(\333\007="
 	.ascii	"\026\260\026\000?\014\003\013"
 	.text
-	.section	.gnu.lto_.pureconst.35dd47526cb70fb,"",%progbits
+	.section	.gnu.lto_.pureconst.2517b08e2beb642,"",%progbits
 	.ascii	"x\234cf```e\200\000&\006\006F\006\000\000\221\000\014"
 	.text
-	.section	.gnu.lto_castFloatBytesToInt.35dd47526cb70fb,"",%progbits
+	.section	.gnu.lto_castFloatBytesToInt.2517b08e2beb642,"",%progbits
 	.ascii	"x\234e\220\313K[A\024\306\3177s\033\243\321(.\005Q\214"
 	.ascii	"\217\225^Dp'\024\334\364/p/\321\210`\356\005\225n\275"
 	.ascii	"\015\351\302\242\240\202 \012\202\324\322\372H4\272"
@@ -56,7 +56,7 @@
 	.ascii	"2\203v8l[f\267\025\264\273z\255\236\246 !T\034\352\263"
 	.ascii	";\007\333m\353uw\377\240\377iQ\033\272\007TB\270\271"
 	.text
-	.section	.gnu.lto_zigzagEncode.35dd47526cb70fb,"",%progbits
+	.section	.gnu.lto_zigzagEncode.2517b08e2beb642,"",%progbits
 	.ascii	"x\234eOMKBQ\020\235\231\373\236\317\260E\264\024\"\027"
 	.ascii	"\211\233\360\375\205\226\355\372\015\362\222\020\362"
 	.ascii	"\011E-\363ffK#Z\270j\023\322\207V\320\256\010\262\240"
@@ -77,14 +77,14 @@
 	.ascii	"\3719\307N'R\256\355d\322\351\214k']'3\235rg\342\016"
 	.ascii	"\230\213\211\331\205\344/W;~\322"
 	.text
-	.section	.gnu.lto_.symbol_nodes.35dd47526cb70fb,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.2517b08e2beb642,"",%progbits
 	.ascii	"x\234cf``Pb\200\002&\206z\006\206\011\347\030\030\352"
 	.ascii	"\353\031\346-\340``b\254gD\3463\000\000\2212\010n"
 	.text
-	.section	.gnu.lto_.refs.35dd47526cb70fb,"",%progbits
+	.section	.gnu.lto_.refs.2517b08e2beb642,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.decls.35dd47526cb70fb,"",%progbits
+	.section	.gnu.lto_.decls.2517b08e2beb642,"",%progbits
 	.ascii	"x\234}\223]H\024Q\024\307\347\314\254\273:n\233\224"
 	.ascii	"\025\004\302&\261T\224\003\025=\365\020EE=D\017\365"
 	.ascii	"\324\303\262\255\243.\350l\354\316\026F\3205\373\330"
@@ -134,7 +134,7 @@
 	.ascii	"\247]\331\247\035\331{i\216l\311\242b{\334\312I\331"
 	.ascii	"\203\015A\026\370\376\002*\003\231\273"
 	.text
-	.section	.gnu.lto_.symtab.35dd47526cb70fb,"",%progbits
+	.section	.gnu.lto_.symtab.2517b08e2beb642,"",%progbits
 	.ascii	"castFloatBytesToInt\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\000\000\267\000\000\000zigzagEncode\000\000"
 	.ascii	"\000\000\000\000\000\000\000\000\000\000\303\000\000"

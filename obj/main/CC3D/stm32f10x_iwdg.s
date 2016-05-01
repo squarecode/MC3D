@@ -14,24 +14,24 @@
 	.file	"stm32f10x_iwdg.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.c9d8604ac88eb599,"",%progbits
+	.section	.gnu.lto_.profile.f2250daf2d4e2434,"",%progbits
 	.ascii	"x\234cf```a\200\000F\006Q~\000\000\255\000-"
 	.text
-	.section	.gnu.lto_.jmpfuncs.c9d8604ac88eb599,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.f2250daf2d4e2434,"",%progbits
 	.ascii	"x\234cf\300\016d\2404\033\003##c=#\210`\002\021\314"
 	.ascii	"\014\014,\014\014\254 &\003\000\"\256\002="
 	.text
-	.section	.gnu.lto_.inline.c9d8604ac88eb599,"",%progbits
+	.section	.gnu.lto_.inline.f2250daf2d4e2434,"",%progbits
 	.ascii	"x\234cf\300\016Z\2404\033\003\003\0133##\003#\003\003"
 	.ascii	"\023\323\005~\006\266\005\362L qF\354\302L\330\205\231"
 	.ascii	"A\302\250B,\230B\254\014\354lP\315\034\007\354\340\302"
 	.ascii	"\014\000\326\366\012\374"
 	.text
-	.section	.gnu.lto_.pureconst.c9d8604ac88eb599,"",%progbits
+	.section	.gnu.lto_.pureconst.f2250daf2d4e2434,"",%progbits
 	.ascii	"x\234cf``\340e\200\0006\006)F)&)f)\026)V)\000\005\261"
 	.ascii	"\000\302"
 	.text
-	.section	.gnu.lto_IWDG_WriteAccessCmd.c9d8604ac88eb599,"",%progbits
+	.section	.gnu.lto_IWDG_WriteAccessCmd.f2250daf2d4e2434,"",%progbits
 	.ascii	"x\234eP=H\233Q\024\275\347~1\021\222!8Ivq\212_\033G"
 	.ascii	"A,\210\322A\021R\020\\\202M\242\375@\255|\011\332-/"
 	.ascii	"\022q\022\374\001\021\253\010\226\2426m\223\251Y\277"
@@ -56,7 +56,7 @@
 	.ascii	"ll\274#J\376\247\303\275\375\221a\333J\306\237D\243"
 	.ascii	"\361D\342?\324\346\226\260"
 	.text
-	.section	.gnu.lto_IWDG_SetPrescaler.c9d8604ac88eb599,"",%progbits
+	.section	.gnu.lto_IWDG_SetPrescaler.f2250daf2d4e2434,"",%progbits
 	.ascii	"x\234eOK(Da\024>\337\177\307\243\010Y\351\356')\346"
 	.ascii	"bv\224,D\212R\224\345\304\314\340\326\014\2723a\347"
 	.ascii	"\237id;,\244\304\202d\030\217\235\235\272\254\254\310"
@@ -79,7 +79,7 @@
 	.ascii	"\033\207\324\330\234\364\015\273\274T\326\331\337\326"
 	.ascii	"\341\351\261\374!\357@\300o\375\002\0210\210\300"
 	.text
-	.section	.gnu.lto_IWDG_SetReload.c9d8604ac88eb599,"",%progbits
+	.section	.gnu.lto_IWDG_SetReload.f2250daf2d4e2434,"",%progbits
 	.ascii	"x\234ePK(\204Q\024>\337\371\307P(Yi\226JV\374\036K%"
 	.ascii	"\013Y(%\254l\204\031\374\345\325\020v\356h\260E\221"
 	.ascii	"HD\362\030\257R\226\374d\241\024a\201)\317~\305By\025"
@@ -102,7 +102,7 @@
 	.ascii	"\336\354\350l\311\317k\320m\253\333\333\230]O\356\012"
 	.ascii	"_s[\255\367\027\355Q\222\377"
 	.text
-	.section	.gnu.lto_IWDG_ReloadCounter.c9d8604ac88eb599,"",%progbits
+	.section	.gnu.lto_IWDG_ReloadCounter.f2250daf2d4e2434,"",%progbits
 	.ascii	"x\234cf\300\004R@\374\003\210m\201\230\221\231\201\221"
 	.ascii	"i\3029\006\206F\016&FF\020\203\201\221\241\236\211\261"
 	.ascii	"\236\361%\323G&\306\011\007V\317\340V_\332\320\320\360"
@@ -121,7 +121,7 @@
 	.ascii	" #\336\245(\263,\265H\277\270(Y\277\270$\327\330(\015"
 	.ascii	"$\235Y\236\222\256\227\314\000\000.\356q\024"
 	.text
-	.section	.gnu.lto_IWDG_Enable.c9d8604ac88eb599,"",%progbits
+	.section	.gnu.lto_IWDG_Enable.f2250daf2d4e2434,"",%progbits
 	.ascii	"x\234cf\300\004R@\374\003\210m\201\230\221\231\201\221"
 	.ascii	"i\3029\006\206F\016&FF\020\203\201\221\241\236\211\261"
 	.ascii	"\236\361%\323G&\306\011\007V\317\340V_\332\320\320\360"
@@ -140,7 +140,7 @@
 	.ascii	"\274KQfYj\221~qQ\262~qI\256\261Q\032H:\263<%]/\231\001"
 	.ascii	"\000\2227qe"
 	.text
-	.section	.gnu.lto_IWDG_GetFlagStatus.c9d8604ac88eb599,"",%progbits
+	.section	.gnu.lto_IWDG_GetFlagStatus.f2250daf2d4e2434,"",%progbits
 	.ascii	"x\234eP]H\223Q\030>\3179\337~l#\245\253\370.\352BD\202"
 	.ascii	"\364+wW\020\005\242\005\005\205A\027],\247V\203\014"
 	.ascii	"\331\326\317E\340\331O\024\344EHdX^T\244\345*5K\220"
@@ -175,16 +175,16 @@
 	.ascii	"\275\207\232\367T7\261\222M;j\353\335u\2337\324\227"
 	.ascii	"x\274\001\177\2401p\300\377\033\313\354\3573"
 	.text
-	.section	.gnu.lto_.symbol_nodes.c9d8604ac88eb599,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.f2250daf2d4e2434,"",%progbits
 	.ascii	"x\234cf``Hb\200\002&\331z\006\206\011\347\030\030\352"
 	.ascii	"\353\031\346-\340``\222\253gD\341\313\3273\241\360\025"
 	.ascii	"\352\231Q\370\212\365,(|\245zVd>\003\000\017\201\032"
 	.ascii	"\004"
 	.text
-	.section	.gnu.lto_.refs.c9d8604ac88eb599,"",%progbits
+	.section	.gnu.lto_.refs.f2250daf2d4e2434,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.decls.c9d8604ac88eb599,"",%progbits
+	.section	.gnu.lto_.decls.f2250daf2d4e2434,"",%progbits
 	.ascii	"x\234\225UkL\024W\024\2363\263\300\262l\321J\213\015"
 	.ascii	"IS\260\015\251\215\272*M\323\244M\332\006\324\230\326"
 	.ascii	"\206\2626\376\360\307feG\335\204Wv\007\253M\177\014"
@@ -275,7 +275,7 @@
 	.ascii	"\201\274\262_F\260\341\021\\\304W\021\254>\342_\340"
 	.ascii	"%d\252"
 	.text
-	.section	.gnu.lto_.symtab.c9d8604ac88eb599,"",%progbits
+	.section	.gnu.lto_.symtab.f2250daf2d4e2434,"",%progbits
 	.ascii	"IWDG_WriteAccessCmd\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\000\000\265\000\000\000IWDG_SetPrescaler\000"
 	.ascii	"\000\000\000\000\000\000\000\000\000\000\000\301\000"

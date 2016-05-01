@@ -14,14 +14,14 @@
 	.file	"rc_curves.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.8885b4ea7509c5d9,"",%progbits
+	.section	.gnu.lto_.profile.906fe9360f54a41d,"",%progbits
 	.ascii	"x\234cf```a\200\000F\2060G\000\001a\000\240"
 	.text
-	.section	.gnu.lto_.jmpfuncs.8885b4ea7509c5d9,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.906fe9360f54a41d,"",%progbits
 	.ascii	"x\234cf\300\016\304\24043\003##c=\023\210`\001\222\314"
 	.ascii	"\365\365\214@Q\000\030s\002-"
 	.text
-	.section	.gnu.lto_.inline.8885b4ea7509c5d9,"",%progbits
+	.section	.gnu.lto_.inline.906fe9360f54a41d,"",%progbits
 	.ascii	"x\234cf\300\016*\24143\003\203\300}\006F&\006F\006f"
 	.ascii	"\016\020\301\300&\266\341\022'\003\333\002y\240\330"
 	.ascii	"\0153\026\010\011\"8\300L\016\220.&\006\276\213\014"
@@ -29,10 +29,10 @@
 	.ascii	"-fF\006&\247\376?\246\014\\{\36701\201-\344a``\234\340"
 	.ascii	"\307\000\000~\231\023g"
 	.text
-	.section	.gnu.lto_.pureconst.8885b4ea7509c5d9,"",%progbits
+	.section	.gnu.lto_.pureconst.906fe9360f54a41d,"",%progbits
 	.ascii	"x\234cf```g\200\000f\006I&I\026I\000\001\273\000_"
 	.text
-	.section	.gnu.lto_generatePitchRollCurve.8885b4ea7509c5d9,"",%progbits
+	.section	.gnu.lto_generatePitchRollCurve.906fe9360f54a41d,"",%progbits
 	.ascii	"x\234\215T]HSa\030\376\336\357\234\235s\366\347fF\324"
 	.ascii	"\"\012$$JW\267]\005]u\027]\007!\303bP\216\246\005]\210"
 	.ascii	"gshW!V\"\371S&\246i\316\237\322\3222&xa\240\205D\366"
@@ -78,7 +78,7 @@
 	.ascii	"\203\201\263'\212\313K\216\006JO\373\317\200\377/\306"
 	.ascii	"\333\201\337"
 	.text
-	.section	.gnu.lto_generateYawCurve.8885b4ea7509c5d9,"",%progbits
+	.section	.gnu.lto_generateYawCurve.906fe9360f54a41d,"",%progbits
 	.ascii	"x\234eS[KTQ\024\336k\357s\231\213\343\245 r \010D$R"
 	.ascii	"\247\237\020\364\324[\364\034\204\014\026C\345\220Z"
 	.ascii	"o\342\231q\320\236\302\014E\362\322E\314[\316\230\245"
@@ -122,7 +122,7 @@
 	.ascii	"r?+\360\007\253j\253\203\027OW\324V\236\010V\235\013"
 	.ascii	"\234\207\300_v\303Y\350"
 	.text
-	.section	.gnu.lto_generateThrottleCurve.8885b4ea7509c5d9,"",%progbits
+	.section	.gnu.lto_generateThrottleCurve.906fe9360f54a41d,"",%progbits
 	.ascii	"x\234\215VkPUU\024\336k\237{\317}\362F\224\253\010\212"
 	.ascii	"\310(/u\350\207?\232\321q\246\351_M\371\263\231r\220"
 	.ascii	"\212\031\205Br\246f\034\317\275\0208\246\345 \246)\245"
@@ -214,18 +214,18 @@
 	.ascii	"\344\270\226\346\344.|7?\257\240`I\266V\260\364=\370"
 	.ascii	"\360_\016\000\277\204"
 	.text
-	.section	.gnu.lto_.symbol_nodes.8885b4ea7509c5d9,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.906fe9360f54a41d,"",%progbits
 	.ascii	"x\234U\311K\015\2000\020\006\341\331\335\226\366\210"
 	.ascii	"H|\374\225\200\002\002\011z\360\200\021Bx\\:\307o\002"
 	.ascii	"\230\370\363\020\314\007H,k%\303\346\302\223\254c\263"
 	.ascii	"\227\263\274\343\301G\221=\236iE\361MZ\253D*\354\347"
 	.ascii	"e\334\215k\026\371"
 	.text
-	.section	.gnu.lto_.refs.8885b4ea7509c5d9,"",%progbits
+	.section	.gnu.lto_.refs.906fe9360f54a41d,"",%progbits
 	.ascii	"x\234cf``\020c\200\000F\006FF~F&Ff\036f\026\006VFF6"
 	.ascii	"]F6\013\006\000\007\204\000\277"
 	.text
-	.section	.gnu.lto_.decls.8885b4ea7509c5d9,"",%progbits
+	.section	.gnu.lto_.decls.906fe9360f54a41d,"",%progbits
 	.ascii	"x\234\235W{PS\331\031\277\347\036B D\240\340*\233\276"
 	.ascii	"P\247\324\355\270\342\266\235\016\235\376Q\267\264\323"
 	.ascii	"\331N\355P\273\235i\247\177\320l\210KFHh\022\354\372"
@@ -367,7 +367,7 @@
 	.ascii	"a\225%\311\370\256\301nZ\247\267\233,\346Uz\333\332"
 	.ascii	"p\006\360\272\265:\376\277\010O~\241"
 	.text
-	.section	.gnu.lto_.symtab.8885b4ea7509c5d9,"",%progbits
+	.section	.gnu.lto_.symtab.906fe9360f54a41d,"",%progbits
 	.ascii	"generatePitchRollCurve\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\000\000\336\000\000\000lookupPitchRollRC\000"
 	.ascii	"\000\004\000\016\000\000\000\000\000\000\000\026\001"

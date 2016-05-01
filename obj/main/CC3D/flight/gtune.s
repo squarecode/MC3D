@@ -14,26 +14,26 @@
 	.file	"gtune.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.80cf67902f90c7c8,"",%progbits
+	.section	.gnu.lto_.profile.dac874a82c7a7f2c,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.inline.80cf67902f90c7c8,"",%progbits
+	.section	.gnu.lto_.inline.dac874a82c7a7f2c,"",%progbits
 	.ascii	"x\234cf\300\016\230\340,\000\000\234\000\006"
 	.text
-	.section	.gnu.lto_.pureconst.80cf67902f90c7c8,"",%progbits
+	.section	.gnu.lto_.pureconst.dac874a82c7a7f2c,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.symbol_nodes.80cf67902f90c7c8,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.dac874a82c7a7f2c,"",%progbits
 	.ascii	"x\234cf```b\200\001\000\000L\000\006"
 	.text
-	.section	.gnu.lto_.refs.80cf67902f90c7c8,"",%progbits
+	.section	.gnu.lto_.refs.dac874a82c7a7f2c,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.decls.80cf67902f90c7c8,"",%progbits
+	.section	.gnu.lto_.decls.dac874a82c7a7f2c,"",%progbits
 	.ascii	"x\234cf``P\001\342\377@\000\244\030\030\2418\200\201"
 	.ascii	"\000\000\000\3208\004v"
 	.text
-	.section	.gnu.lto_.symtab.80cf67902f90c7c8,"",%progbits
+	.section	.gnu.lto_.symtab.dac874a82c7a7f2c,"",%progbits
 	.text
 	.section	.gnu.lto_.opts,"",%progbits
 	.ascii	"'-fno-trapv' '-mthumb' '-mcpu=cortex-m3' '-ggdb3' '"

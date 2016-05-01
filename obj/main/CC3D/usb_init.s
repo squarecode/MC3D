@@ -14,20 +14,20 @@
 	.file	"usb_init.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.91b85db509809b0b,"",%progbits
+	.section	.gnu.lto_.profile.b9c983416144632d,"",%progbits
 	.ascii	"x\234cf```a\200\000F\0061N\000\000\251\000("
 	.text
-	.section	.gnu.lto_.jmpfuncs.91b85db509809b0b,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.b9c983416144632d,"",%progbits
 	.ascii	"x\234cf\300\0168\2414#\210\250\007b\000\003B\000\215"
 	.text
-	.section	.gnu.lto_.inline.91b85db509809b0b,"",%progbits
+	.section	.gnu.lto_.inline.b9c983416144632d,"",%progbits
 	.ascii	"x\234cf\300\016\244\2404#\003\003\267\030#\003\023\327"
 	.ascii	"\004?\006\266\005\362L 1f~\020\011\000!\021\002\004"
 	.text
-	.section	.gnu.lto_.pureconst.91b85db509809b0b,"",%progbits
+	.section	.gnu.lto_.pureconst.b9c983416144632d,"",%progbits
 	.ascii	"x\234cf```f\200\000F\006\011\000\000x\000 "
 	.text
-	.section	.gnu.lto_USB_Init.91b85db509809b0b,"",%progbits
+	.section	.gnu.lto_USB_Init.b9c983416144632d,"",%progbits
 	.ascii	"x\234m\223Mh\023A\030\206\347\375\266\331l\223\036\304"
 	.ascii	"S\361\322\233\005e\273\240\210 x\221\322\233 D\361\030"
 	.ascii	"l\310aA\213\244\232[\350F#\365d\333[\300\237\203 VS"
@@ -60,19 +60,19 @@
 	.ascii	"\306\315\2463\316p&\345\234\036\036L\272C\356\251\276"
 	.ascii	"\224X\007\014+S\307"
 	.text
-	.section	.gnu.lto_.symbol_nodes.91b85db509809b0b,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.b9c983416144632d,"",%progbits
 	.ascii	"x\234cf``\010g\200\002&\225z\006\206\011\347\030\030"
 	.ascii	"\352\353\031\346-\340``\225cX\310T\317\300\252\304\010"
 	.ascii	"\246\344\231\300\224*\263\000\220Tf\001s\324XA\034E"
 	.ascii	"60G\201\035L\311r\200(\026\006\206+\017\377120\000\000"
 	.ascii	"\033D\021\342"
 	.text
-	.section	.gnu.lto_.refs.91b85db509809b0b,"",%progbits
+	.section	.gnu.lto_.refs.b9c983416144632d,"",%progbits
 	.ascii	"x\234%\303\211\011\000 \020\004\261\331\347\304\036"
 	.ascii	"\354\277OA\003\011p\3706\222\3547q\243\251W\351p\001"
 	.ascii	"\007\265\000c"
 	.text
-	.section	.gnu.lto_.decls.91b85db509809b0b,"",%progbits
+	.section	.gnu.lto_.decls.b9c983416144632d,"",%progbits
 	.ascii	"x\234\245XkPTG\026\236\276=\300\31400\032\023\265\330"
 	.ascii	"\255\215e\262l\222\322`v7[\373g+\032\300\304T\"\204"
 	.ascii	"\201l\245\362cv\200\253N\005\00723\304\270\277.\340"
@@ -276,7 +276,7 @@
 	.ascii	")\016\323Wf\373\367Z\243\371G\236\236\221\200\310h\013"
 	.ascii	"9E\377\003-\351\315\321"
 	.text
-	.section	.gnu.lto_.symtab.91b85db509809b0b,"",%progbits
+	.section	.gnu.lto_.symtab.b9c983416144632d,"",%progbits
 	.ascii	"USB_Init\000\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\254\000\000\000pInformation\000\000\004\000\004"
 	.ascii	"\000\000\000\000\000\000\000\007\001\000\000Device_"

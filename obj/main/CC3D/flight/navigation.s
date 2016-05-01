@@ -14,23 +14,23 @@
 	.file	"navigation.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.ae93c4cbd466dba8,"",%progbits
+	.section	.gnu.lto_.profile.a248c7b7d2c6e3de,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.inline.ae93c4cbd466dba8,"",%progbits
+	.section	.gnu.lto_.inline.a248c7b7d2c6e3de,"",%progbits
 	.ascii	"x\234cf\300\016\230\340,\000\000\234\000\006"
 	.text
-	.section	.gnu.lto_.pureconst.ae93c4cbd466dba8,"",%progbits
+	.section	.gnu.lto_.pureconst.a248c7b7d2c6e3de,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.symbol_nodes.ae93c4cbd466dba8,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.a248c7b7d2c6e3de,"",%progbits
 	.ascii	"x\234cf``\020`\200\002V%\206\205L\365\014\254\212\214"
 	.ascii	" \212\001\000\026n\002\246"
 	.text
-	.section	.gnu.lto_.refs.ae93c4cbd466dba8,"",%progbits
+	.section	.gnu.lto_.refs.a248c7b7d2c6e3de,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.decls.ae93c4cbd466dba8,"",%progbits
+	.section	.gnu.lto_.decls.a248c7b7d2c6e3de,"",%progbits
 	.ascii	"x\234\225UmLSW\030\276oO\013\364\322\024#\333b\3102"
 	.ascii	"\021\222f.\310\235\260\354\327\226\031!sn:Mq\331\376"
 	.ascii	"uH\013\334\004\332\256\275\030\375w\005\226\261i\030"
@@ -107,7 +107,7 @@
 	.ascii	"K\226\215\306\205\307?K\232\303\236.f\374\003\371\033"
 	.ascii	"\260\374"
 	.text
-	.section	.gnu.lto_.symtab.ae93c4cbd466dba8,"",%progbits
+	.section	.gnu.lto_.symtab.a248c7b7d2c6e3de,"",%progbits
 	.ascii	"antiWindupProtection\000\000\004\000\001\000\000\000"
 	.ascii	"\000\000\000\000\256\000\000\000led_config\000\000\004"
 	.ascii	"\000\030\000\000\000\000\000\000\000\350\000\000\000"

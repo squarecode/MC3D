@@ -14,21 +14,21 @@
 	.file	"altitudehold.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.2307eb730b4fc9c1,"",%progbits
+	.section	.gnu.lto_.profile.64566ab838a607a7,"",%progbits
 	.ascii	"x\234cf```a\200\000F\0066V\000\000\205\000\024"
 	.text
-	.section	.gnu.lto_.jmpfuncs.2307eb730b4fc9c1,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.64566ab838a607a7,"",%progbits
 	.ascii	"x\234cf\300\016x\2414#\003\013#\020\360\327\003\001"
 	.ascii	"\003\000\011l\002%"
 	.text
-	.section	.gnu.lto_.inline.2307eb730b4fc9c1,"",%progbits
+	.section	.gnu.lto_.inline.64566ab838a607a7,"",%progbits
 	.ascii	"x\234cf\300\016D\2414#\003\003;\033#\003\023\307\001"
 	.ascii	";\006\266\005\362L`A\000\026\207\001\367"
 	.text
-	.section	.gnu.lto_.pureconst.2307eb730b4fc9c1,"",%progbits
+	.section	.gnu.lto_.pureconst.64566ab838a607a7,"",%progbits
 	.ascii	"x\234cf```f\200\000F\006\011\000\000x\000 "
 	.text
-	.section	.gnu.lto_configureAltitudeHold.2307eb730b4fc9c1,"",%progbits
+	.section	.gnu.lto_configureAltitudeHold.64566ab838a607a7,"",%progbits
 	.ascii	"x\234m\222\317k\023A\024\307\347;\233l\266\211X\025"
 	.ascii	"\304\220\223\202\261\340\241\271yWQ<x(\372\027\204\374"
 	.ascii	"h\027\266YH\242'K71\212V\221\252T\012ZA\212\030SMM\253"
@@ -62,18 +62,18 @@
 	.ascii	"wG\243\356X\210\342d\3344\022v\336\333\310\037J\204"
 	.ascii	"\366\307\302\307#\361\223\246\375\343\037\270\2628-"
 	.text
-	.section	.gnu.lto_.symbol_nodes.2307eb730b4fc9c1,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.64566ab838a607a7,"",%progbits
 	.ascii	"x\234-\305\331\021@@\020\005\300g\326\260\216\024\334"
 	.ascii	"\267\334\3040)\210@\255\204\304\244\274\322?\355\000"
 	.ascii	"\034\370\311n\300\371\000f\270\202\207.\010bN\347\210"
 	.ascii	"\255\3026\307\246\370\026\203\216\312\206\204\365)\353"
 	.ascii	"<k3\326\344\254.XU~\341\005\375\334\025\326"
 	.text
-	.section	.gnu.lto_.refs.2307eb730b4fc9c1,"",%progbits
+	.section	.gnu.lto_.refs.64566ab838a607a7,"",%progbits
 	.ascii	"x\234cf``\340g\200\000\026\006F `bbdffdaa\000\000\002"
 	.ascii	"\221\000/"
 	.text
-	.section	.gnu.lto_.decls.2307eb730b4fc9c1,"",%progbits
+	.section	.gnu.lto_.decls.64566ab838a607a7,"",%progbits
 	.ascii	"x\234\255X{PTW\232\357s\017\364\233Fcb\224J\225\216"
 	.ascii	"nX\223\311Hf\222\235\261\246\246*\032'\223\340\270\011"
 	.ascii	"ktfwg\253\272:p\011\275\325\320\246\2731\343\314\244"
@@ -289,7 +289,7 @@
 	.ascii	"4\372\364\223\025\313\026\177\240_\374\311\212\217\227"
 	.ascii	"\007\031\343V\306\333>5\307[\"y=\3777\003l\346\206"
 	.text
-	.section	.gnu.lto_.symtab.2307eb730b4fc9c1,"",%progbits
+	.section	.gnu.lto_.symtab.64566ab838a607a7,"",%progbits
 	.ascii	"configureAltitudeHold\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\000\000#\001\000\000vario\000\000\000\000\000"
 	.ascii	"\000\000\000\000\000\000\0006\001\000\000AltHold\000"

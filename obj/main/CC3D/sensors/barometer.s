@@ -14,23 +14,23 @@
 	.file	"barometer.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.4584e7298add279c,"",%progbits
+	.section	.gnu.lto_.profile.5b65e8f6e430fbd0,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.inline.4584e7298add279c,"",%progbits
+	.section	.gnu.lto_.inline.5b65e8f6e430fbd0,"",%progbits
 	.ascii	"x\234cf\300\016\230\340,\000\000\234\000\006"
 	.text
-	.section	.gnu.lto_.pureconst.4584e7298add279c,"",%progbits
+	.section	.gnu.lto_.pureconst.5b65e8f6e430fbd0,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.symbol_nodes.4584e7298add279c,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.5b65e8f6e430fbd0,"",%progbits
 	.ascii	"x\234cf``Pe\200\002VE\206\205L\365\014\254\012\214`"
 	.ascii	"J\236\011L\3111\203)Y\026\020\305\000\000}\210\006\221"
 	.text
-	.section	.gnu.lto_.refs.4584e7298add279c,"",%progbits
+	.section	.gnu.lto_.refs.5b65e8f6e430fbd0,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.decls.4584e7298add279c,"",%progbits
+	.section	.gnu.lto_.decls.5b65e8f6e430fbd0,"",%progbits
 	.ascii	"x\234\225U]P\023W\024\336\223\233\204$\256\240\243\325"
 	.ascii	"\216/28\303\330\216\222\351\317t\372V\2533\355[\313"
 	.ascii	"C\373\324\2074\204\255f&D&\273i\307>\264\013\332\372"
@@ -111,7 +111,7 @@
 	.ascii	"\236O\301\253\234\036\227\337\343T$\215\324\352\212"
 	.ascii	"9\214\364\361\177\233g\037^"
 	.text
-	.section	.gnu.lto_.symtab.4584e7298add279c,"",%progbits
+	.section	.gnu.lto_.symtab.5b65e8f6e430fbd0,"",%progbits
 	.ascii	"BaroAlt\000\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\264\000\000\000baroTemperature\000\000\000\000"
 	.ascii	"\000\000\000\000\000\000\000\000\266\000\000\000bar"

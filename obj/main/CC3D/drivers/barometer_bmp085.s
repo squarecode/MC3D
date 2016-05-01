@@ -14,26 +14,26 @@
 	.file	"barometer_bmp085.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.add6e72d603c0760,"",%progbits
+	.section	.gnu.lto_.profile.be707dcd349b24f7,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.inline.add6e72d603c0760,"",%progbits
+	.section	.gnu.lto_.inline.be707dcd349b24f7,"",%progbits
 	.ascii	"x\234cf\300\016\230\340,\000\000\234\000\006"
 	.text
-	.section	.gnu.lto_.pureconst.add6e72d603c0760,"",%progbits
+	.section	.gnu.lto_.pureconst.be707dcd349b24f7,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.symbol_nodes.add6e72d603c0760,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.be707dcd349b24f7,"",%progbits
 	.ascii	"x\234cf```b\200\001\000\000L\000\006"
 	.text
-	.section	.gnu.lto_.refs.add6e72d603c0760,"",%progbits
+	.section	.gnu.lto_.refs.be707dcd349b24f7,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.decls.add6e72d603c0760,"",%progbits
+	.section	.gnu.lto_.decls.be707dcd349b24f7,"",%progbits
 	.ascii	"x\234cf``P\001\342\377@\000\244\030\030\2418\200\201"
 	.ascii	"\000\000\000\3208\004v"
 	.text
-	.section	.gnu.lto_.symtab.add6e72d603c0760,"",%progbits
+	.section	.gnu.lto_.symtab.be707dcd349b24f7,"",%progbits
 	.text
 	.section	.gnu.lto_.opts,"",%progbits
 	.ascii	"'-fno-trapv' '-mthumb' '-mcpu=cortex-m3' '-ggdb3' '"

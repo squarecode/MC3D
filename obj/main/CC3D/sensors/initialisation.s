@@ -14,10 +14,10 @@
 	.file	"initialisation.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.55d3228543c0b70,"",%progbits
+	.section	.gnu.lto_.profile.4d368e929044bd0e,"",%progbits
 	.ascii	"x\234cf```c\200\000F\206sL\323\030\001\005\015\001r"
 	.text
-	.section	.gnu.lto_.jmpfuncs.55d3228543c0b70,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.4d368e929044bd0e,"",%progbits
 	.ascii	"x\234u\220=K\003A\020\206\337w\366rw\312\2054Vi\375"
 	.ascii	"!\376\254\255B\002\"hc*\203X\0106&~\305\217*\275\215"
 	.ascii	"`\021\202\0266\242\205\205\205\205V\022\344\300\231"
@@ -35,7 +35,7 @@
 	.ascii	"f~\371\027\373\334x\337\252\260\002\274\262F\276\001"
 	.ascii	"[bp>"
 	.text
-	.section	.gnu.lto_.inline.55d3228543c0b70,"",%progbits
+	.section	.gnu.lto_.inline.4d368e929044bd0e,"",%progbits
 	.ascii	"x\234m\220\261n\3020\020\206\377;\033\342(\204\230\215"
 	.ascii	"v\211:\025u\252\272\"$\236 O\320\251Sy\013\304\304\230"
 	.ascii	"\007\350\300P\251/RU\335\252J\354]\030\262vD]\360\331"
@@ -52,11 +52,11 @@
 	.ascii	"\323\036\314\310\371\224\331\343#\303i\237\220;\245"
 	.ascii	"\214\003\272h5\035"
 	.text
-	.section	.gnu.lto_.pureconst.55d3228543c0b70,"",%progbits
+	.section	.gnu.lto_.pureconst.4d368e929044bd0e,"",%progbits
 	.ascii	"x\234cf``\340g\200\000v\006\013\026\013v\006N\011\036"
 	.ascii	"I^\011~\011\000\012K\001'"
 	.text
-	.section	.gnu.lto_detectAcc.55d3228543c0b70,"",%progbits
+	.section	.gnu.lto_detectAcc.4d368e929044bd0e,"",%progbits
 	.ascii	"x\234}T_lSe\024\377\316w{oo{o\333\333\032\312l\004\037"
 	.ascii	"\006iH\010\365\301\304\031}\300\230\370\347]\343\253"
 	.ascii	"\315\334C\023\335\222\026\343\323\364v\255q1F\0263\315"
@@ -119,7 +119,7 @@
 	.ascii	"\337\227\350h\337\323\312\214xk\353s\361\344+o\304\223"
 	.ascii	"m/t\274\230j\323\034\202\377\000\223\2722\307"
 	.text
-	.section	.gnu.lto_detectMag.55d3228543c0b70,"",%progbits
+	.section	.gnu.lto_detectMag.4d368e929044bd0e,"",%progbits
 	.ascii	"x\234mToL[U\024\277\347\336\327\327\327\276\276\366"
 	.ascii	"\265\004>411A\202K\310\272D\0271\232\250\321\250_M4"
 	.ascii	"~\265A\234M\004\022\272\304O\304W\300\204\004\202H\226"
@@ -185,7 +185,7 @@
 	.ascii	"\332\360Z\274Vw(\214\267\353jvWW?\366|C\375[\261=\377"
 	.ascii	"\001\217\024E\217"
 	.text
-	.section	.gnu.lto_selectMPUIntExtiConfig.55d3228543c0b70,"",%progbits
+	.section	.gnu.lto_selectMPUIntExtiConfig.4d368e929044bd0e,"",%progbits
 	.ascii	"x\234eN=K\303P\024\275\347EB$Kq\354\344 vkV\361\337"
 	.ascii	"\204\342\020\320T\232\256\241/\322\275U\212DDt\021["
 	.ascii	"?\352\240B\353\344\350\340\007~`6]\"\324\255U\027\221"
@@ -203,7 +203,7 @@
 	.ascii	"\235\240RrV\\\317w\202%?(W\002\307\363\275\252\347."
 	.ascii	"{\201[\365\312~\261D\177\211-n\267"
 	.text
-	.section	.gnu.lto_detectGyro.55d3228543c0b70,"",%progbits
+	.section	.gnu.lto_detectGyro.4d368e929044bd0e,"",%progbits
 	.ascii	"x\234}S\313KTQ\030?\277s\274\017\035#\011\202\230\205"
 	.ascii	".\014\206@\234E\375\021-\332\264j\325b0\211\201\032"
 	.ascii	"aF\210\026\203wt\0047Ee\213\350\005=\246\254\306G\232"
@@ -243,7 +243,7 @@
 	.ascii	"\357\214?\344k\3647\004j\353D\371\351\363\301\206\243"
 	.ascii	"\276\340\251s\276`\375o\0151n\216"
 	.text
-	.section	.gnu.lto_reconfigureAlignment.55d3228543c0b70,"",%progbits
+	.section	.gnu.lto_reconfigureAlignment.4d368e929044bd0e,"",%progbits
 	.ascii	"x\234\215\222\317k\023A\024\307\347\315\354\316\216"
 	.ascii	"\211\277\020\274\364 \036,9h\273\377\200\202\342\277"
 	.ascii	" \236\215%\226\205v\003M\216\226Nj\220\234\244T\017"
@@ -279,7 +279,7 @@
 	.ascii	"\235]\354`\360\313\251\036\247\333\355\215\271\311\323"
 	.ascii	"q\367\202\323\375\027IK9="
 	.text
-	.section	.gnu.lto_sensorsAutodetect.part.1.55d3228543c0b70,"",%progbits
+	.section	.gnu.lto_sensorsAutodetect.part.1.4d368e929044bd0e,"",%progbits
 	.ascii	"x\234}VmL\223W\024\276\347\276\355\333B\201\026\374"
 	.ascii	"B\330\224\304\031Y6%\331~l\177\226\271\314,\373\261"
 	.ascii	"\354\307>\376n\"V\322\004ZS0\323\037\306\227R\020\277"
@@ -369,7 +369,7 @@
 	.ascii	"\315\264IxL\372\3525\313\254\231\326\024R\371\312\232"
 	.ascii	"\261&-3zE\262\323\0212\331\177\241%\221*"
 	.text
-	.section	.gnu.lto_sensorsAutodetect.55d3228543c0b70,"",%progbits
+	.section	.gnu.lto_sensorsAutodetect.4d368e929044bd0e,"",%progbits
 	.ascii	"x\234}\224kL\233U\030\307\317sN)\320\026Z\330\226,\304"
 	.ascii	",&H\300\304\214\304o\306\030g$\306\017\306\017^\342"
 	.ascii	"G\355\272\2164\241-\266]t\037\310^XQ7\20512\205\015"
@@ -439,7 +439,7 @@
 	.ascii	"\262\373\3546ry\307\356\335\221\343\373\027\364\334"
 	.ascii	"\243\013"
 	.text
-	.section	.gnu.lto_.symbol_nodes.55d3228543c0b70,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.4d368e929044bd0e,"",%progbits
 	.ascii	"x\234U\214\273N\303@\020E\357\356\254\035\033\274\330"
 	.ascii	"@\000Q!\036\342\025\336o\211\217\233\024( \321P\320"
 	.ascii	"\006\231(\237\220\222*Z\231\016$\276\000\"\323!>\001"
@@ -456,14 +456,14 @@
 	.ascii	"50\262{J\343\336\326\2609\350|*P\272\000\343\356\331"
 	.ascii	"\254\356\246\363\350;?\2151\252RcX\024!~\001_\372uV"
 	.text
-	.section	.gnu.lto_.refs.55d3228543c0b70,"",%progbits
+	.section	.gnu.lto_.refs.4d368e929044bd0e,"",%progbits
 	.ascii	"x\234%\312I\012\2000\024D\301\377\272\223\030\023\207"
 	.ascii	"\225\010\012\202G\362\376\227\021\261\326\345\210x\342"
 	.ascii	"\227\002\252\264\301\216o'\362\240\262\341\213A\225"
 	.ascii	"4\322\244nZ\301\335\023\315P\310c\232C5zg9XN\257\322"
 	.ascii	"\327Ts\274oT\002Y"
 	.text
-	.section	.gnu.lto_.decls.55d3228543c0b70,"",%progbits
+	.section	.gnu.lto_.decls.4d368e929044bd0e,"",%progbits
 	.ascii	"x\234\225{\011XTW\266.\247v\025\024E\001\235hL\332\276"
 	.ascii	"\375bL\232\327\335\267\257cL'\337\355\376:\210\211\232"
 	.ascii	"\326\304vH\372}\357\275\217\246\261\222\360Z\321\000"
@@ -1033,7 +1033,7 @@
 	.ascii	"\301\346\315Z\034V\330\267\015L\234\212>\012&\243\011"
 	.ascii	"\371\377\007\271.\243]"
 	.text
-	.section	.gnu.lto_.symtab.55d3228543c0b70,"",%progbits
+	.section	.gnu.lto_.symtab.4d368e929044bd0e,"",%progbits
 	.ascii	"detectedSensors\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\000\334\002\000\000selectMPUIntExtiConfig\000"
 	.ascii	"\000\000\000\000\000\000\000\000\000\000\000@\002\000"

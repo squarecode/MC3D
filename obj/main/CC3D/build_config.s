@@ -14,23 +14,23 @@
 	.file	"build_config.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.948e134cd7c9b383,"",%progbits
+	.section	.gnu.lto_.profile.3ddf99be55b6c4dc,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.inline.948e134cd7c9b383,"",%progbits
+	.section	.gnu.lto_.inline.3ddf99be55b6c4dc,"",%progbits
 	.ascii	"x\234cf\300\016\230\340,\000\000\234\000\006"
 	.text
-	.section	.gnu.lto_.pureconst.948e134cd7c9b383,"",%progbits
+	.section	.gnu.lto_.pureconst.3ddf99be55b6c4dc,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.symbol_nodes.948e134cd7c9b383,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.3ddf99be55b6c4dc,"",%progbits
 	.ascii	"x\234cf``\020`\200\002V%\206\205L\365\014\254\212\214"
 	.ascii	" \212\001\000\026n\002\246"
 	.text
-	.section	.gnu.lto_.refs.948e134cd7c9b383,"",%progbits
+	.section	.gnu.lto_.refs.3ddf99be55b6c4dc,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.decls.948e134cd7c9b383,"",%progbits
+	.section	.gnu.lto_.decls.3ddf99be55b6c4dc,"",%progbits
 	.ascii	"x\234e\224mL\223W\024\307\357yn[\332B\213,\233\311\236"
 	.ascii	"OK\230$K\210D\235\337\2268\350\230v\351\200\225vo1i"
 	.ascii	"\014\326\321D\354\3060\331\247\345\301\210\3332\\*\313"
@@ -86,7 +86,7 @@
 	.ascii	"\301\265\357\303\375\025\305\356\375\345%N\207\363_"
 	.ascii	"\016\271\307\021"
 	.text
-	.section	.gnu.lto_.symtab.948e134cd7c9b383,"",%progbits
+	.section	.gnu.lto_.symtab.3ddf99be55b6c4dc,"",%progbits
 	.ascii	"motorLimitReached\000\000\004\000\001\000\000\000\000"
 	.ascii	"\000\000\000\256\000\000\000inputSource_e\000\000\004"
 	.ascii	"\000\001\000\000\000\000\000\000\000\336\000\000\000"

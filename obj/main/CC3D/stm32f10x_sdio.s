@@ -14,11 +14,11 @@
 	.file	"stm32f10x_sdio.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_.profile.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234cf```c\200\000F\206\375\214\323\031\001\004\320"
 	.ascii	"\001c"
 	.text
-	.section	.gnu.lto_.jmpfuncs.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234m\310I\022\202@\020D\321\254nfd\222Y\005\216\311"
 	.ascii	"\262\317\301m\365G\270\244\026\357W\244\327\375]\377"
 	.ascii	"\0362\263`\316\314\207`\376\374MN\362\214\021\304\220"
@@ -26,7 +26,7 @@
 	.ascii	"\011fX`\205\027\274\341\003\033\354\240/\314\235\020"
 	.ascii	"="
 	.text
-	.section	.gnu.lto_.inline.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_.inline.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234\205S;N\0031\020\235\261\275^'k\330\315\206O\010"
 	.ascii	"\201\335\216\016QR \224\21227@J\011\035%\005EJ\012\212"
 	.ascii	"\034!\005\022\034\203\033\020N\000\005E\312P\"Q\340"
@@ -49,13 +49,13 @@
 	.ascii	"\344\307\007\017\233we}\350\307Gv\351\017\014\314\333"
 	.ascii	"f\326 d\267\027v\355\207]\360\0158\251\177\215"
 	.text
-	.section	.gnu.lto_.pureconst.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_.pureconst.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234%\301\307\001\202\000\020\000\260\243Wi\012Jl\243"
 	.ascii	"\260\377V<H\262\2108\342\362\017\211T&W(Uj\215V\247"
 	.ascii	"w3\030Mf\213\273\207\325\346\351e\307\333\307\327\317"
 	.ascii	"\011\242\240\005Y"
 	.text
-	.section	.gnu.lto_SDIO_ITConfig.part.0.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_ITConfig.part.0.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234\225QKhSQ\020\275\347\276\227\217\244\225\352\252"
 	.ascii	"f%\224\322\212Mc\333\245 .J\241\013\253\220\3426\326"
 	.ascii	"6b\300\252$A\005\027\275\211I\024\\\030\"\245\205\022"
@@ -91,7 +91,7 @@
 	.ascii	"\340\264\277\317{\244\271WX\\\355\235\273\335\235\335"
 	.ascii	"\326.\317qW\240'\340\371\015\304\326\362A"
 	.text
-	.section	.gnu.lto_SDIO_ITConfig.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_ITConfig.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234\225RMH\224A\030\236gf\276\317\365\017\244S\355"
 	.ascii	"A\"\020\015Z\277\324c\021\036\304\360\220\005\353]L"
 	.ascii	"7Z\310\212\335\245\272,\316\272\273\325\251\226\305"
@@ -128,7 +128,7 @@
 	.ascii	"\346\206&W\243\357\2447\324\022\362\375\006n\342\364"
 	.ascii	"M"
 	.text
-	.section	.gnu.lto_SDIO_DeInit.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_DeInit.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234\235\223\271K\003A\024\306\347\315\306\030L\241"
 	.ascii	"X\205\374\003\251\342\252),\304NlD\020b\037<q\301\213"
 	.ascii	"M\020;'\232\250\235!\205\010\222\302B\324\254G\274o"
@@ -155,7 +155,7 @@
 	.ascii	"*K\343\375\262\350\225{E\257o\330\3258\300\322\336>"
 	.ascii	"i\264\256\027\375\000\363\254J#"
 	.text
-	.section	.gnu.lto_SDIO_Init.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_Init.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234\215\223]HTQ\020\307\317\234\263{wu]W\353E|)\020"
 	.ascii	"\021\012\335\324\202 \250\036$\360!\013\364]J\255\026"
 	.ascii	"\322d\335\3027\217\272*\341C\242 \202I\230D\226\346"
@@ -201,7 +201,7 @@
 	.ascii	"\314\226\231\226~$;\275\300\341\312t9\317\346\2704W"
 	.ascii	"~\2413\357\344o\356\261\3024"
 	.text
-	.section	.gnu.lto_SDIO_StructInit.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_StructInit.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234cf\300\004R@\274\223\211\201\301\027H32302M8\307"
 	.ascii	"\300\320\310\301\304\310\010b002\32431\3263\276d\372"
 	.ascii	"\310\3048\341\300\352\031\334\352K\033\032\032>l\372"
@@ -230,7 +230,7 @@
 	.ascii	"\273x\372\307{\346e\226\004\227\024\225&\227\000\000"
 	.ascii	"`\231\020\034"
 	.text
-	.section	.gnu.lto_SDIO_ClockCmd.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_ClockCmd.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234ePK(DQ\030\376\277s\207&\243\310j\232\245\232\244"
 	.ascii	"4\327cG\311Bv\0365\366b\346\312-\203\356\334\260s\357"
 	.ascii	"4\223\245a6JS\204<\306\243\330\353faC\336%\026l\206"
@@ -252,7 +252,7 @@
 	.ascii	"j\206\0327\"j\334\2145\324\367\313\353xT\037\016E\310"
 	.ascii	"\333\241\215\205\315^S\373\001$\350~r"
 	.text
-	.section	.gnu.lto_SDIO_SetPowerState.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_SetPowerState.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234\235\221Oh\023Q\020\306\3377o\263\211\206R\361"
 	.ascii	"Tr\022\241\364\224\256m\217\202x(\202\207b1\336CM#."
 	.ascii	"X+\233\240\336\372\322\246\026\301C\255X\012\245\007"
@@ -281,7 +281,7 @@
 	.ascii	"\377\364\231\364\340\350\265\254\227\312\017\345\263"
 	.ascii	"\177\000\0338\347\005"
 	.text
-	.section	.gnu.lto_SDIO_GetPowerState.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_GetPowerState.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234e\220?HBQ\024\306\317\271\367\365\260\\\242Q\032"
 	.ascii	"\332\204@_*M\321\026mA`\273\224\032=\310\212\247D\233"
 	.ascii	"\267|Yc\224\210!R\015\321\037K\207@\250)\"\242\245\244"
@@ -303,7 +303,7 @@
 	.ascii	"\015}f\3027`\350\263AC\013\033~-\034\011y\334\343d\207"
 	.ascii	"\003\372\264\323\017\277-\342\201\013"
 	.text
-	.section	.gnu.lto_SDIO_DMACmd.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_DMACmd.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234eP\317+\203a\034\377~\236w[\313\034\344\304{Tk"
 	.ascii	"\221\274\314Q\311A\273\221\232\\5\333\344-C\333\302"
 	.ascii	"m\357\326\226\003eH)\355\260\2201?\212\177\340\315\301"
@@ -325,7 +325,7 @@
 	.ascii	"E\302~-\022\015u\272G\345u$\240O\266\371\311\336\037"
 	.ascii	"\234\361F}\321\340\017\015\010~\272"
 	.text
-	.section	.gnu.lto_SDIO_SendCommand.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_SendCommand.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234\225\223_H\323Q\024\307\357\271\277\375~\373?\305"
 	.ascii	"\247\362\245@\304\207\230+\315'\241\202$\360!*\026\370"
 	.ascii	"\024Rj5h&s\205o^\3476\211\210\304P\004\223X!Y\313\277"
@@ -369,7 +369,7 @@
 	.ascii	"#\031\366\242\342C\245\373\235\345\305\225\016\267\335"
 	.ascii	"\355:W\346V\334\316*W\305\251_!\004\246\341"
 	.text
-	.section	.gnu.lto_SDIO_CmdStructInit.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_CmdStructInit.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234cf\300\004R@\\\300\304\300\020\000\244\031\231"
 	.ascii	"\031\030\231&\234c`h\344`bd\0041\030\030\031\352\231"
 	.ascii	"\030\353\031_2}db\234p`\365\014n\365\245\015\015\015"
@@ -398,7 +398,7 @@
 	.ascii	".\236\376\361\316\271)\236y\231%\301%E\245\311%\000"
 	.ascii	"\212o\367("
 	.text
-	.section	.gnu.lto_SDIO_GetCommandResponse.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_GetCommandResponse.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234cf\300\004R@\314\310\310\300`\013\242\231\031\030"
 	.ascii	"\231&\234c`h\344`bd\0041\030\030\031\352\231\030\353"
 	.ascii	"\031_2}db<\263\363\337eF\365\245\015\015M\037.]N\235"
@@ -418,7 +418,7 @@
 	.ascii	"\213\222\365\213Kr\215\215\322@\322\305)\231\371z\311"
 	.ascii	"\014\000\341'm]"
 	.text
-	.section	.gnu.lto_SDIO_GetResponse.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_GetResponse.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234ePMHTQ\030\275\347\3367o\3360.\242\245\006\005"
 	.ascii	"\"\356|\345,\203ha\222D$M\373\241\324\350AS23D;\357"
 	.ascii	"s\236.\242E>D\254\020\222\350\307\312\237lS-b\030\""
@@ -448,7 +448,7 @@
 	.ascii	"\276Nw;7[\272D$\336\326q!q\361L\274Se\222\275\177\000"
 	.ascii	";m\312\362"
 	.text
-	.section	.gnu.lto_SDIO_DataConfig.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_DataConfig.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234\225\223[H\224Q\020\307\317\234oo\272\353\356b"
 	.ascii	"/\345K\205\210P\350\246\346SP=H\340C\024\331CO\211\251"
 	.ascii	"\325B\232\254[\370\346\361\256\017\221\031\230\240\022"
@@ -495,7 +495,7 @@
 	.ascii	"4\267\353B\246\333\340\316\311se\237\371\011\342b\332"
 	.ascii	"\177"
 	.text
-	.section	.gnu.lto_SDIO_DataStructInit.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_DataStructInit.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234\225\322?h\023Q\034\007\360\367}\227\\[\202Vt\321"
 	.ascii	"L.\245\203$\247\351(\210C(t\020\225\270\207\230V<\260"
 	.ascii	"U.\247\270\365\222V\2728\264vH\300\026\007\321T\253"
@@ -525,7 +525,7 @@
 	.ascii	"\316\361r\246\333\274\030M\213}\211x\327\311d<e\247"
 	.ascii	"\272\372L;a[\227\323\366\006\375\266\033\210"
 	.text
-	.section	.gnu.lto_SDIO_GetDataCounter.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_GetDataCounter.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234cf\300\004R@,\310\310\300`\013\244\031\231\031"
 	.ascii	"\030\231&\234c`h\344`bd\0041\030\030\031\352\231\030"
 	.ascii	"\353\031_2}db\334\271\356\313Y\356\027L?\231\030\024"
@@ -546,7 +546,7 @@
 	.ascii	"%\353\027\227\344\032\033\245\201\244\213S2\363\365"
 	.ascii	"\222\031\000\035Kw\202"
 	.text
-	.section	.gnu.lto_SDIO_ReadData.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_ReadData.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234e\216?HBQ\024\306\317w\237\251\345R\215NmN\372"
 	.ascii	"J\207\006i\213\266 \260]J\215\036d\305S\242\315kY\255"
 	.ascii	"\021a\206\010\025D\226e\264\0105ID\264T\264$4\324bP"
@@ -566,7 +566,7 @@
 	.ascii	"\007Mc.b\35213\244\307\342Q\237w\202\355X\330\230\361"
 	.ascii	"\204\350\027\021\015wZ"
 	.text
-	.section	.gnu.lto_SDIO_WriteData.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_WriteData.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234e\220=HBQ\030\206\277\367\334\233F\016ES9\265D"
 	.ascii	"\223\336\3221\250\250h\013\202\332\305\324\350B\177"
 	.ascii	"\250D[\307\262Z\243\301\004q\210\210~\354\177\020j\210"
@@ -589,7 +589,7 @@
 	.ascii	"\221\240>\356\016\220\332\355\217\372\377\000A\033\212"
 	.ascii	"\266"
 	.text
-	.section	.gnu.lto_SDIO_GetFIFOCount.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_GetFIFOCount.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234cf\300\004R@,\302\310\300`\013\244\031\231\031"
 	.ascii	"\030\231&\234c`h\344`bd\0041\030\030\031\352\231\030"
 	.ascii	"\353\031_2}db\334\271\356\313Y\356\027L?\231\030\024"
@@ -610,7 +610,7 @@
 	.ascii	"\322/.J\326/.\31156J\003I\027\247d\346\353%3\000\000"
 	.ascii	"\352Ew\325"
 	.text
-	.section	.gnu.lto_SDIO_StartSDIOReadWait.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_StartSDIOReadWait.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234ePM(\203a\034\377\377\236gf\305A\216\273k)\355"
 	.ascii	"\365q\0249\310\215\324\334g\266\311[\276z\367\206\233"
 	.ascii	"wk(\016F\324J+B\2769\2708\276q'\"mBi\304\315(k\211\371"
@@ -632,7 +632,7 @@
 	.ascii	"-b\004\265\2109\320P\337\253\256#!}\310\033$WGx\324"
 	.ascii	"g\006\314\360\017a/\201."
 	.text
-	.section	.gnu.lto_SDIO_StopSDIOReadWait.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_StopSDIOReadWait.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234ePK(DQ\030\376\277s\3064\305B\226\263\037\223\222"
 	.ascii	"\313\310J\311BVH\215\375x]\271e\320\314\204\235{\247"
 	.ascii	"\361(S\206\310\224,\344=\343Q\224\365\215=\221\362H"
@@ -655,7 +655,7 @@
 	.ascii	"\332\327\243\256\303\335\306@E\027\271Z\364a\177\244"
 	.ascii	"#\242\377\000\346\025\200Q"
 	.text
-	.section	.gnu.lto_SDIO_SetSDIOReadWaitMode.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_SetSDIOReadWaitMode.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234cf\300\004R@\254\307\310\300\340\017\244\031\231"
 	.ascii	"\031\030\231&\234c`h\344`bd\0041\030\030\031\352\231"
 	.ascii	"\030\353\031_2}db\234p`\365\014n\365\245\015\015\015"
@@ -679,7 +679,7 @@
 	.ascii	"3\010\006\273x\372\307\007\245&\246\204'f\226\370\346"
 	.ascii	"\247\244\002\000\255\227\211\013"
 	.text
-	.section	.gnu.lto_SDIO_SetSDIOOperation.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_SetSDIOOperation.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234eP\315+DQ\024?\277{\207^\215\205,g\257I1\217\261"
 	.ascii	"T\262\220\035\251\261g0\362\312\240\231\027v\336\233"
 	.ascii	"\006\013\013\037)\2574IC\030_e\376\201\027KE&\021\211"
@@ -701,7 +701,7 @@
 	.ascii	"\256\343\275\306P\240\207\264\266\310h\310\014\233\221"
 	.ascii	"\037\352\267\201\213"
 	.text
-	.section	.gnu.lto_SDIO_SendSDIOSuspendCmd.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_SendSDIOSuspendCmd.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234eP\315+\303a\034\377~\236gX\315A\216\273\217\224"
 	.ascii	"\366c\216J\016\332\215\324\334g\266\311\257\014m\013"
 	.ascii	"\267\3756\303I^r`\232\022\3026\224\375\003\277(\345"
@@ -723,7 +723,7 @@
 	.ascii	"\277\026\211\206:\\\303\352:\022\320\307\235~\262\366"
 	.ascii	"\005\247<Q_4\370\013\235\310\200\015"
 	.text
-	.section	.gnu.lto_SDIO_CommandCompletionCmd.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_CommandCompletionCmd.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234ePM(DQ\024>\337\275\217\246X\310r\366\232\224\346"
 	.ascii	"a\226\"\013\331\221\032\373\3617\362\312_3/\354\274"
 	.ascii	"\367\014\2634&\013\232,\2040\343\257f1\333\027{\362"
@@ -745,7 +745,7 @@
 	.ascii	"HG\314\230\212\306\364xlP\217\233c\241\346au\035\037"
 	.ascii	"2&\202\203\344\353\216N\207\315~3\372\003t\007\201\036"
 	.text
-	.section	.gnu.lto_SDIO_CEATAITCmd.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_CEATAITCmd.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234eP9H\003A\024\375of\243\013\021\024\313\355E\004"
 	.ascii	"q=JA,\304N\021b\357\031q\301\213$\250\235\273I\264Q"
 	.ascii	"\360\300\302\203\024\242\306\373(l\304f\325^Q\004\321"
@@ -771,7 +771,7 @@
 	.ascii	"\316\262\3226u\034l\265\272\213ZH\257\365\367\371BM"
 	.ascii	"!\3777\212\030\240\207"
 	.text
-	.section	.gnu.lto_SDIO_SendCEATACmd.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_SendCEATACmd.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234ePM(\303a\030\177~\357;Z\346 \307\335\327R\332"
 	.ascii	"\237\355\250\344\240\335H\315\235\231\311\277\014m\013"
 	.ascii	"7\377\315p\364\221\003IK\3107\341\342\242\376Q.\212"
@@ -794,7 +794,7 @@
 	.ascii	"DC\036w\227\272\216t\352}\256\000Y\233\203\203\276\250"
 	.ascii	"?\032\374\001\004\201\201\337"
 	.text
-	.section	.gnu.lto_SDIO_GetFlagStatus.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_GetFlagStatus.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234eP[H\223Q\034?\277s\276Mm\222\322S|\017\021\210"
 	.ascii	"\210\220~\245\217A\027\020+(*V\317\313[\364AVl+|\363"
 	.ascii	"\354\322^2\220\020\254\231\204EV\316Ki\012\253\021\243"
@@ -828,7 +828,7 @@
 	.ascii	"\262\201\0258k\016\034v\325\036\334\273\257\240\336"
 	.ascii	"\364z\274u\336\363\236\177V\261\354\033"
 	.text
-	.section	.gnu.lto_SDIO_ClearFlag.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_ClearFlag.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234ePM(\204Q\024\275\347\275\3174\314F\226\263\262"
 	.ascii	"\231f5>?+)Q\242)\242\306~0\310W\376\232\221f\347\315"
 	.ascii	"\030c\245&i\032\215YH\3623\014Y\010\013}I\222BV\312"
@@ -851,7 +851,7 @@
 	.ascii	"\030\251\253\035T\355P\2771V\025\240R_\213\267\323\337"
 	.ascii	"\332\336\334\366\013r^\215-"
 	.text
-	.section	.gnu.lto_SDIO_GetITStatus.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_GetITStatus.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234eP]HSQ\034?\277s\3566k\016\245\247\270\017\021"
 	.ascii	"\210H\220\336rO\021T\017\"\370\020\006\263\347\345W"
 	.ascii	"t!K\266\025\275y\366\321^\362AB0\032\022\026Y\271\322"
@@ -886,7 +886,7 @@
 	.ascii	"\253\367\3265\354j2\003\376@c\340\222\377\037:>\355"
 	.ascii	" "
 	.text
-	.section	.gnu.lto_SDIO_ClearITPendingBit.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_SDIO_ClearITPendingBit.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234ePK(\204Q\024>\337\275\2771\231\246d9+\233\311"
 	.ascii	"\212\337c\251d\201\232\205\250\261\037\357\374\345\325"
 	.ascii	"\214d\347\316\030f+4M\015\011\311c\230\361(\305\352"
@@ -910,7 +910,7 @@
 	.ascii	"\201\221\201\232\352^\325\016t\033C\025]T\350m\360\264"
 	.ascii	"\370<m\277\324M\215\024"
 	.text
-	.section	.gnu.lto_.symbol_nodes.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234U\321\267q\002\001\030\005\341\377\356\360\336"
 	.ascii	"\013\341\2757\302\010#\025\267-\320\000\014CF\033\024"
 	.ascii	"@ADbF\004\274\315\276x=3{8\366\237\373\213\331\341n"
@@ -922,10 +922,10 @@
 	.ascii	"?\324\336\355=\307\337\256w\307\376\000\370\015\212"
 	.ascii	"\241"
 	.text
-	.section	.gnu.lto_.refs.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_.refs.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.decls.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_.decls.f7f3701c28c03204,"",%progbits
 	.ascii	"x\234\265YkTTW\226\256sO\025P\305C\215\211\261\355\265"
 	.ascii	"\246\015\335\315\352d\0221\352\312\312\312d2*ht\265"
 	.ascii	"F[\3108kz\255\020Z*Z3\362\030(\362\230\231\037WQ@A\005"
@@ -1204,7 +1204,7 @@
 	.ascii	"$_\371Zg>\326\222\031\235\337\334\340\340\325\377\007"
 	.ascii	"\231\231\357\253"
 	.text
-	.section	.gnu.lto_.symtab.6b75dff65d81f19a,"",%progbits
+	.section	.gnu.lto_.symtab.f7f3701c28c03204,"",%progbits
 	.ascii	"SDIO_ITConfig\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\307\000\000\000SDIO_DeInit\000\000\000\000"
 	.ascii	"\000\000\000\000\000\000\000\000\312\000\000\000SDI"

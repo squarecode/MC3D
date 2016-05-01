@@ -14,28 +14,28 @@
 	.file	"scheduler_tasks.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.210c3d5b1a890b94,"",%progbits
+	.section	.gnu.lto_.profile.3d164c3b8eb8c034,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.inline.210c3d5b1a890b94,"",%progbits
+	.section	.gnu.lto_.inline.3d164c3b8eb8c034,"",%progbits
 	.ascii	"x\234cf\300\016\230\340,\000\000\234\000\006"
 	.text
-	.section	.gnu.lto_.pureconst.210c3d5b1a890b94,"",%progbits
+	.section	.gnu.lto_.pureconst.3d164c3b8eb8c034,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.symbol_nodes.210c3d5b1a890b94,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.3d164c3b8eb8c034,"",%progbits
 	.ascii	"x\234M\307\275\001@0\030\004\320\373\022!\230\001\361"
 	.ascii	"\317\224\247TZ\301 V0\223Fq\257{\036\300\203_hp;\302"
 	.ascii	"Z\002\327\013\020\307\031a\035M\233\350\264=\275v`\246"
 	.ascii	"\035\031\264\023s\355\314B\2730jW\226\332\215\225vg"
 	.ascii	"-\305\007\311\310-\015"
 	.text
-	.section	.gnu.lto_.refs.210c3d5b1a890b94,"",%progbits
+	.section	.gnu.lto_.refs.3d164c3b8eb8c034,"",%progbits
 	.ascii	"x\234%\301I\001\000 \014\300\260\322q3\007\370\367\311"
 	.ascii	"\203$\200\313\227X\324\260\332\354\016\247\313\3551"
 	.ascii	"y\011\271\000\221"
 	.text
-	.section	.gnu.lto_.decls.210c3d5b1a890b94,"",%progbits
+	.section	.gnu.lto_.decls.3d164c3b8eb8c034,"",%progbits
 	.ascii	"x\234\255XiPTW\026~\367\275\336i\032c2\232\242j\006"
 	.ascii	"&\251\242\222L\242N&c\345_\242\206IRe\022FHU\226\037"
 	.ascii	"L\007:J\205\305\241\333\251\230\252T=@\021q\003\342"
@@ -240,7 +240,7 @@
 	.ascii	"\377\211\177\020\334\327\256\366\377 0h\315\307\001"
 	.ascii	"\334\177\001n\224)3"
 	.text
-	.section	.gnu.lto_.symtab.210c3d5b1a890b94,"",%progbits
+	.section	.gnu.lto_.symtab.3d164c3b8eb8c034,"",%progbits
 	.ascii	"cfTasks\000\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\203\001\000\000taskSystem\000\000\002\000\000\000"
 	.ascii	"\000\000\000\000\000\000\254\000\000\000taskMainPid"

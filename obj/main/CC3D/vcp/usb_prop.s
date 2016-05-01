@@ -14,11 +14,11 @@
 	.file	"usb_prop.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_.profile.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234cf```c\200\000F\206\035\314\013\031\001\004\316"
 	.ascii	"\001h"
 	.text
-	.section	.gnu.lto_.jmpfuncs.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234}\222[KBA\020\307gf\017y\3114\"\"z\3523\364\011"
 	.ascii	"\372(}\213\236\344\330CP\220\022\365T\320\015\304\256"
 	.ascii	"\236J\273\201\025\366\024\004Q\321\203\201\210\024\005"
@@ -41,7 +41,7 @@
 	.ascii	"s\214I\350\377\037\223\017r\302\330\300/\0060\310\373"
 	.ascii	"\007\322\367\235\002"
 	.text
-	.section	.gnu.lto_.inline.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_.inline.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234\265\222=O\002A\020\206\337\331]\356\216\343\344"
 	.ascii	"\010Ab\264\300\217\336\312\302\312\360\013\370\027\032"
 	.ascii	"(\374\017\330kr\205\20511\241R>\324\030c\2436TJcbl\254"
@@ -64,11 +64,11 @@
 	.ascii	"js?:y\2442\372\351\266\327&\255\2504\363\365\245\343"
 	.ascii	"\023\027*eF"
 	.text
-	.section	.gnu.lto_.pureconst.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_.pureconst.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234cf``\220g\200\000~\006)f)\026\0116\006v)N).)nV"
 	.ascii	"\036\006>)~)!\011\021\0111I\011\026\000 >\002\001"
 	.text
-	.section	.gnu.lto_Virtual_Com_Port_SetConfiguration.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_Virtual_Com_Port_SetConfiguration.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234u\222\315k\023A\030\306\347ygw\263\232\036D\020"
 	.ascii	"J\300\017\332C\017\322\356\241\007\301\273\007\361\017"
 	.ascii	"\360(6 x\260\015-z\013\235\215[(\264\264\245\247\200"
@@ -99,7 +99,7 @@
 	.ascii	"9\223\350\357Kt\305\205\2318\331{\256\3577\331L\336"
 	.ascii	"\274"
 	.text
-	.section	.gnu.lto_Virtual_Com_Port_SetDeviceAddress.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_Virtual_Com_Port_SetDeviceAddress.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234cf\300\004R@|\017\210e\200\230\221\231\201\221"
 	.ascii	"i\3029\006\206F\016&FF\020\203\201\221\241\236\211\261"
 	.ascii	"\236\361%\323G&\306\011\007V\317\340V_\332\320\320\360"
@@ -117,7 +117,7 @@
 	.ascii	"\364K\213\223\342\013\212\362\013\364\222\031\000\227"
 	.ascii	"a\\\011"
 	.text
-	.section	.gnu.lto_Virtual_Com_Port_Status_In.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_Virtual_Com_Port_Status_In.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234u\220OKBA\024\305\357\271\363\224G\266\210V\"\011"
 	.ascii	"\255r\347\013\372\036}\205JW-*Qj'\316\253\027\264\012"
 	.ascii	"\311M\320\237]dYJ\264j'-\014\202\212\210(Z\324F\241"
@@ -138,7 +138,7 @@
 	.ascii	"B<\341\314\247b\023\211\344\\\"\032\247\017W\030\210"
 	.ascii	"\311"
 	.text
-	.section	.gnu.lto_Virtual_Com_Port_Status_Out.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_Virtual_Com_Port_Status_Out.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234cf\300\004R@\\\012\3042@\314\310\314\300\3104\341"
 	.ascii	"\034\003C#\007\023##\210\301\300\310P\317\304X\317\370"
 	.ascii	"\222\351#\023\343\204\003\253gp\253/mhh\370\260\350"
@@ -149,7 +149,7 @@
 	.ascii	"\022d\324\023&F\220\020P\201\224\236~qQ\262~nbf\236"
 	.ascii	"~Yr\201~iqR|AQ~\201^2\003\000\363\0012{"
 	.text
-	.section	.gnu.lto_Virtual_Com_Port_Data_Setup.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_Virtual_Com_Port_Data_Setup.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234\225T]lTU\020>\3379w\357\357R\232\012\211\331h"
 	.ascii	"\300 i\032Y\232\370D\202\017&\276\373@|\027\255}\340"
 	.ascii	"AZ[j\302\303\246\267\355F\014I\025\273MlB\255@5T\321"
@@ -206,7 +206,7 @@
 	.ascii	"\316{\241\256~\367\266\272\246];v\326\376\003Y\034L"
 	.ascii	"\245"
 	.text
-	.section	.gnu.lto_Virtual_Com_Port_SetLineCoding.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_Virtual_Com_Port_SetLineCoding.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234e\220Mk\023Q\024\206\317{\357\314djZ\014\256$ "
 	.ascii	"\010R\272\220$\013\375\001.\005\373\003\334\211\206"
 	.ascii	"\242]XC\253\356Bob\020\027Z\244\266R\265~Q\324\330h"
@@ -239,7 +239,7 @@
 	.ascii	"\354K\364\037ID\343\344t\367\364\035<z\350/\247j\342"
 	.ascii	"i"
 	.text
-	.section	.gnu.lto_Virtual_Com_Port_GetLineCoding.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_Virtual_Com_Port_GetLineCoding.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234e\220KkSQ\024\205\367:\347>R\323bp$\001A\220\322"
 	.ascii	"AI2\361\0078\024\364\0078\023\015E;\260\206V\235\205"
 	.ascii	"\236\033\2038P\221\332\226\252\365EQcc\323\372\210Z"
@@ -270,7 +270,7 @@
 	.ascii	"\365\366\305\216\305\023\261\243\003\373\367&\372\017"
 	.ascii	"'\242qrv\367\364\0358r\360/W\255\342\030"
 	.text
-	.section	.gnu.lto_Virtual_Com_Port_NoData_Setup.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_Virtual_Com_Port_NoData_Setup.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234e\221MOSQ\020\206\347\235s\357\245\322\022\210"
 	.ascii	"\211\233F\027\232\0001\010\375\007\306_\340B\177\200"
 	.ascii	"@\303\302\205R\251uGz\012\215!.T\244\211\211\242&\212"
@@ -302,7 +302,7 @@
 	.ascii	"\237\014\234\011\206\002\221p\347\261POw\250-H;\216"
 	.ascii	"t\235\212t\205O\037\356\376\013\210\230\346|"
 	.text
-	.section	.gnu.lto_Virtual_Com_Port_Get_Interface_Setting.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_Virtual_Com_Port_Get_Interface_Setting.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234e\220\317kSA\020\307\347;\3736\2465\207 \010\355"
 	.ascii	"\003\351\241\204 Hr\021\274*\236z\366\017\2601<\245"
 	.ascii	"`cH\243\327lL\004A\301\036,\225\202\010J\177\35131\012"
@@ -328,7 +328,7 @@
 	.ascii	"\270\226Oei`,W\364\012\2273Y/~\356\252d\271L\321\273"
 	.ascii	"\340\025\213\023\271+\007Y9\241)"
 	.text
-	.section	.gnu.lto_Virtual_Com_Port_init.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_Virtual_Com_Port_init.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234mQ\273J\003Q\020\275g\326$\253\211(V\022\304VD"
 	.ascii	"M:\177\301\317\020Me\241\206\210v\301\335\030!\225\030"
 	.ascii	"E\020\237X\370~\277\333\305B;E,D\021\025\211\250\205"
@@ -352,7 +352,7 @@
 	.ascii	"\017\362\331xa\177 \330\025\011\005\333[\332:\202=\241"
 	.ascii	"p\260\273\253\2659\034\351\014\007B\342\0237R\314^"
 	.text
-	.section	.gnu.lto_Virtual_Com_Port_Reset.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_Virtual_Com_Port_Reset.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234\225\225IO\024Q\020\307_\275Y\331\021!1\023\017"
 	.ascii	"^\2141:L\364\023x\366#xq\341\344A%\030\275\021{t\210"
 	.ascii	"\232\250\014h\214\342\256\210\270\260#\"\233\355\212"
@@ -407,7 +407,7 @@
 	.ascii	"n\017\354\316\313\017\354\332\271ec~\301\216\374\334"
 	.ascii	"<\366\013\324[\362\220"
 	.text
-	.section	.gnu.lto_Virtual_Com_Port_GetDeviceDescriptor.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_Virtual_Com_Port_GetDeviceDescriptor.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234ePK+\204a\024>\317\371\276\371\214\306b\262\234"
 	.ascii	"RJ\262P3\177\301\017\260\267\024\223\260\300\344\266"
 	.ascii	"\233\346\3754d%i\224{Jr\037\267\025\253\311J\011\241"
@@ -430,7 +430,7 @@
 	.ascii	"\247;\032\351hj\357\214\364Gc\221\276\236\346\306Xw"
 	.ascii	"W,\034%\247\276\245\263\265\267\355\007F\340\235\351"
 	.text
-	.section	.gnu.lto_Virtual_Com_Port_GetConfigDescriptor.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_Virtual_Com_Port_GetConfigDescriptor.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234ePM+\204Q\024>\317y\337y\215\306B\226SJi\2623\345"
 	.ascii	"\027\370\001\366\226b\022\263\300\344k7\315}5d%i\224"
 	.ascii	"\357\224d|\215\301\212\325,\225\220\246\314\306Gi\024"
@@ -453,7 +453,7 @@
 	.ascii	"\360p$\026\036\032\350h\213\365\367\305\032#\344\264"
 	.ascii	"t\366v\015v\377\000\307h\235{"
 	.text
-	.section	.gnu.lto_Virtual_Com_Port_GetStringDescriptor.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_Virtual_Com_Port_GetStringDescriptor.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234mR]H\024Q\024\276\337\235\331\335\331\035W\267"
 	.ascii	"\236b!\012L$l\335\300G\021z\257\347^\305D\312~L4\013"
 	.ascii	"\002\361\256m\351\203F\230\204\251\375\210\225\377\177"
@@ -493,7 +493,7 @@
 	.ascii	"\037\311/-;]\232]\310\354\207\212J\216\2369\3468w\270"
 	.ascii	"\340dE\321\376\337\236\373J\372"
 	.text
-	.section	.gnu.lto_Virtual_Com_Port_GetBaudRate.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_Virtual_Com_Port_GetBaudRate.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234e\216\275K\003a\014\306\363\344\352Q\351\"\202"
 	.ascii	"\313\341\340\326\251w\273\377\207\263h\247\016ji\321"
 	.ascii	"\255\364\275\343\006'\025Q\250\370\201\213Xm=\321AP"
@@ -512,7 +512,7 @@
 	.ascii	";G\312\003\345\220\322q\275|.\355\315Lef\275\205t\326"
 	.ascii	"\233\317OOfssY7M?\303\225m\224"
 	.text
-	.section	.gnu.lto_.symbol_nodes.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234U\217\307N\303@\024E\257\355\2044R\010\020zI $"
 	.ascii	"!\205\032z\371\264\313\"\002\204\245\300\027 \220\274"
 	.ascii	"\200\277\240\230.\261d\015\222\331\261d\215\310\214"
@@ -536,7 +536,7 @@
 	.ascii	"Xp\032\216`\266\341\377\217\276\200\271\006\274\313"
 	.ascii	"O\003\277<\226\334\301"
 	.text
-	.section	.gnu.lto_.refs.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_.refs.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234E\214G\022\302@\000\303l\355&\331\024\322\013\235"
 	.ascii	"\357\363L\0029`\217G\243\213\203\244\267\216 \031\023"
 	.ascii	"\035~Pfg!/\224\202R\351\254\247l\251\006\245\231R\011"
@@ -545,7 +545,7 @@
 	.ascii	"\207g\026{\241g\375^ly\334\270p\345\306\335g\235\\>"
 	.ascii	"y\241}\377\006}\000\301c\005\306"
 	.text
-	.section	.gnu.lto_.decls.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_.decls.7b19c2e76e9df83f,"",%progbits
 	.ascii	"x\234\245zy\\T\331\225\177\335\272\305V\024\224K\332"
 	.ascii	"\356\330I\232\330\011\231lm\247'\343g\376\231Iw\243"
 	.ascii	"\311\230_Gh\320\236\344\267|\030\224\262\233\031\033"
@@ -985,7 +985,7 @@
 	.ascii	"\0141\200\225@\316v\"g9\253Z\314H\303\375\2701`\363"
 	.ascii	"6\335\177\003\216\035\263\230"
 	.text
-	.section	.gnu.lto_.symtab.45b04fdd02e1a88c,"",%progbits
+	.section	.gnu.lto_.symtab.7b19c2e76e9df83f,"",%progbits
 	.ascii	"Virtual_Com_Port_SetConfiguration\000\000\000\000\000"
 	.ascii	"\000\000\000\000\000\000\000\314\000\000\000Virtual"
 	.ascii	"_Com_Port_SetDeviceAddress\000\000\000\000\000\000\000"

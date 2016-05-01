@@ -14,25 +14,25 @@
 	.file	"light_led_stm32f10x.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.37201cba93a98c82,"",%progbits
+	.section	.gnu.lto_.profile.8d9640511908936b,"",%progbits
 	.ascii	"x\234cf```a\200\000F\006\005^\000\000\301\0006"
 	.text
-	.section	.gnu.lto_.jmpfuncs.37201cba93a98c82,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.8d9640511908936b,"",%progbits
 	.ascii	"x\234cf\300\016\374\2404#\003##\003\003\023\323G&\306"
 	.ascii	"\017\375\177\327s\275`\372\311\304\3200\243\245\201"
 	.ascii	"\205\201q9\243\024\003Tn\311\324ikXAr\214\034\014\214"
 	.ascii	"+\200\342 \301\213\263\2265\363\203\004\231\200\246"
 	.ascii	"\254\004)\006\000v\037\025\272"
 	.text
-	.section	.gnu.lto_.inline.37201cba93a98c82,"",%progbits
+	.section	.gnu.lto_.inline.8d9640511908936b,"",%progbits
 	.ascii	"x\234cf\300\016\224\2414#\003\013\277\002#\003\023\317"
 	.ascii	"\203X\006\266\005\362L 1f\036\006\006&8\305\000\000"
 	.ascii	"A\037\002\220"
 	.text
-	.section	.gnu.lto_.pureconst.37201cba93a98c82,"",%progbits
+	.section	.gnu.lto_.pureconst.8d9640511908936b,"",%progbits
 	.ascii	"x\234cf```f\200\000F\006)\000\000z\000\""
 	.text
-	.section	.gnu.lto_ledInit.37201cba93a98c82,"",%progbits
+	.section	.gnu.lto_ledInit.8d9640511908936b,"",%progbits
 	.ascii	"x\234}T\377OSW\024\277\237\373\372\036\305\"e:\223\345"
 	.ascii	"%\013K\2101.B\335\226\030\177\330\017f\177\201\177\301"
 	.ascii	"\010A\304&\350\010\220e\211i\274\305\022e1\223\220\314"
@@ -85,17 +85,17 @@
 	.ascii	"\275\263\026\365\010\333y\"\324\326\207\337\251\330"
 	.ascii	"%\376\005\001-\356\207"
 	.text
-	.section	.gnu.lto_.symbol_nodes.37201cba93a98c82,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.8d9640511908936b,"",%progbits
 	.ascii	"x\234cf``pg\200\002&\225z\006\206\011\347\030\030\352"
 	.ascii	"\353\031\346-\340``UfX\310T\317\300\250V\317\010\021"
 	.ascii	"fhh\340``T\255gB\3422\003\341\223\007\377\030\231\031"
 	.ascii	"\230\030\216\264\275\221g\000\000r\002\022\027"
 	.text
-	.section	.gnu.lto_.refs.37201cba93a98c82,"",%progbits
+	.section	.gnu.lto_.refs.8d9640511908936b,"",%progbits
 	.ascii	"x\234cf``\340d\200\000&\006FF\026FFV\006\000\0011\000"
 	.ascii	"\034"
 	.text
-	.section	.gnu.lto_.decls.37201cba93a98c82,"",%progbits
+	.section	.gnu.lto_.decls.8d9640511908936b,"",%progbits
 	.ascii	"x\234\225WyP\224\311\025\377\372\353\031\230\031\006"
 	.ascii	"\260\226D-\222\215,&S\232\250\343\261\273\177\344*\025"
 	.ascii	"V\305\365\240\300\255T*\251\232ea\324\251 \020\030\266"
@@ -246,7 +246,7 @@
 	.ascii	"z\311|~\006\220\214\270\2339W\352\247\331\243\321\372"
 	.ascii	"\370o\321\374\027I\347\266\330"
 	.text
-	.section	.gnu.lto_.symtab.37201cba93a98c82,"",%progbits
+	.section	.gnu.lto_.symtab.8d9640511908936b,"",%progbits
 	.ascii	"ledInit\000\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\341\000\000\000led_config\000\000\004\000\030\000"
 	.ascii	"\000\000\000\000\000\0003\001\000\000gpioInit\000\000"

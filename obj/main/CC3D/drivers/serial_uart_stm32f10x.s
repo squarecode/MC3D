@@ -14,10 +14,10 @@
 	.file	"serial_uart_stm32f10x.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.854caca89674d633,"",%progbits
+	.section	.gnu.lto_.profile.5060b80268f2ca4a,"",%progbits
 	.ascii	"x\234cf```c\200\000F\206/Lk\031\001\005\323\001\257"
 	.text
-	.section	.gnu.lto_.jmpfuncs.854caca89674d633,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.5060b80268f2ca4a,"",%progbits
 	.ascii	"x\234}R\315K\002q\024|\363[]7\301\362\030K\327\350\337"
 	.ascii	"\350\330\177\324)\\(\"\010\254CF\004YPh\237Zf\245\225"
 	.ascii	"\207 *\272\304\022\201P\321\007\035<\024T\340AB\352"
@@ -42,7 +42,7 @@
 	.ascii	"s\276p\373\030\361\353a\327\303\006\033\371c=\371!K"
 	.ascii	"\274\036}\001V\345\304\034"
 	.text
-	.section	.gnu.lto_.inline.854caca89674d633,"",%progbits
+	.section	.gnu.lto_.inline.5060b80268f2ca4a,"",%progbits
 	.ascii	"x\234\215P;K\003A\020\376fv\357n\203wz\342\013\322$"
 	.ascii	"`\024\004\011V\326\207X)\246\265\263\216\205\377\341"
 	.ascii	"\032\373\374\204+\004-\024l\205\024\026b+\026i5\205"
@@ -63,11 +63,11 @@
 	.ascii	"\253w\006AB\266\377GW\305\254\\\016\207Z|x\247\221\241"
 	.ascii	"\376\021'\0311\007\237\331{N\276"
 	.text
-	.section	.gnu.lto_.pureconst.854caca89674d633,"",%progbits
+	.section	.gnu.lto_.pureconst.5060b80268f2ca4a,"",%progbits
 	.ascii	"x\234cf``\340g\200\000v\006)F)&\011v\011\016\011N\011"
 	.ascii	"^\011\000\007\274\000\356"
 	.text
-	.section	.gnu.lto_usartIrqCallback.part.0.854caca89674d633,"",%progbits
+	.section	.gnu.lto_usartIrqCallback.part.0.5060b80268f2ca4a,"",%progbits
 	.ascii	"x\234\225TIL\023a\024\376\277\177\246\323vZ\0269r0\032"
 	.ascii	"\242$j\013\352\305\223\361\344\311\030\243\361bL\220"
 	.ascii	"\270D\022\361\320\252\361B\234B\243\250\321\010z \270"
@@ -118,7 +118,7 @@
 	.ascii	"\005\253\013\003\253\012\202\253\212\247NY69\177\255"
 	.ascii	"\177\261@P\316\233\373\013\313\0123X"
 	.text
-	.section	.gnu.lto_usartIrqCallback.854caca89674d633,"",%progbits
+	.section	.gnu.lto_usartIrqCallback.5060b80268f2ca4a,"",%progbits
 	.ascii	"x\234\215U[lTU\024=\373\334\367\314\224\231>\214H\""
 	.ascii	"!!8\2110\035\254\306\360!\321/\377\214F\377\374\301"
 	.ascii	"\212\030\233\210\0373h\374!\334y\004\353\003\003\325"
@@ -182,7 +182,7 @@
 	.ascii	"\333\"5\325/ny\271:\262cKt\307\366\373\253\236\277o"
 	.ascii	"\343\253\225[\031D\371SO\376\013\271\256\316x"
 	.text
-	.section	.gnu.lto_serialUSART1.854caca89674d633,"",%progbits
+	.section	.gnu.lto_serialUSART1.5060b80268f2ca4a,"",%progbits
 	.ascii	"x\234\225WmPTU\030>\357\271w?\330\205]\3244D\250\014"
 	.ascii	"\035\3071\240\217\031\353G\3168S\323d\315\364\243\232"
 	.ascii	"\352G\215CJ\0153\251\015`\323L\303x\201\365#-\021%\305"
@@ -283,7 +283,7 @@
 	.ascii	"C\375\364\363\264y#\337zo\306+3g\314M\313|'3}\376\254"
 	.ascii	"\314\371\351\251\377\001X\365\312i"
 	.text
-	.section	.gnu.lto_DMA1_Channel4_IRQHandler.854caca89674d633,"",%progbits
+	.section	.gnu.lto_DMA1_Channel4_IRQHandler.5060b80268f2ca4a,"",%progbits
 	.ascii	"x\234\215\223\313KTQ\034\307\317\367\334\207\2233\245"
 	.ascii	"D\013qc\340\302\300f\246\007\264\013\332\005\365\007"
 	.ascii	"\324N\314\014\204l1c\321f\360\3168A\264(\023\"\351-"
@@ -324,7 +324,7 @@
 	.ascii	"\256\251\336\274i\337\306\015\207\003\025\002\341?3"
 	.ascii	"\333\230|"
 	.text
-	.section	.gnu.lto_USART1_IRQHandler.854caca89674d633,"",%progbits
+	.section	.gnu.lto_USART1_IRQHandler.5060b80268f2ca4a,"",%progbits
 	.ascii	"x\234u\220\315+Da\024\306\317s.\323\324\265\220,4\033"
 	.ascii	"\312\302B\346\372\330\371\027\374\001\226\232|\324\024"
 	.ascii	"\026\367\"\233\311;\272J\026\222\225\362\021E\306\327"
@@ -348,7 +348,7 @@
 	.ascii	"\333\261\234f;\034jm\350\014\331\035\015NG[MuKUew\260"
 	.ascii	"\221\340|\001\247g\265\315"
 	.text
-	.section	.gnu.lto_serialUSART3.854caca89674d633,"",%progbits
+	.section	.gnu.lto_serialUSART3.5060b80268f2ca4a,"",%progbits
 	.ascii	"x\234\225WiLTW\024\276\347\2767\013\333\200Z\027P\224"
 	.ascii	"\226\252\261-\322%\321&\255\211I\233\246\255I\177\330"
 	.ascii	"\246\355\017\033\203J\033\222\212\006\3204i\210\017"
@@ -446,7 +446,7 @@
 	.ascii	"\253\337-\214Y0\364\263/?\371`\366'\2611\011\237'\304"
 	.ascii	"-\232\233\260(.\372?@\343\\\011"
 	.text
-	.section	.gnu.lto_USART3_IRQHandler.854caca89674d633,"",%progbits
+	.section	.gnu.lto_USART3_IRQHandler.5060b80268f2ca4a,"",%progbits
 	.ascii	"x\234cf\300\004R@|\220\221\201A\037H32302M8\307\300"
 	.ascii	"\320\310\301\304\310\010b002\32431\3263\276d\372\310"
 	.ascii	"\3048\341\300\352\031\334\352K\033\032\032>4\315\227"
@@ -471,7 +471,7 @@
 	.ascii	"\234\370\322\304\242\222\370\342\222\\c\2434C\203\012"
 	.ascii	"\275d\006\306b\000\231\275\266P"
 	.text
-	.section	.gnu.lto_.symbol_nodes.854caca89674d633,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.5060b80268f2ca4a,"",%progbits
 	.ascii	"x\234U\320\271N\303@\024\205\3413s=\266\007H\034\302"
 	.ascii	"\"Q!\326@\330\267\360x7\205\005\035BB\242\003E\221\237"
 	.ascii	"$\262(\000\205\010\361\000P@E\211(\021\236\245\030\273"
@@ -488,14 +488,14 @@
 	.ascii	"uu\333u\265\357j\337\325\276\253}\267\341\356\341\037"
 	.ascii	"*\272z\340"
 	.text
-	.section	.gnu.lto_.refs.854caca89674d633,"",%progbits
+	.section	.gnu.lto_.refs.5060b80268f2ca4a,"",%progbits
 	.ascii	"x\234%\2139\022\200@\014\303b;\331\303\354\376\203\206"
 	.ascii	"\257\361\377\022\006T\250\320\214\024\021w\374lBd\276"
 	.ascii	"\026\224\254\204\212\255\240\006uh@\023Z\324U=\244P"
 	.ascii	"\205\032\377<(\356\011\177\273\005'\217\204\213\253"
 	.ascii	"\340\006wx\300\007\274\350\023\233f<\236G\002\253"
 	.text
-	.section	.gnu.lto_.decls.854caca89674d633,"",%progbits
+	.section	.gnu.lto_.decls.5060b80268f2ca4a,"",%progbits
 	.ascii	"x\234\275[{XTG\226\357\272\325@w\323\240\21131\353\314"
 	.ascii	"\2671&\303\227\311d\342+\223\235\235/\233\211\202Ip"
 	.ascii	"\2422@2\231\311\3142(\235\204\035D\003m6\231\375\347"
@@ -907,7 +907,7 @@
 	.ascii	"\036\363-=\346[\032\346\377;\364\230o\351!5\2745\347"
 	.ascii	"\177\001a\376v\216"
 	.text
-	.section	.gnu.lto_.symtab.854caca89674d633,"",%progbits
+	.section	.gnu.lto_.symtab.5060b80268f2ca4a,"",%progbits
 	.ascii	"usartIrqCallback\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\000\347\001\000\000serialUSART1\000\000\000"
 	.ascii	"\000\000\000\000\000\000\000\000\000\355\001\000\000"

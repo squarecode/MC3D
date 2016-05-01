@@ -14,26 +14,26 @@
 	.file	"stm32_it.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_.profile.11d8c0636b9b3d65,"",%progbits
 	.ascii	"x\234cf```a\200\000F\006EN\000\000\277\0003"
 	.text
-	.section	.gnu.lto_.jmpfuncs.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.11d8c0636b9b3d65,"",%progbits
 	.ascii	"x\234cf\300\016\314\2404'\020320010030\26000\26020\260"
 	.ascii	"10\260\003E9\200\022L\037\231\030O-\270\373\210\367"
 	.ascii	"\005\323O&\206\206\006\001\006\306\345\214R\014\014"
 	.ascii	"\000\216\233\010L"
 	.text
-	.section	.gnu.lto_.inline.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_.inline.11d8c0636b9b3d65,"",%progbits
 	.ascii	"x\234cf\300\016\326@iN\006\006f&F\006& \223m\201<\210"
 	.ascii	"b\000\361 \",`\022H\240\0110\243\013\260`\030\302\212"
 	.ascii	"!\302\206!\302\316\300\302\203f5\027\220\340``\345E"
 	.ascii	"\025f\342\006\271\212\001\000\375\304\006\011"
 	.text
-	.section	.gnu.lto_.pureconst.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_.pureconst.11d8c0636b9b3d65,"",%progbits
 	.ascii	"x\234cf``\020f\200\000N\006\006F\003&\003f\003\026\006"
 	.ascii	"V\0066\006v\011\016\011\000\013\310\001\004"
 	.text
-	.section	.gnu.lto_NMI_Handler.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_NMI_Handler.11d8c0636b9b3d65,"",%progbits
 	.ascii	"x\234cf\300\004R@\\\012\3042@\314\310\314\300\3104\341"
 	.ascii	"\034\003C#\007\023##\210\301\300\310P\317\304X\317\370"
 	.ascii	"\222\351#\023\343\204\003\253gp\253/mhh\370p\351lc\300"
@@ -44,7 +44,7 @@
 	.ascii	"E\311\372\271\211\231y\372e\311\005\372\305%\271\306"
 	.ascii	"F\361\231%z\311\014\000L12\344"
 	.text
-	.section	.gnu.lto_MemManage_Handler.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_MemManage_Handler.11d8c0636b9b3d65,"",%progbits
 	.ascii	"x\234cf\300\004&@\\\002\3042@\314\310\312\300\3104\341"
 	.ascii	"\034\003C#\007\023#3\210\301\310\314\310\002\021`\201"
 	.ascii	"\010822\32431\2630\002\011\210\376\227L\037\231\030"
@@ -56,7 +56,7 @@
 	.ascii	"&f\346\351\227%\027\350\027\227\344\032\033\305g\226"
 	.ascii	"\350%3\000\000ft4\252"
 	.text
-	.section	.gnu.lto_BusFault_Handler.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_BusFault_Handler.11d8c0636b9b3d65,"",%progbits
 	.ascii	"x\234cf\300\004&@\\\002\3042@\314\310\312\300\3104\341"
 	.ascii	"\034\003C#\007\023#3\210\301\310\314\310\002\021`\201"
 	.ascii	"\010822\32431\2630\002\011\210\376\227L\037\231\030"
@@ -68,7 +68,7 @@
 	.ascii	"\0233\363\364\313\222\013\364\213Kr\215\215\3423K\364"
 	.ascii	"\222\031\000My4e"
 	.text
-	.section	.gnu.lto_UsageFault_Handler.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_UsageFault_Handler.11d8c0636b9b3d65,"",%progbits
 	.ascii	"x\234cf\300\004&@\\\002\3042@\314\310\312\300\3104\341"
 	.ascii	"\034\003C#\007\023#3\210\301\310\314\310\002\021`\201"
 	.ascii	"\010822\32431\2630\002\011\210\376\227L\037\231\030"
@@ -80,7 +80,7 @@
 	.ascii	"\351\227%\027\350\027\227\344\032\033\305g\226\350%"
 	.ascii	"3\000\000\224\2405\031"
 	.text
-	.section	.gnu.lto_SVC_Handler.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_SVC_Handler.11d8c0636b9b3d65,"",%progbits
 	.ascii	"x\234cf\300\004R@\\\012\3042@\314\310\314\300\3104\341"
 	.ascii	"\034\003C#\007\023##\210\301\300\310P\317\304X\317\370"
 	.ascii	"\222\351#\023\343\204\003\253gp\253/mhh\370ph\267D\253"
@@ -92,7 +92,7 @@
 	.ascii	"\002\375\342\222\\c\243\370\314\022\275d\006\000\375"
 	.ascii	"\2242M"
 	.text
-	.section	.gnu.lto_DebugMon_Handler.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_DebugMon_Handler.11d8c0636b9b3d65,"",%progbits
 	.ascii	"x\234cf\300\004R@\\\012\3042@\314\310\314\300\3104\341"
 	.ascii	"\034\003C#\007\023##\210\301\300\310P\317\304X\317\370"
 	.ascii	"\222\351#\023\343\204\003\253gp\253/mhh\370\360i\257"
@@ -104,7 +104,7 @@
 	.ascii	"\002\375\342\222\\c\243\370\314\022\275d\006\000\001"
 	.ascii	"\24624"
 	.text
-	.section	.gnu.lto_PendSV_Handler.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_PendSV_Handler.11d8c0636b9b3d65,"",%progbits
 	.ascii	"x\234cf\300\004R@\\\012\3042@\314\310\314\300\3104\341"
 	.ascii	"\034\003C#\007\023##\210\301\300\310P\317\304X\317\370"
 	.ascii	"\222\351#\023\343\204\003\253gp\253/mhh\370\260\350"
@@ -116,7 +116,7 @@
 	.ascii	"\230\231\247_\226\\\240_\\\222kl\024\237Y\242\227\314"
 	.ascii	"\000\000\326\2231\310"
 	.text
-	.section	.gnu.lto_USB_LP_CAN1_RX0_IRQHandler.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_USB_LP_CAN1_RX0_IRQHandler.11d8c0636b9b3d65,"",%progbits
 	.ascii	"x\234cf\300\004R@\274\030\210e\200\230\221\231\201\221"
 	.ascii	"i\3029\006\206F\016&FF\020\203\201\221\241\236\211\261"
 	.ascii	"\236\361%\323G&\306\011\007V\317\340V_\332\320\320\360"
@@ -129,7 +129,7 @@
 	.ascii	"\002\253d\000\031\304\0102\000h\234\224\236~qQ\262~"
 	.ascii	"nbf\236~Yr\201~qI\256\261Q|f\211^2\003\000\270xC\264"
 	.text
-	.section	.gnu.lto_USBWakeUp_IRQHandler.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_USBWakeUp_IRQHandler.11d8c0636b9b3d65,"",%progbits
 	.ascii	"x\234cf\300\004R@\274\003\210e\200\230\221\231\201\221"
 	.ascii	"i\3029\006\206F\016&FF\020\203\201\221\241\236\211\261"
 	.ascii	"\236\361%\323G&\306\011\007V\317\340V_\332\320\320\360"
@@ -143,7 +143,7 @@
 	.ascii	"\367\006kg\000\231\316\0102\025h\207\224\236~qQ\262"
 	.ascii	"~nbf\236~Yr\201~qI\256\261Q|f\211^2\003\000R\206K\304"
 	.text
-	.section	.gnu.lto_.symbol_nodes.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.11d8c0636b9b3d65,"",%progbits
 	.ascii	"x\234U\313I\015\2000\024\204\341i\313\322\326\003\373"
 	.ascii	"&s\220\200\002\302\001!(@\003J\010\004H\350\233\313"
 	.ascii	"\237\3570\006\300\206o:#0\355\000\211y\261\3209\325"
@@ -151,10 +151,10 @@
 	.ascii	"L\205;\332\320\252\247{\215q\2749\320\0074\251\303z"
 	.ascii	"\234\312X\377\024\027\207L3\230"
 	.text
-	.section	.gnu.lto_.refs.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_.refs.11d8c0636b9b3d65,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.decls.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_.decls.11d8c0636b9b3d65,"",%progbits
 	.ascii	"x\234}\224\177LSW\024\307\337\355\253\035\274\326\312"
 	.ascii	"\226\005\023\376\302\177H\226(\005\335\177\376\261\015"
 	.ascii	"\234\033\311J:\013\216\304?^\012}\300\313\312\223\264"
@@ -220,7 +220,7 @@
 	.ascii	"\355`\274lu%\275\313\313\036`\274\022S\356z\271\264"
 	.ascii	"\314\324\360, \377\001yaL\364"
 	.text
-	.section	.gnu.lto_.symtab.9f7e0272dd537e52,"",%progbits
+	.section	.gnu.lto_.symtab.11d8c0636b9b3d65,"",%progbits
 	.ascii	"NMI_Handler\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\254\000\000\000MemManage_Handler\000\000\000"
 	.ascii	"\000\000\000\000\000\000\000\000\000\256\000\000\000"

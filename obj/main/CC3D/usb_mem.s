@@ -14,23 +14,23 @@
 	.file	"usb_mem.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.bb80eef0b7540ff1,"",%progbits
+	.section	.gnu.lto_.profile.22fecd11847da0e4,"",%progbits
 	.ascii	"x\234cf```a\200\000F\006)\011\000\000\300\000;"
 	.text
-	.section	.gnu.lto_.jmpfuncs.bb80eef0b7540ff1,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.22fecd11847da0e4,"",%progbits
 	.ascii	"x\234cf\300\016D\2404\023\0033###{}}=#\214\301\000\000"
 	.ascii	"\032\240\003/"
 	.text
-	.section	.gnu.lto_.inline.bb80eef0b7540ff1,"",%progbits
+	.section	.gnu.lto_.inline.22fecd11847da0e4,"",%progbits
 	.ascii	"x\234cf\300\016\202\2404\023\003\003\377M\006F&&F\006"
 	.ascii	"\006F f\021\230\320\317\305\300\266@\236\211\201e\201"
 	.ascii	"<\013\210\340``\001*dd\340=\212\254\216g\312evl\352"
 	.ascii	"\030\000\231\352\011\230"
 	.text
-	.section	.gnu.lto_.pureconst.bb80eef0b7540ff1,"",%progbits
+	.section	.gnu.lto_.pureconst.22fecd11847da0e4,"",%progbits
 	.ascii	"x\234cf```e\200\000&\006)F)\000\000\371\000@"
 	.text
-	.section	.gnu.lto_UserToPMABufferCopy.bb80eef0b7540ff1,"",%progbits
+	.section	.gnu.lto_UserToPMABufferCopy.22fecd11847da0e4,"",%progbits
 	.ascii	"x\234uUoPTU\024\277\347\335}\373\026\366\017\210\012"
 	.ascii	"\316B3\315\020c}P&k\246\257\3100|)\033fP\247O1\012\333"
 	.ascii	"\014\215\030\201\310\364\301\361\261\254\273j\316\304"
@@ -102,7 +102,7 @@
 	.ascii	"\030\366C\276z\300UP\370\254\030\267\231\013\363Jw\357"
 	.ascii	"\331\3677\013 \241\222"
 	.text
-	.section	.gnu.lto_PMAToUserBufferCopy.bb80eef0b7540ff1,"",%progbits
+	.section	.gnu.lto_PMAToUserBufferCopy.22fecd11847da0e4,"",%progbits
 	.ascii	"x\234uTmL\223W\024\276\347\336\367\213\266\224\017\003"
 	.ascii	"3\374\331\022F\2341\332d[\262d\277\220\020\376l.KP\263"
 	.ascii	"_#\002]\326D\014)*\331\017\343\245\255\255.$cL\015e"
@@ -162,15 +162,15 @@
 	.ascii	"\326\342{mcc\320n}\253\352\203\255\376\026\330\002\001"
 	.ascii	"\253\271\261u\343\246\315\377\002\032\345\374\017"
 	.text
-	.section	.gnu.lto_.symbol_nodes.bb80eef0b7540ff1,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.22fecd11847da0e4,"",%progbits
 	.ascii	"x\234cf``Pb\200\002&\331z\006\206\011\347\030\030\352"
 	.ascii	"\353\031\346-\340``\222\253gD\3463\000\000\226\242\010"
 	.ascii	"\250"
 	.text
-	.section	.gnu.lto_.refs.bb80eef0b7540ff1,"",%progbits
+	.section	.gnu.lto_.refs.22fecd11847da0e4,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.decls.bb80eef0b7540ff1,"",%progbits
+	.section	.gnu.lto_.decls.22fecd11847da0e4,"",%progbits
 	.ascii	"x\234\205\224kHTQ\020\200\317\354\335]\365\266mFd!\004"
 	.ascii	"k?\204@\275T\022\375\355AAPY\352\257~\\t\275\322\202"
 	.ascii	"\256\261\017\301~\035\333\012)\261Z\212\312\"$\255\354"
@@ -224,7 +224,7 @@
 	.ascii	"\024\246Y\311<Dd\0251Z\004\304\003\342\361P@\266\375"
 	.ascii	"\015`\013\305r"
 	.text
-	.section	.gnu.lto_.symtab.bb80eef0b7540ff1,"",%progbits
+	.section	.gnu.lto_.symtab.22fecd11847da0e4,"",%progbits
 	.ascii	"UserToPMABufferCopy\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\000\000\302\000\000\000PMAToUserBufferCopy"
 	.ascii	"\000\000\000\000\000\000\000\000\000\000\000\000\304"

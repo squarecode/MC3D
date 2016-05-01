@@ -14,27 +14,27 @@
 	.file	"runtime_config.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.5fc039af8d77e01,"",%progbits
+	.section	.gnu.lto_.profile.942056dca595bc81,"",%progbits
 	.ascii	"x\234cf```a\200\000F\006+%\000\001\012\000e"
 	.text
-	.section	.gnu.lto_.jmpfuncs.5fc039af8d77e01,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.942056dca595bc81,"",%progbits
 	.ascii	"x\234cf\300\016\254\2414\033\003##c=#\323G&\306\213"
 	.ascii	"\263\2265\363\277`\372\311\304\300\310\300\270\234Q"
 	.ascii	"\212\201\011\"\005f3\203\330\254 \202\015D\260\003\265"
 	.ascii	"\002\000s\250\011\357"
 	.text
-	.section	.gnu.lto_.inline.5fc039af8d77e01,"",%progbits
+	.section	.gnu.lto_.inline.942056dca595bc81,"",%progbits
 	.ascii	"x\234cf\300\016&Ai6\006\006n~F\006&\236\007\261\014"
 	.ascii	"l\013\344\231@bL\334\014\014@!\006\036\001FF \203\201"
 	.ascii	"\031.\311t\201\237\005\241\202\231\201\215\025\250\216"
 	.ascii	"\355\203\036\\++\246\020\033\003;\033\324\034\2700\314"
 	.ascii	"\034v\006\026f\240r \027\256\234\001\000O\222\016\232"
 	.text
-	.section	.gnu.lto_.pureconst.5fc039af8d77e01,"",%progbits
+	.section	.gnu.lto_.pureconst.942056dca595bc81,"",%progbits
 	.ascii	"x\234cf``\340e\200\0006\006\011&\011f\026V\0116\011"
 	.ascii	"v\026\000\004\363\000\226"
 	.text
-	.section	.gnu.lto_enableFlightMode.5fc039af8d77e01,"",%progbits
+	.section	.gnu.lto_enableFlightMode.942056dca595bc81,"",%progbits
 	.ascii	"x\234\215P\335K\323Q\030~\237\367\374\266~\326\"\351"
 	.ascii	"rP7\303\014\002g\364\017\364Wt[cY\214\334\004\255\313"
 	.ascii	"\341\331G\322U\204]me\037\206fe\352J\355\242\240\325"
@@ -65,7 +65,7 @@
 	.ascii	"=\021;\036\211v\035l\264\035ar\242\241\276c\336\236"
 	.ascii	"\356\303\007B\335?\001j\231\370\263"
 	.text
-	.section	.gnu.lto_disableFlightMode.5fc039af8d77e01,"",%progbits
+	.section	.gnu.lto_disableFlightMode.942056dca595bc81,"",%progbits
 	.ascii	"x\234\215QKkSA\030\375\316\314\315M\242\267X\\\006t"
 	.ascii	"\023j\005\241\251\370\007\374\025n5\304*\301&\205V\227"
 	.ascii	"\241\223\207\217\225H]\245Z\237\250\365\325\2076\315"
@@ -99,7 +99,7 @@
 	.ascii	"\210\037\217\306z\016\272\260+BV,<p\314\356\353=| \334"
 	.ascii	"\373\013\225\355\021\315"
 	.text
-	.section	.gnu.lto_sensors.5fc039af8d77e01,"",%progbits
+	.section	.gnu.lto_sensors.942056dca595bc81,"",%progbits
 	.ascii	"x\234eOK/\203Q\020\2353\367\353\247\211\215Xv%\221\022"
 	.ascii	"\"\372\003l\374\004\377@\232\006i\244\225(KqK\023\026"
 	.ascii	"\"b%\361X\020TQ\217\225\022RV\026\036\021\013I\343\261"
@@ -121,7 +121,7 @@
 	.ascii	"zC\201H0\034\015\204z\242\235\341\256@o\177\264/\034"
 	.ascii	"\351h/\303\346\0209\221`\254\373\027\340\032\216U"
 	.text
-	.section	.gnu.lto_sensorsSet.5fc039af8d77e01,"",%progbits
+	.section	.gnu.lto_sensorsSet.942056dca595bc81,"",%progbits
 	.ascii	"x\234u\220;KCA\020\205\347\314\336\\\002i\3042\225("
 	.ascii	"*Z\230\277`e\355?\220\020T\202$B\3242d\257\246\260Q"
 	.ascii	"b@\020|\024\212\370\216\257*VW\261\260Q\021\013AD\233"
@@ -143,7 +143,7 @@
 	.ascii	"\015'\007\342\203\221\324Xr4\236\350\357\253\313\256"
 	.ascii	"\0309\211\350\310\320\027\264~\230s"
 	.text
-	.section	.gnu.lto_sensorsClear.5fc039af8d77e01,"",%progbits
+	.section	.gnu.lto_sensorsClear.942056dca595bc81,"",%progbits
 	.ascii	"x\234uP\315+\304Q\024\275\347\276\337oL\315FV\232\225"
 	.ascii	"\322\020\213\231\177\301\312\277!Mh\322\214\362\261"
 	.ascii	"\2247\014Y\211Y)_E\302\0143\306\216,\206\0056H\026j"
@@ -166,7 +166,7 @@
 	.ascii	"\276\336p(\332\036\211\205\302=\261\316HW\250w \326"
 	.ascii	"\037\211v\264U`0LN\264\275\257\373\023\237I\240\214"
 	.text
-	.section	.gnu.lto_sensorsMask.5fc039af8d77e01,"",%progbits
+	.section	.gnu.lto_sensorsMask.942056dca595bc81,"",%progbits
 	.ascii	"x\234eN;K\003a\020\334\331\223\343$\215X\246\022D\256"
 	.ascii	"\313\375\026\177\201\310\341\343\212\234\020\265\014"
 	.ascii	"\371.\\\221J\364\260\210\370\300F\214\257X\244\322\312"
@@ -184,7 +184,7 @@
 	.ascii	"\361\275\362l\020z\376R8\037,x\225\325p%(\317\315\374"
 	.ascii	"\322\222O\337\351\230f0"
 	.text
-	.section	.gnu.lto_.symbol_nodes.5fc039af8d77e01,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.942056dca595bc81,"",%progbits
 	.ascii	"x\234U\214\275\021\202@\024\204\277\267\217\303\223"
 	.ascii	"\016\250v)\301\006t\260\027\206\220R\314\314\205\201"
 	.ascii	"\300\333dg\177\023xrA\235\341\261\201\315k\256\024\361"
@@ -192,12 +192,12 @@
 	.ascii	"Uw\215\276\2734\263\320\361^\310\203bp\177\246LS%\031"
 	.ascii	"X\276[\244v^?#?\360\311&\375"
 	.text
-	.section	.gnu.lto_.refs.5fc039af8d77e01,"",%progbits
+	.section	.gnu.lto_.refs.942056dca595bc81,"",%progbits
 	.ascii	"x\234%\206\301\015\000 \014\204\270^\265&N\343\376\313"
 	.ascii	"\331(\017\300\300\341cP\223\250\034o\027\3322\251\030"
 	.ascii	"-\245c\276\246\252\313\005\025\373\000\245"
 	.text
-	.section	.gnu.lto_.decls.5fc039af8d77e01,"",%progbits
+	.section	.gnu.lto_.decls.942056dca595bc81,"",%progbits
 	.ascii	"x\234\215VkP\024\331\025\356\333w`f\232\341a%\253\206"
 	.ascii	"\252\324b\231\242j\253\\\251<*\225\177\021\025q\267"
 	.ascii	"\344\021Y\376\354\246j\012a\324Ip\3300\303\217\315\237"
@@ -324,7 +324,7 @@
 	.ascii	"\366\321g\277\315{\214\306\3152\340\277\214\341\234"
 	.ascii	"k"
 	.text
-	.section	.gnu.lto_.symtab.5fc039af8d77e01,"",%progbits
+	.section	.gnu.lto_.symtab.942056dca595bc81,"",%progbits
 	.ascii	"enableFlightMode\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\000\345\000\000\000flightModeFlags\000\000"
 	.ascii	"\000\000\000\000\000\000\000\000\000\000\012\001\000"

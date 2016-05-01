@@ -14,23 +14,23 @@
 	.file	"sonar.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.45c559c5f1dc6c32,"",%progbits
+	.section	.gnu.lto_.profile.42cca51601cd8533,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.inline.45c559c5f1dc6c32,"",%progbits
+	.section	.gnu.lto_.inline.42cca51601cd8533,"",%progbits
 	.ascii	"x\234cf\300\016\230\340,\000\000\234\000\006"
 	.text
-	.section	.gnu.lto_.pureconst.45c559c5f1dc6c32,"",%progbits
+	.section	.gnu.lto_.pureconst.42cca51601cd8533,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.symbol_nodes.45c559c5f1dc6c32,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.42cca51601cd8533,"",%progbits
 	.ascii	"x\234cf``\020g\200\002Ve\206\205L\365\014\254J\214`"
 	.ascii	"J\221\011D1\000\000/\271\003\371"
 	.text
-	.section	.gnu.lto_.refs.45c559c5f1dc6c32,"",%progbits
+	.section	.gnu.lto_.refs.42cca51601cd8533,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.decls.45c559c5f1dc6c32,"",%progbits
+	.section	.gnu.lto_.decls.42cca51601cd8533,"",%progbits
 	.ascii	"x\234\255VmPTU\030\276g\317\302\302\262,\006I\016ME"
 	.ascii	"\3200\352\240\2533N\343\217\232p\210ij\022\015\264\351"
 	.ascii	"G\315\266.\027\335\231e\241\275\013\306\364\243\013"
@@ -124,7 +124,7 @@
 	.ascii	"\214\311\212V\300\252\004P\027\327Z,\341\223\245&:\022"
 	.ascii	"\022\345=`J0\231-\216d\357){\342_\302L\315\023"
 	.text
-	.section	.gnu.lto_.symtab.45c559c5f1dc6c32,"",%progbits
+	.section	.gnu.lto_.symtab.42cca51601cd8533,"",%progbits
 	.ascii	"baro_cf_alt\000\000\004\000\004\000\000\000\000\000"
 	.ascii	"\000\000\253\000\000\000baro_cf_vel\000\000\004\000"
 	.ascii	"\004\000\000\000\000\000\000\000\255\000\000\000bat"

@@ -14,29 +14,29 @@
 	.file	"compass.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.9a478da564177ec1,"",%progbits
+	.section	.gnu.lto_.profile.9dbe6be32f0bff66,"",%progbits
 	.ascii	"x\234cf```e\200\000F\206\351\214\211\000\002\262\001"
 	.ascii	"\003"
 	.text
-	.section	.gnu.lto_.jmpfuncs.9a478da564177ec1,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.9dbe6be32f0bff66,"",%progbits
 	.ascii	"x\234cf\300\016\242\24143\003##c=3\323G&\306y\227\373"
 	.ascii	"\3261\325\376n\350h\340\370\311\304\360\227\011(\313"
 	.ascii	"\270\234\261\226\001\227\334\012\240\034\020p1\202\000"
 	.ascii	"s9H\210\201\241\236\201\201\233\001L1\000\000\345[\026"
 	.ascii	"\025"
 	.text
-	.section	.gnu.lto_.inline.9a478da564177ec1,"",%progbits
+	.section	.gnu.lto_.inline.9dbe6be32f0bff66,"",%progbits
 	.ascii	"x\234cf\300\016\342\24143\003\333I\206\023\014\214\014"
 	.ascii	"L\2653W\2631p\277\266e\002\011\263\360\202\244\030&"
 	.ascii	"\3701r\001y\\lb\012@\025R\035\237\030\031\330\026\310"
 	.ascii	"\203U0q300N\360c\021\000R\014\334\014\034\302@\005,"
 	.ascii	"\013\344\341\362\314\374 \022\000\254T\013d"
 	.text
-	.section	.gnu.lto_.pureconst.9a478da564177ec1,"",%progbits
+	.section	.gnu.lto_.pureconst.9dbe6be32f0bff66,"",%progbits
 	.ascii	"x\234cf```g\200\000f\006).\011n\011\000\001\352\000"
 	.ascii	"m"
 	.text
-	.section	.gnu.lto_updateCompass.part.0.9a478da564177ec1,"",%progbits
+	.section	.gnu.lto_updateCompass.part.0.9dbe6be32f0bff66,"",%progbits
 	.ascii	"x\234\235X{P\224\327\025\377\316\375\366\311>X^\013"
 	.ascii	"\242\010\212\004%\302\252\177$\215\235L\2373\235\351"
 	.ascii	"c\372\230\351t\246\377YkR;\343cd&m\376`\362\301\022"
@@ -177,7 +177,7 @@
 	.ascii	"L\335\304\337\256X\374\306\"\234\370\372\362\305\313"
 	.ascii	"\212~'\375\017V%'\275"
 	.text
-	.section	.gnu.lto_updateCompass.9a478da564177ec1,"",%progbits
+	.section	.gnu.lto_updateCompass.9dbe6be32f0bff66,"",%progbits
 	.ascii	"x\234\215\224Kl\224U\024\200\317\271\367\177\315\243"
 	.ascii	"L\037\340\202D%i&@L\031\303\242\0136j4qk\\\0327cC\014"
 	.ascii	"\213R\323Y\340\246\231;\235\021Ix\325\306\304\252\325"
@@ -235,7 +235,7 @@
 	.ascii	"\177\363\265\335\255-\001\232_x\351\305W\343\373\254"
 	.ascii	"\370\333{\022\377\000b\016\363\341"
 	.text
-	.section	.gnu.lto_compassInit.9a478da564177ec1,"",%progbits
+	.section	.gnu.lto_compassInit.9dbe6be32f0bff66,"",%progbits
 	.ascii	"x\234m\220\275N\002A\024\205\357\271+\313&\024\032+"
 	.ascii	"CB,)\014\354\253\370\010\022ba\001\030\266&\314\012"
 	.ascii	"\205\225R\032\377:\025\005\301@\202\215\305\372\000"
@@ -256,7 +256,7 @@
 	.ascii	"K\252X\322v\362i;\223Z\312\332\316b\326\311\345\035"
 	.ascii	";\235\313,\247\034'\231\246o\227\244\206a"
 	.text
-	.section	.gnu.lto_.symbol_nodes.9a478da564177ec1,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.9dbe6be32f0bff66,"",%progbits
 	.ascii	"x\234M\214\271\015\002A\014E\277\355\031\030\006\011"
 	.ascii	"\0107\345\276\217Jh\311\033 \002\"\032\000-\324@\007"
 	.ascii	"\020\020MD\001\210\224\036\020\313\260\301:\360\323"
@@ -267,7 +267,7 @@
 	.ascii	"\224\242\240\211\315\373\276\0264p{~H<\360\332\205\304"
 	.ascii	"x\\\266!\201\251\343\221\327\300\027\333y.\360"
 	.text
-	.section	.gnu.lto_.refs.9a478da564177ec1,"",%progbits
+	.section	.gnu.lto_.refs.9dbe6be32f0bff66,"",%progbits
 	.ascii	"x\234%\301A\016\001A\020\206\321\357\257\352\356\352"
 	.ascii	"\031\335+\031\261@\302\202HX\262`\341\\\016(\342V\022"
 	.ascii	"\336s\340\311\337\006$\373\301\235T\224\003\033U\232"
@@ -275,7 +275,7 @@
 	.ascii	"\023\303\031\273P\256*7\342\256x(\277\240\274!>\344"
 	.ascii	"\221.\222)\005\255\312\272\315hRu\276}\322\006\362"
 	.text
-	.section	.gnu.lto_.decls.9a478da564177ec1,"",%progbits
+	.section	.gnu.lto_.decls.9dbe6be32f0bff66,"",%progbits
 	.ascii	"x\234\235Y\013TT\327\271\236}\366\014\363`\034\022\261"
 	.ascii	"6\245\315\222`\313J\356J\305\230\3364w\255\273Vc\260"
 	.ascii	"\346\232kR\213\246\271}\255\351\004F\235\265x\335\231"
@@ -517,7 +517,7 @@
 	.ascii	"\212:+\304\260\306`\326\205\256\212X\263&T\357\343f"
 	.ascii	",\211\031\006\376?\324u\312\025"
 	.text
-	.section	.gnu.lto_.symtab.9a478da564177ec1,"",%progbits
+	.section	.gnu.lto_.symtab.9dbe6be32f0bff66,"",%progbits
 	.ascii	"magAlign\000\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\030\001\000\000magADC\000\000\004\000\014\000\000"
 	.ascii	"\000\000\000\000\000\367\000\000\000led_config\000\000"

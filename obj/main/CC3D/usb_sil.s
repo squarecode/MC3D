@@ -14,27 +14,27 @@
 	.file	"usb_sil.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.fd47c3cfa2f0a09c,"",%progbits
+	.section	.gnu.lto_.profile.28a89d8845d3baeb,"",%progbits
 	.ascii	"x\234cf```a\200\000F\206P\031\000\001:\000z"
 	.text
-	.section	.gnu.lto_.jmpfuncs.fd47c3cfa2f0a09c,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.28a89d8845d3baeb,"",%progbits
 	.ascii	"x\234cf\300\016\342\24043\02031322\262\3273\32631\307"
 	.ascii	"|db\234\377\362\337\013\226\027L?\231\030\352\031\030"
 	.ascii	"\2273J\201\2251\2273B402\307@\004\231\231\030\031\231"
 	.ascii	"\353\031\261\310\300\031\014\0007\324\016P"
 	.text
-	.section	.gnu.lto_.inline.fd47c3cfa2f0a09c,"",%progbits
+	.section	.gnu.lto_.inline.28a89d8845d3baeb,"",%progbits
 	.ascii	"x\234cf\300\016\232\24143\003\003\033+#\003\023\333"
 	.ascii	"\007=\006\266\005\362L 1&\006>\015F&\006F \213\021\254"
 	.ascii	"\002\"\303t\201\237\005\254\205\007(1\301o\202\037\013"
 	.ascii	"/\220\003bL\360\003\2111\002)\220NF\006l\272\260(\206"
 	.ascii	"P\014\000\322j\020O"
 	.text
-	.section	.gnu.lto_.pureconst.fd47c3cfa2f0a09c,"",%progbits
+	.section	.gnu.lto_.pureconst.28a89d8845d3baeb,"",%progbits
 	.ascii	"x\234cf```g\200\000f\006)&\011f\011\000\001\272\000"
 	.ascii	"]"
 	.text
-	.section	.gnu.lto_USB_SIL_Init.fd47c3cfa2f0a09c,"",%progbits
+	.section	.gnu.lto_USB_SIL_Init.28a89d8845d3baeb,"",%progbits
 	.ascii	"x\234e\220\317K\002Q\020\307g\336\352f\230\021\035="
 	.ascii	"u\353\020\266P\321\037\020\021]:Yg)\361\260d\035\224"
 	.ascii	"\274\205o\315(\010\":\011e\267\310~\231\226\331\217"
@@ -60,7 +60,7 @@
 	.ascii	"\234\216NO@u{\\\235>5\340\361)~\237[\031\361\017\270"
 	.ascii	"\374\252\267\331\015\037\204a\277t"
 	.text
-	.section	.gnu.lto_USB_SIL_Write.fd47c3cfa2f0a09c,"",%progbits
+	.section	.gnu.lto_USB_SIL_Write.28a89d8845d3baeb,"",%progbits
 	.ascii	"x\234m\221Ah\023A\024\206\337\3776\331lL\021\361\030"
 	.ascii	"/\275\204 \330\006T\360\"XK\025/\212\020=x\012&\335"
 	.ascii	"\342B\255ec+\010%\333X\305S\251\342\241EP\241j\265j"
@@ -93,7 +93,7 @@
 	.ascii	"\253\313\264\367\037\263z\216\233v\344\204\237&\255"
 	.ascii	"\223\346\037\2029\337\016"
 	.text
-	.section	.gnu.lto_USB_SIL_Read.fd47c3cfa2f0a09c,"",%progbits
+	.section	.gnu.lto_USB_SIL_Read.28a89d8845d3baeb,"",%progbits
 	.ascii	"x\234mQMh\023A\024~ov\263\3314R\304c<X(\241\010\266"
 	.ascii	"\001+x\264\226\350AT\012Q\360\026\222tk\027\332X6io"
 	.ascii	"%\323$T/\212V\017\021\301\037\374\253USm\025\261\036"
@@ -126,7 +126,7 @@
 	.ascii	"\321uB\217'5\243!\030IF\016j\361\343\311\336_\377\312"
 	.ascii	"\360+"
 	.text
-	.section	.gnu.lto_.symbol_nodes.fd47c3cfa2f0a09c,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.28a89d8845d3baeb,"",%progbits
 	.ascii	"x\234M\310\273\015\302@\024D\321\273\357y\355%\243\001"
 	.ascii	"\376\2376\307\001\005P\001\"\240\022\344\230\032@r\035"
 	.ascii	"\010/\020\274I\256\3168p\347?[\010\316\017\220\270\\"
@@ -135,10 +135,10 @@
 	.ascii	"-sz\3256\334j}\306X\177/\014_w\214S\371\000\246\332"
 	.ascii	"3\222"
 	.text
-	.section	.gnu.lto_.refs.fd47c3cfa2f0a09c,"",%progbits
+	.section	.gnu.lto_.refs.28a89d8845d3baeb,"",%progbits
 	.ascii	"x\234cf```c\200\000F\006FF&\006\000\000\255\000\017"
 	.text
-	.section	.gnu.lto_.decls.fd47c3cfa2f0a09c,"",%progbits
+	.section	.gnu.lto_.decls.28a89d8845d3baeb,"",%progbits
 	.ascii	"x\234\225UkL\024W\024\236\273\263\260\354\262\013\266"
 	.ascii	"\266\330\2204]cBb\"n\332\332\246?\232\266>Z1\251\015"
 	.ascii	"-\2206\361\307\006\331Q7\205\305\354\303\326\376\032"
@@ -233,7 +233,7 @@
 	.ascii	"]\037m\372\376\025u\350\241\326\220^i1\230\364\233\015"
 	.ascii	"\234N\015\265\371\037\264\004\271'"
 	.text
-	.section	.gnu.lto_.symtab.fd47c3cfa2f0a09c,"",%progbits
+	.section	.gnu.lto_.symtab.28a89d8845d3baeb,"",%progbits
 	.ascii	"USB_SIL_Init\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\276\000\000\000USB_SIL_Write\000\000\000\000"
 	.ascii	"\000\000\000\000\000\000\000\000\305\000\000\000USB"

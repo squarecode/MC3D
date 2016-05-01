@@ -14,10 +14,10 @@
 	.file	"bus_i2c_stm32f10x.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_.profile.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234cf```c\200\000F\206U\034sX\000\004\236\001]"
 	.text
-	.section	.gnu.lto_.jmpfuncs.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234\215R\273N\303@\020\334Y\233\330\012\240\204\267"
 	.ascii	"1\371#>(e\002\264H\364H\210\316\011$\274\\!Q\006\211"
 	.ascii	"\302E\024\361\001PP\244A\010\012\244t\354\236-\347\234"
@@ -38,7 +38,7 @@
 	.ascii	"\323\304\314\327\362\2449\2612\351\340?z\015!\376\001"
 	.ascii	"\211.\200S"
 	.text
-	.section	.gnu.lto_.inline.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_.inline.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234cf\300\016\2361Ah^\006\2066&kF\006\246\037Ls\376"
 	.ascii	"\2620\260-\220\007K\260\000\305\231'\370\341e0\3630"
 	.ascii	"00\001\031\3504N\005D\230EH/\012\013&\307\313\242\327"
@@ -54,11 +54,11 @@
 	.ascii	"\024\304H$\233\330\370\201j\301q\313 M\256\2512\014"
 	.ascii	",\314@S\201*\341\3062\000\000\240IQ\376"
 	.text
-	.section	.gnu.lto_.pureconst.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_.pureconst.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234cf``\220f\200\000^\006+^)\001\011A\011!\011a)Q"
 	.ascii	"\0111\011q)I))\011i)\031)\000$\306\002\221"
 	.text
-	.section	.gnu.lto_i2c_ev_handler.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_i2c_ev_handler.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234\235Z\011pUE\326\356\323\367\345e\017!\204\220"
 	.ascii	"\015\020\222\220\200Y\011\313\377[J\351h\215\313\214"
 	.ascii	"\245#Z5\213%\032\306\005K\220\002\346/G\013y!\201\200"
@@ -292,7 +292,7 @@
 	.ascii	"\317\216\374\333\370\361/O\230\2243Z\364G\215\036\233"
 	.ascii	"\237\375\002s\375ul\001\373\177\254a\002\324"
 	.text
-	.section	.gnu.lto_i2cUnstick.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_i2cUnstick.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234\255X\373S\324U\024\277\347~\367\315\212(J\306"
 	.ascii	"4SJ3\316\304 \245\223M6\215\375\001\325\357M?\230a\032"
 	.ascii	"3Y\016d\323LC~\201\345a\242 cFf\211\031\212m\362PD\020"
@@ -394,7 +394,7 @@
 	.ascii	"\3014\0336E~\241D\254\337\240DG|\246D\257[\013\221\260"
 	.ascii	")\330\2033\331-\373\224\375\017\257\337s\305"
 	.text
-	.section	.gnu.lto_I2C1_EV_IRQHandler.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_I2C1_EV_IRQHandler.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234cf\300\004R@\274\030\2105\201\230\221\231\201\221"
 	.ascii	"i\3029\006\206F\016&FF\020\203\201\221\241\236\211\261"
 	.ascii	"\236\361%\323G&\306\011\007V\317\340V_\332\320\320\360"
@@ -408,7 +408,7 @@
 	.ascii	"2\000h\234\272\236~qQ\262~nbf\236~JQfYjQ\261~Riq|\246"
 	.ascii	"Qr|qI\256\261Q\232\241A\205^2\003\000B\213HF"
 	.text
-	.section	.gnu.lto_I2C2_EV_IRQHandler.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_I2C2_EV_IRQHandler.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234cf\300\004R@\274\030\2105\201\230\221\231\201\221"
 	.ascii	"i\3029\006\206F\016&FF\020\203\201\221\241\236\211\261"
 	.ascii	"\236\361%\323G&\306\011\007V\317\340V_\332\320\320\360"
@@ -423,7 +423,7 @@
 	.ascii	"b\375\244\322\342\370L\243\344\370\342\222\\c\2434C"
 	.ascii	"\203\012\275d\006\000YHH~"
 	.text
-	.section	.gnu.lto_i2cInit.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_i2cInit.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234\215V[L\224G\024\2363\377\336W`K+\305m\255\264"
 	.ascii	"\224\3226E\250\246\246\361\305>5i|n\232\364\305X\264"
 	.ascii	"\011\017\362\000\2551i\210\003,-iL\245D(mm\033\323\250"
@@ -501,7 +501,7 @@
 	.ascii	"\217\337\314\330\2656\223Y\263\262\267m\337e\311\336"
 	.ascii	"\231\225\251\341\332\377\244\253\013\376"
 	.text
-	.section	.gnu.lto_i2c_er_handler.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_i2c_er_handler.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234\215U]L\034U\024\276\347\316\354\356\314\316\354"
 	.ascii	"\017\010\304R\212?} \261\241kk\214O>\364\331\304\207"
 	.ascii	"\372\346K\265X\015\017\365\001\260Z\023\322Y\330\326"
@@ -574,7 +574,7 @@
 	.ascii	"+\366>\263\375\365mO\277\263\265\204\031/\355\334\266"
 	.ascii	"s\317\033\245\345\025{\312\376\003\025\217g\342"
 	.text
-	.section	.gnu.lto_I2C1_ER_IRQHandler.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_I2C1_ER_IRQHandler.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234cf\300\004R@\274\030\2105\201\230\221\231\201\221"
 	.ascii	"i\3029\006\206F\016&FF\020\203\201\221\241\236\211\261"
 	.ascii	"\236\361%\323G&\306\011\007V\317\340V_\332\320\320\360"
@@ -589,7 +589,7 @@
 	.ascii	"b\375\244\322\342\370L\243\344\370\342\222\\c\2434C"
 	.ascii	"\203\012\275d\006\000\036\025G\327"
 	.text
-	.section	.gnu.lto_I2C2_ER_IRQHandler.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_I2C2_ER_IRQHandler.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234cf\300\004R@\274\030\2105\201\230\221\231\201\221"
 	.ascii	"i\3029\006\206F\016&FF\020\203\201\221\241\236\211\261"
 	.ascii	"\236\361%\323G&\306\011\007V\317\340V_\332\320\320\360"
@@ -603,7 +603,7 @@
 	.ascii	"~nbf\236~JQfYjQ\261~Riq|\246Qr|qI\256\261Q\232\241A"
 	.ascii	"\205^2\003\0009\222H!"
 	.text
-	.section	.gnu.lto_i2cHandleHardwareFailure.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_i2cHandleHardwareFailure.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234u\221MKBA\024\206\317;\327\253\027Z\024-\373\003"
 	.ascii	"\"\204\226A\377\243_\320\207\025\270\250\205V\264\221"
 	.ascii	"\346\252\213VQ\022\004}A\213\314>\255l\343.ZGQ-\002"
@@ -627,7 +627,7 @@
 	.ascii	"b\361\320\300x\2747\032\216\364\306\307F\272\302\303"
 	.ascii	"\235\035\223\301\010}\001 \270\265/"
 	.text
-	.section	.gnu.lto_i2cWriteBuffer.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_i2cWriteBuffer.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234\215VmP\224U\024\276\347\276\357~\177\303j\210"
 	.ascii	"\212\214\312\207\370\201YM3\3154\345\237\246\231\376"
 	.ascii	"\371\257_\014\0125\314\244\315\0006\376q|a\321l2SR3"
@@ -719,7 +719,7 @@
 	.ascii	"\316\311\311\317R\363s?\314R?\312]\225\245\346d\027"
 	.ascii	"f\033\012\363V\346~\274\272\360\177\341\245\032\305"
 	.text
-	.section	.gnu.lto_i2cWrite.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_i2cWrite.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234e\220KK\202Q\020\206g\346\250\011\322\205V!mE\272"
 	.ascii	"\240e\264h\327o\350\017\210i\205\213Z|V\264\221N7j%"
 	.ascii	"\021\004!]\250\260\354\246\265+\332|\353\210\242\304"
@@ -744,7 +744,7 @@
 	.ascii	"\007\263/\020\320\274&\255\247\317k\012\370\006}?\202"
 	.ascii	"\013\235]"
 	.text
-	.section	.gnu.lto_i2cRead.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_i2cRead.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234\215VkLTG\024\2363\367\356\335\367\223\325\"\352"
 	.ascii	"JT\036\342\003k\3334\375aS\223\376h\322\177\376\363"
 	.ascii	"\027Q\301\206\244\332\004\260\361\217\361\302\256\206"
@@ -837,7 +837,7 @@
 	.ascii	"Q\206\364q\326\026i\303\326M\372\274\354\315Y\237l\315"
 	.ascii	"\373\037\350C\033\261"
 	.text
-	.section	.gnu.lto_i2cGetErrorCounter.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_i2cGetErrorCounter.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234eN=K\003A\024|\363V\317\003-\202e\376@\260\311"
 	.ascii	"i,\375\035\326AO\205+bq\247b\023\262')\254DDA\224\210"
 	.ascii	"\215_\361\013\264\024A\254\004!\"\026\001\013\205\220"
@@ -855,7 +855,7 @@
 	.ascii	"\367\026\246\375\300\231\234\017\262^\306\315\006s\271"
 	.ascii	"\321\314\314\310\360b\332\245\037\323\247i\373"
 	.text
-	.section	.gnu.lto_.symbol_nodes.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234U\220\333j\023Q\024\206\377\331;\223\246m\016M"
 	.ascii	"\3066\306\020c\322\263\032\317\347\343\023x\355\343"
 	.ascii	"\254\"\203J\004+#\030\250\250!\006|\000_\300\303d\264"
@@ -885,7 +885,7 @@
 	.ascii	"\201\224\225\032B/\260u}\263\023\012y\240\022\345\253"
 	.ascii	"q\256\032\347\252q\256\032\345\360\037\002\021\022\334"
 	.text
-	.section	.gnu.lto_.refs.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_.refs.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234m\221\315+EQ\024\305\177\353\236s\317\275\367\335"
 	.ascii	"\373\356\365\361\344\371JOI\006\212\201\244\344\217"
 	.ascii	"#e F\014\214\214d\244d`BI\021\211(\302\000\003e\304"
@@ -905,7 +905,7 @@
 	.ascii	"\\P\236(K\0252\02555,\263@C\024#4\306\353}\177\032\263"
 	.ascii	"D\371\377\215\366'M\361\015{h0\""
 	.text
-	.section	.gnu.lto_.decls.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_.decls.ad4ee933917df23a,"",%progbits
 	.ascii	"x\234\305{\013TTW\232n\355\332\005U\024\005\030M\233"
 	.ascii	",\272{\265\332s\355tn\272\215f:\311\334{\347v\024Mb"
 	.ascii	"w\2146\332=\335\267{\246F\241\2220Q\264\001\363\270"
@@ -1353,7 +1353,7 @@
 	.ascii	"\270{|\356\341\263y\353\307\036\342\331ZO\361\354\223"
 	.ascii	"\355\377\007\037\266\211\365"
 	.text
-	.section	.gnu.lto_.symtab.abc272b7c3fb698b,"",%progbits
+	.section	.gnu.lto_.symtab.ad4ee933917df23a,"",%progbits
 	.ascii	"I2C1_EV_IRQHandler\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\000\006\001\000\000I2C2_EV_IRQHandler\000\000"
 	.ascii	"\000\000\000\000\000\000\000\000\000\000\010\001\000"

@@ -14,10 +14,10 @@
 	.file	"stm32f10x_gpio.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_.profile.405ef5431e32320b,"",%progbits
 	.ascii	"x\234cf```c\200\000F\206\277L\267\031\001\006S\001\346"
 	.text
-	.section	.gnu.lto_.jmpfuncs.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.405ef5431e32320b,"",%progbits
 	.ascii	"x\234m\320=k\002A\020\006\340y\367\356\364\214\306\217"
 	.ascii	"\224V\376\224\374\263\015\370\017\204\223\020\264J\374"
 	.ascii	"\212\347\235X\004\022\355\025L\020\3334\001\261\260"
@@ -33,7 +33,7 @@
 	.ascii	"\036?\273/}\300}A\372\"\367\241\364%)\027l\213Z\353"
 	.ascii	"\262\234+R.\245Ty\241&}]J\203#\372\003W\250d\266"
 	.text
-	.section	.gnu.lto_.inline.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_.inline.405ef5431e32320b,"",%progbits
 	.ascii	"x\234\205\223\317k\023Q\020\307gf\337\376\310\257f\365"
 	.ascii	"`\322Tm@\260=y\364\322\313\236\324\223\007\241G\241"
 	.ascii	"\027%\371/\366 %z\320(\"EA\203(\246?\264i\361\020\005"
@@ -71,12 +71,12 @@
 	.ascii	"|\375-\351C|\310\016!\011,I*\275~\321$p7J:I\353\267"
 	.ascii	"~HZ\331\337\006\374\005\366\363\3569"
 	.text
-	.section	.gnu.lto_.pureconst.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_.pureconst.405ef5431e32320b,"",%progbits
 	.ascii	"x\234%\3019\026\200 \020D\301\226Q\221E\026\243y?\347"
 	.ascii	"\376W4\240\312$-m\237\374\360\200qrq\023yHd\012\225"
 	.ascii	"\227Fg0\371\0011\321\002\244"
 	.text
-	.section	.gnu.lto_GPIO_DeInit.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_DeInit.405ef5431e32320b,"",%progbits
 	.ascii	"x\234}\324Ih\023Q\030\007\360\357{\263d_\364T\342\305"
 	.ascii	"\213x\020\214\332c\241\024\024EA\024\364^\334\015\270"
 	.ascii	"\321\026\351\245tjSP\0176US\353Z\261\326\335\246\255"
@@ -125,7 +125,7 @@
 	.ascii	"e\325\356\342e\333\331\337;\366\371\366.\336\002\312"
 	.ascii	"\252\365\253\327U\377\003\365X*["
 	.text
-	.section	.gnu.lto_GPIO_AFIODeInit.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_AFIODeInit.405ef5431e32320b,"",%progbits
 	.ascii	"x\234cf\300\004R@\314\305\310\300`\013\244\031\231\031"
 	.ascii	"\030\231&\234c`h\344`bd\0041\030\030\031\352\231\030"
 	.ascii	"\353\031_2}db\234p`\365\014n\365\245\015\015\015\037"
@@ -144,7 +144,7 @@
 	.ascii	"\314\262\324\"\375\342\242d\375\342\222\\c\2434\220"
 	.ascii	"tzAf\276^2\003\000\013\021q\271"
 	.text
-	.section	.gnu.lto_GPIO_Init.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_Init.405ef5431e32320b,"",%progbits
 	.ascii	"x\234\235WmP\224\327\025\276\347\276\273\357\273\354"
 	.ascii	".\273\313\307\302J\014~\020$C\205U0J\312\264\323\037"
 	.ascii	"I\333\374\3104S3\375kSCS&E\231\225\244\371\221NVY\260"
@@ -263,7 +263,7 @@
 	.ascii	"_\241\341\243WUT\006\312\2361PR\361\324\212g\377\007"
 	.ascii	"\310R!\230"
 	.text
-	.section	.gnu.lto_GPIO_StructInit.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_StructInit.405ef5431e32320b,"",%progbits
 	.ascii	"x\234cf\300\004R@\374\216\221\201\301\027H32302M8\307"
 	.ascii	"\300\320\310\301\304\310\010b002\32431\3263\276d\372"
 	.ascii	"\310\3048\341\300\352\031\334\352K\033\032\032>,\232"
@@ -291,7 +291,7 @@
 	.ascii	"\222\\c\2434\220tzAf\276^2\003\277{\200\247\177\274"
 	.ascii	"g^fIpIQir\011\000e\320\314\276"
 	.text
-	.section	.gnu.lto_GPIO_ReadInputDataBit.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_ReadInputDataBit.405ef5431e32320b,"",%progbits
 	.ascii	"x\234e\221]H\024Q\024\307\357\377\336\331\217Z%\351"
 	.ascii	"q\037*\020\221 \235R\350%\010\037\244\350A\022\214^"
 	.ascii	"M\315j Mv\267\360%\274\352B\017\365P\"\251\205HEYZj"
@@ -329,7 +329,7 @@
 	.ascii	"\016Wz\371]\230o\225o*\266B\301PQ\350l\360\017U\377"
 	.ascii	"\020n"
 	.text
-	.section	.gnu.lto_GPIO_ReadInputData.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_ReadInputData.405ef5431e32320b,"",%progbits
 	.ascii	"x\234e\217K(\204Q\024\307\317\377\336o>S(Y\312\302f"
 	.ascii	"\262\342\363X*)\"\013Q\354\345\355+\257\206d\347\243"
 	.ascii	")\013\033\244\274\232(\344\375~\0246\262\241\274\262"
@@ -353,7 +353,7 @@
 	.ascii	"\245\276<\317k\267\327x\255Vo\225\325\332\326\230\231"
 	.ascii	"Q+\337u-vsj\025\271\012J\012\213;\276\001\231I\227\005"
 	.text
-	.section	.gnu.lto_GPIO_ReadOutputDataBit.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_ReadOutputDataBit.405ef5431e32320b,"",%progbits
 	.ascii	"x\234e\221]H\024Q\024\307\357\377\336\331\217Z%\351"
 	.ascii	"q\037*\020\221\"\235\322\307 |\220\242\007i\301\350"
 	.ascii	"\325\324\254\006\322dw\013_\302q](\252\207\212L\373"
@@ -390,7 +390,7 @@
 	.ascii	"G\262K\205c\247o\327\356*7\277\213|F\305\252\022#\030"
 	.ascii	"\010\026\007\217\006\376\0007\002\017\320"
 	.text
-	.section	.gnu.lto_GPIO_ReadOutputData.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_ReadOutputData.405ef5431e32320b,"",%progbits
 	.ascii	"x\234e\217K(\204Q\024\307\317\377\336o>S(Y\312\302F"
 	.ascii	"V|\036K%Ed!Sc/o_y5$;\037MY\330 \362J\224\344\375~\024"
 	.ascii	"6\262\241\274\262Rh\224F\261P\030ef\341q\016vn\335\356"
@@ -414,7 +414,7 @@
 	.ascii	"\265!+\263F\276k\233\355\246\264Jr\025z\212J\332\277"
 	.ascii	"\001\3443\227\003"
 	.text
-	.section	.gnu.lto_GPIO_SetBits.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_SetBits.405ef5431e32320b,"",%progbits
 	.ascii	"x\234e\220OHTQ\024\306\317w\356\233q`\012\304U\316\252"
 	.ascii	"\315\340J_\352\242E .\304\020\212\006\014Z\016e\246"
 	.ascii	"\017\322d\224p\347\035\031q\341F\205\312\012\021\222"
@@ -441,7 +441,7 @@
 	.ascii	"7\325\346\366\366u\325\327]\323\353\216\036\357FM\033"
 	.ascii	"\205\316&Z.\364G\364\237Lx\335G\311\350\255/"
 	.text
-	.section	.gnu.lto_GPIO_ResetBits.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_ResetBits.405ef5431e32320b,"",%progbits
 	.ascii	"x\234e\220OHTQ\024\306\317w\356\233q`\012\304U\316\252"
 	.ascii	"\315\340J_\351\2620\027b\010E\003\012-\2074\253\007"
 	.ascii	"i2J\270\363\216\214\270hcBe\205\010JhN\251\331\037("
@@ -469,7 +469,7 @@
 	.ascii	"\253\275\336\215\272N\012\235M\264^\030\210\350?\231"
 	.ascii	"\360z\376\003\005\301\255\217"
 	.text
-	.section	.gnu.lto_GPIO_WriteBit.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_WriteBit.405ef5431e32320b,"",%progbits
 	.ascii	"x\234\215\221OHTQ\024\306\357w\357{\317\207\032H\253"
 	.ascii	"\232\205\264\031$H_\3512\012\011)ZHC\023-\332\210\231"
 	.ascii	"\325\0035\031%\334y\307&Z\004a.\314\012\021\214\032"
@@ -504,7 +504,7 @@
 	.ascii	"\272\220\333b\355s\333\217\3267\375\002\246\251\375"
 	.ascii	"n"
 	.text
-	.section	.gnu.lto_GPIO_Write.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_Write.405ef5431e32320b,"",%progbits
 	.ascii	"x\234e\220OHTQ\024\306\317w\336\363\315\300\024\210"
 	.ascii	"\253\232U\233\301\225\276r\226\205\270\220\"B\0320\332"
 	.ascii	"\264\0203\253\007\232\362\034\304\235wd\242E\033\233"
@@ -532,7 +532,7 @@
 	.ascii	"{\250\356T\346\364\331\221Xf\300\317\236\357\356\373"
 	.ascii	"\007\362y\254t"
 	.text
-	.section	.gnu.lto_GPIO_PinLockConfig.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_PinLockConfig.405ef5431e32320b,"",%progbits
 	.ascii	"x\234\235\222]H\223Q\030\307\317s\316\276\247%]\325"
 	.ascii	".*\222\341\325\\\351e\020^H\321\2054\260\353F\231\325"
 	.ascii	"\013\315\306\034\345\235gk\022\364\001j\240\226\210"
@@ -570,7 +570,7 @@
 	.ascii	"\\\373\017\324\231\304\350v)5\314\357\361\376\000T\\"
 	.ascii	"V_"
 	.text
-	.section	.gnu.lto_GPIO_EventOutputConfig.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_EventOutputConfig.405ef5431e32320b,"",%progbits
 	.ascii	"x\234\205R]HTA\024\2363\263{\357\256+[\364T\373R \""
 	.ascii	"A\272\245\324CA\364\020E\017\225`\257%\265m\266\220"
 	.ascii	"?\\\267\210zpv\335V\242@\221\"\241\014\"Dk\363\257\314"
@@ -609,7 +609,7 @@
 	.ascii	"\226[\301\242\362\223\226\317\357\326q\240L\207F\260"
 	.ascii	"\264\302\362\227\374\002\246\2456\322"
 	.text
-	.section	.gnu.lto_GPIO_EventOutputCmd.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_EventOutputCmd.405ef5431e32320b,"",%progbits
 	.ascii	"x\234eP\273/CQ\030\377~\347V5\251ALt\2244\215D\\4\261"
 	.ascii	"H\304 6\"\251\275)\212\233x\245\275\301\326s\245b0x"
 	.ascii	",$t\020D\275E\377\201\033\203Q\203At\250\245^\023\215"
@@ -631,7 +631,7 @@
 	.ascii	"\033\324\343\346x\260uX]\217L\031\223M\203\344\351\215"
 	.ascii	"\316\204\314\210\031\375\001jA~\273"
 	.text
-	.section	.gnu.lto_GPIO_PinRemapConfig.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_PinRemapConfig.405ef5431e32320b,"",%progbits
 	.ascii	"x\234\235TmPTU\030>\357\271w\357\356\336\375\302\017"
 	.ascii	"\024\361[\334\241fRR\377\350\364\241?\232\032\177T\246"
 	.ascii	"M\177\372ahdLa\204L\371\317\013\273\256V\010\014\366"
@@ -719,7 +719,7 @@
 	.ascii	"Pr\263\262U|gi8\344d\254\260\342'+}\325[\377\000\305"
 	.ascii	"Q\203E"
 	.text
-	.section	.gnu.lto_GPIO_EXTILineConfig.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_EXTILineConfig.405ef5431e32320b,"",%progbits
 	.ascii	"x\234\235S_H\223Q\024\277\347~\373\347\276\334\264\236"
 	.ascii	"Z\005\201\210\005\351J\037\213\352!\212\036*\301^C\313"
 	.ascii	"\254\006\251c\256\350\315\317\271\026\205\0176\264\264"
@@ -764,7 +764,7 @@
 	.ascii	"\227\237[\352p\346\225\236p\024\026\231\204o+\021\256"
 	.ascii	"\344,\266\377\002t\323\251W"
 	.text
-	.section	.gnu.lto_GPIO_ETH_MediaInterfaceConfig.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_GPIO_ETH_MediaInterfaceConfig.405ef5431e32320b,"",%progbits
 	.ascii	"x\234cf\300\004R@\254\307\310\300\020\012\244\031\231"
 	.ascii	"\031\030\231&\234c`h\344`bd\0041\030\030\031\352\231"
 	.ascii	"\030\353\031_2}db\234p`\365\014n\365\245\015\015\015"
@@ -788,7 +788,7 @@
 	.ascii	"\206x\304\373\246\246d&z\346\225\244\026\245%&\247\002"
 	.ascii	"\000\253k\214\012"
 	.text
-	.section	.gnu.lto_.symbol_nodes.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.405ef5431e32320b,"",%progbits
 	.ascii	"x\234U\3109\022\202@\024\204\3417\203\013\356J\356."
 	.ascii	"\340\202z\304&\240 \365\004\226\001\336d\"\255\342\014"
 	.ascii	"\006$f\236\300\022\336$\276N\376\372\332!\242\273\""
@@ -800,10 +800,10 @@
 	.ascii	"\307d\001\2376\371\303\347\323&y\026\212\337\272\252"
 	.ascii	"\352\353\3135U\351\007\262\244o7"
 	.text
-	.section	.gnu.lto_.refs.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_.refs.405ef5431e32320b,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.decls.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_.decls.405ef5431e32320b,"",%progbits
 	.ascii	"x\234\235Y\013PTW\232\356sO\003\335M\013\211\314\220"
 	.ascii	"\014\265;K\314\016\225Ie\202\321\331\255\315\356\246"
 	.ascii	"\022\004\215\260>\330\306\231L\225S\303\020h\307\256"
@@ -1039,7 +1039,7 @@
 	.ascii	"\225\206\337.\014\232\353B\264\363\376\017\325\255\221"
 	.ascii	"s"
 	.text
-	.section	.gnu.lto_.symtab.a1f652176b025d18,"",%progbits
+	.section	.gnu.lto_.symtab.405ef5431e32320b,"",%progbits
 	.ascii	"GPIO_DeInit\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\001\001\000\000GPIO_AFIODeInit\000\000\000"
 	.ascii	"\000\000\000\000\000\000\000\000\000\004\001\000\000"

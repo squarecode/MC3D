@@ -14,24 +14,24 @@
 	.file	"usb_istr.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.e8ca9cdd0407c8c0,"",%progbits
+	.section	.gnu.lto_.profile.8af3db88d2a026db,"",%progbits
 	.ascii	"x\234cf```a\200\000F\206 M\000\001A\000\204"
 	.text
-	.section	.gnu.lto_.jmpfuncs.e8ca9cdd0407c8c0,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.8af3db88d2a026db,"",%progbits
 	.ascii	"x\234cf\300\016T\2404\023\02032}db\274\377\344\374E"
 	.ascii	"\216\027L?\301\002\313\031\245\030\030\301\362\365@"
 	.ascii	"\014\000\257\336\007\264"
 	.text
-	.section	.gnu.lto_.inline.e8ca9cdd0407c8c0,"",%progbits
+	.section	.gnu.lto_.inline.8af3db88d2a026db,"",%progbits
 	.ascii	"x\234cf\300\016\354\2404\023\003\003\033\037#\003\023"
 	.ascii	"\323\005~\006\266\005\362L`1n\006\006F T\327\004J\330"
 	.ascii	"\375X\307\014\227a\344\202\021\314\374 >\000\301\327"
 	.ascii	"\005;"
 	.text
-	.section	.gnu.lto_.pureconst.e8ca9cdd0407c8c0,"",%progbits
+	.section	.gnu.lto_.pureconst.8af3db88d2a026db,"",%progbits
 	.ascii	"x\234cf```e\200\000&\006)F)\000\000\371\000@"
 	.text
-	.section	.gnu.lto_USB_Istr.part.0.e8ca9cdd0407c8c0,"",%progbits
+	.section	.gnu.lto_USB_Istr.part.0.8af3db88d2a026db,"",%progbits
 	.ascii	"x\234eO1KBQ\024>\337\271\317xaD4\311\243\335\245|?)"
 	.ascii	"\312\311\241\010\2556\361>Ph\012\007\207 \254\251\262"
 	.ascii	"L\033\202p\224\207SC\021\015QT\006)\344\224\346 \217"
@@ -50,7 +50,7 @@
 	.ascii	"\347t\250C&\014L[\2429\0117\223N\272k+\251uw;\271\341"
 	.ascii	"neV\227S\231\315t\"I\277\275\226z\014"
 	.text
-	.section	.gnu.lto_USB_Istr.e8ca9cdd0407c8c0,"",%progbits
+	.section	.gnu.lto_USB_Istr.8af3db88d2a026db,"",%progbits
 	.ascii	"x\234\215U[O\023Q\020>sv\273\267\326\026\210  \030|"
 	.ascii	"\342\301hM|\360\301\304\277b\204'\0364F\3247\302\256"
 	.ascii	"\255J\274\303\203\032\025\023\023E\024\274\340\015\005"
@@ -104,7 +104,7 @@
 	.ascii	"\254\016o\250^\023^_[\265\242\246v\335\332E\325\354"
 	.ascii	"\017C\365\220\026"
 	.text
-	.section	.gnu.lto_.symbol_nodes.e8ca9cdd0407c8c0,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.8af3db88d2a026db,"",%progbits
 	.ascii	"x\234M\314\311\011\302P\020\200\341\177\336\022sQl\300"
 	.ascii	"}\327\"'G\361 6\240\270\225`\007\212GmA\204\264!\276"
 	.ascii	"<#d\0163|\263Y\340J\031f\241\260y\200\252l\217)f\240"
@@ -114,13 +114,13 @@
 	.ascii	"SM*\264\324\271\275>b\245\301y\225;+\360~\336\023'\\"
 	.ascii	"\326\271\203/1\347.\024"
 	.text
-	.section	.gnu.lto_.refs.e8ca9cdd0407c8c0,"",%progbits
+	.section	.gnu.lto_.refs.8af3db88d2a026db,"",%progbits
 	.ascii	"x\2345\306A\016@@\020D\321\337\325m\232\301Ff!\3428"
 	.ascii	"\356\177&\203\250\227T\276\003\027\337f39\012\274\020"
 	.ascii	"\325bA+\332\360\306\260\243\003?\263(\273\361\375.'"
 	.ascii	"\325\277\037\334F%\001\271"
 	.text
-	.section	.gnu.lto_.decls.e8ca9cdd0407c8c0,"",%progbits
+	.section	.gnu.lto_.decls.8af3db88d2a026db,"",%progbits
 	.ascii	"x\234\245XyPTG\032\237~=\014\30300\256F\315\262\251"
 	.ascii	"\225\230,\225lT\314&\233\312\177\321 Fw\025\010\340"
 	.ascii	"n\266\266RS\210\243\022\025\251\231!&[\345\346\201\027"
@@ -316,7 +316,7 @@
 	.ascii	"\014SL4\362\351\260\312\313'\320_k0\255\\\014#\014'"
 	.ascii	"\336j\303CM!KB\015\213\334\001\363?\324\214\231Q"
 	.text
-	.section	.gnu.lto_.symtab.e8ca9cdd0407c8c0,"",%progbits
+	.section	.gnu.lto_.symtab.8af3db88d2a026db,"",%progbits
 	.ascii	"USB_Istr\000\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\314\000\000\000wIstr\000\000\004\000\002\000\000"
 	.ascii	"\000\000\000\000\000\343\000\000\000bIntPackSOF\000"

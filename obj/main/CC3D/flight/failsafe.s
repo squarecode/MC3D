@@ -14,11 +14,11 @@
 	.file	"failsafe.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_.profile.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234cf```c\200\000F\206\017\314?\030\001\006\\\001"
 	.ascii	"\367"
 	.text
-	.section	.gnu.lto_.jmpfuncs.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234m\215\273\012\203P\020D\317\354\005\225\020\343"
 	.ascii	"+\211\340\317^+\177\305\317\022\273\024i,\355\262\212"
 	.ascii	"b\223\201\341\260\263;l\340\277\206\203\225;@\342H\335"
@@ -26,7 +26,7 @@
 	.ascii	"\262=:p\351\314\341\356S.)\3620)\304X@\271\277\252\241"
 	.ascii	"\201\347\266{\371\321\333\335n\335\037\267Q\015\271"
 	.text
-	.section	.gnu.lto_.inline.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_.inline.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234u\3201\016\202@\020\005\320?\313\262\030A\021E"
 	.ascii	"\2156$\036\300#x\004Z\217\340uhM,(,,,\354lm\215\215"
 	.ascii	"\205\245\265Zz\004g\300\240\200R|\340\355\337\354d-"
@@ -41,12 +41,12 @@
 	.ascii	"\363\001\334\036\273w\231\227}\010/do\257\027e\307\013"
 	.ascii	"\322\035*I"
 	.text
-	.section	.gnu.lto_.pureconst.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_.pureconst.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234cf``Pf\200\000A\006IfI6\011vI\016K\036\011^\011"
 	.ascii	">\011~\026\001\026A\026!\011a\026\021\011Q\0111\011"
 	.ascii	"q\011\000/\230\002\216"
 	.text
-	.section	.gnu.lto_failsafeReset.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_failsafeReset.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234\225\224\313O\023Q\024\306\3579\363\204bPWjb\\"
 	.ascii	"\222h\206\376\027\356\214k\027\2324h\265\011\272\020"
 	.ascii	"\267\015S\254\217\225B\215h\"j\\\030\321\"-(\370\242"
@@ -82,7 +82,7 @@
 	.ascii	"#\261C\341hgl\377\201#\341h$\326\331\025\211\356k\357"
 	.ascii	"\020\177\000gw\356\035"
 	.text
-	.section	.gnu.lto_failsafeApplyControlInput.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_failsafeApplyControlInput.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234}S[KTQ\024\336\337\332\347\314\234\231\343\215"
 	.ascii	"\202\036\214\310\262\360!t\336\375\005\321\257H$k\300"
 	.ascii	"zH\237\002\361\214\016\331S\330T eIPhy\353\246y)\035"
@@ -122,7 +122,7 @@
 	.ascii	"W\022\252:[\036:]\026>\023\252\250\014\237<U\035\252"
 	.ascii	"(\013WV\225U\234()W\010\377\001\3139d\236"
 	.text
-	.section	.gnu.lto_failsafeShouldHaveCausedLandingByNow.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_failsafeShouldHaveCausedLandingByNow.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234eOMKBQ\020\2353W\037\017\202\210\226B\264K\"\365"
 	.ascii	"-\203~M\"Y\202\265\310\026m\304\253>\310U\037\020\264"
 	.ascii	"\310\332EVVP\020D\213\334\265\211\242\\\004\021E`P\253"
@@ -143,7 +143,7 @@
 	.ascii	"&\247\346\234x4\221LE\343\023\221\030\375\000\002\250"
 	.ascii	"u4"
 	.text
-	.section	.gnu.lto_failsafeActivate.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_failsafeActivate.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234\225SKO\023Q\024\276\337mm\247\017h\013\254j\214"
 	.ascii	"K\022M\333\177\340\326\277a\203V\233\240\013\313\266"
 	.ascii	"aj\233\340J\036>b\0245\230\250h\021\020\005\237\350"
@@ -180,7 +180,7 @@
 	.ascii	"\034\214\306\017Eb\355\361\375\007:\"\261h\274=\021"
 	.ascii	"\215\355\013\267\211_\217T\223\214"
 	.text
-	.section	.gnu.lto_failsafeUpdateState.part.0.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_failsafeUpdateState.part.0.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234\235YiPTW\026\276\3676\275w\323\354\373*\273\262"
 	.ascii	"\304\270\315Te\222\232\252\371\223\251\232\314\324d"
 	.ascii	"~\315\374\031cHbU\266Rkf~\214\225f\211\232\270\243D"
@@ -382,7 +382,7 @@
 	.ascii	"\235\367\316\234\302\371\363_^0{A\341\377\001\231_\230"
 	.ascii	"\031"
 	.text
-	.section	.gnu.lto_failsafeUpdateState.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_failsafeUpdateState.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234m\221\357KSa\024\307\237\363<\367\316\351]N|5\006"
 	.ascii	"\375\200\275\220 ]\020\324?\320\033_D\224\375\003\327"
 	.ascii	"y\247\027t\312\335\250\336\214=\323)A\277$\260\244\262"
@@ -417,7 +417,7 @@
 	.ascii	"\2246E;\320\332\240\224kJ\233\326\352Q\374\376\272\200"
 	.ascii	"\034P~\003[\316\035\351"
 	.text
-	.section	.gnu.lto_useFailsafeConfig.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_useFailsafeConfig.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234e\217?K\202Q\024\306\317s^\025\301%j\021!h\021"
 	.ascii	"7\035\372\002A\320'(\232E\264\004S\310V\361j\006Na\015"
 	.ascii	"!\364g\211\3102\265l\010\233\336 \242!\213j\010\"j)"
@@ -439,7 +439,7 @@
 	.ascii	"\216\304\375\241\2407@\003\277\375h,\032\012O\215\307"
 	.ascii	"&\342\301\037)\262\212\340"
 	.text
-	.section	.gnu.lto_failsafeInit.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_failsafeInit.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234}\222_K\024Q\030\306\317sf\234]w\303\244nd!\360"
 	.ascii	"f\021\012\235\213\276\200\3247\350\013\304\344\356\352"
 	.ascii	"\300\266\202\316E7\342\031\331 \010\312\272\010\321"
@@ -472,7 +472,7 @@
 	.ascii	"\214\225\210\034\217\234v\372\006\372\035'\036\375\005"
 	.ascii	"I\026\036\337"
 	.text
-	.section	.gnu.lto_failsafePhase.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_failsafePhase.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234eN\273J\003Q\020\2353\013\313B\032\261\\\020\313"
 	.ascii	" \230l\355g\370\007.\301\325\205halC\356\206-R\371B"
 	.ascii	"\260\360Q)F\023\024\014(v\371\000Q$\205 D\233\010\332"
@@ -490,7 +490,7 @@
 	.ascii	"\013\213\253^\340\207\305\222\037\314\347\013\364\013"
 	.ascii	"\226\034bD"
 	.text
-	.section	.gnu.lto_failsafeIsMonitoring.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_failsafeIsMonitoring.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234eN\273J\003Q\020\2353\013\313B\032\261\222\005"
 	.ascii	"\261\014\202\311\202\235\237\341',\301\325\205halC\356"
 	.ascii	"\206\025\254|\324>:q5A\321B\261\313\007\210\")\004\021"
@@ -508,7 +508,7 @@
 	.ascii	"z\225\325\222\267\354\207+^P\016\027\227\326\274\300"
 	.ascii	"\017\313\025?X(\226\350\027S\354b\023"
 	.text
-	.section	.gnu.lto_failsafeIsActive.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_failsafeIsActive.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234eN\273J\003Q\020\2353\013\313B\032\261\222\005"
 	.ascii	"\261\014\202\311\026V~\206\237\260\004W\027b\012c\033"
 	.ascii	"r7\254`\345\243\366\321\211\321\004\205\010B\272\224"
@@ -526,7 +526,7 @@
 	.ascii	"\005\305pye\335\013\374\260X\366\203\245|\201~\001<"
 	.ascii	"\253b\017"
 	.text
-	.section	.gnu.lto_failsafeStartMonitoring.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_failsafeStartMonitoring.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234cf\300\004R@\374\013\210\345\201\230\221\231\201"
 	.ascii	"\221i\3029\006\206F\016&FF\020\203\201\221\241\236\211"
 	.ascii	"\261\236\361%\323G&\306\011\007V\317\340V_\332\320\320"
@@ -545,7 +545,7 @@
 	.ascii	"d\375\334\304\314<\375\264\234\314\364\214\022\375\264"
 	.ascii	"\304\314\234\342\304\264T\275d\006\000>\255eO"
 	.text
-	.section	.gnu.lto_failsafeIsReceivingRxData.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_failsafeIsReceivingRxData.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234e\216\275K\003A\020\305\347\315\0351\220B\261Q"
 	.ascii	"\002ba\021\304$\3677\035\301\323@\2640\266!{ID+\025"
 	.ascii	"K\277\012A\2151~\026\202\235Xh#\312\221B\010\242M\204"
@@ -563,7 +563,7 @@
 	.ascii	"Vv!e\315\331\351y\313\311\244gf\027-\307Ng\262\2663"
 	.ascii	"\235L\321/uyj<"
 	.text
-	.section	.gnu.lto_failsafeOnRxSuspend.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_failsafeOnRxSuspend.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234uPMK[A\024\275\347\316{/\201\200-\256$ \270\221"
 	.ascii	"\254\342\373\013]w%\370\013\202&m@\255\030]\212\223"
 	.ascii	"4\212+k\337J\250\355\246\210\037\321h\243\010\012B\334"
@@ -589,7 +589,7 @@
 	.ascii	"L\"\225\354\351\247g\343\231\276\361\314Hrx\24079\232"
 	.ascii	"~3\360\027\310i\273\362"
 	.text
-	.section	.gnu.lto_failsafeOnRxResume.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_failsafeOnRxResume.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234}\220MKBA\024\206\317{n]\005\027E+\021\242\245"
 	.ascii	" ]\375\037\375\013\221,\301Zd[\361\3364hS\211\253\350"
 	.ascii	"kWY\232V\277\340.\243E\"\026ADQ\030\324\316\217\205"
@@ -609,7 +609,7 @@
 	.ascii	"\362Kb\232\016GR+\261\310R4\261\034\211'\023\013\213"
 	.ascii	"\253\221x4\221LE\343\363\341\030\375\000R\307\230p"
 	.text
-	.section	.gnu.lto_failsafeOnValidDataReceived.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_failsafeOnValidDataReceived.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234}\221\317O\023Q\020\307\347;\273\335\0261\201x"
 	.ascii	"\"$\340\221D\330\356\201\277\200+\377E%V\232\200\007"
 	.ascii	"\360\332\360j\253\361\244\204p0 $\036T\264@\241\200"
@@ -636,7 +636,7 @@
 	.ascii	"\365y\203\251\314#/=\220y\330\377\330K\2472\003\303"
 	.ascii	"\251\364\203d\037\375\001\312\207\327\021"
 	.text
-	.section	.gnu.lto_failsafeOnValidDataFailed.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_failsafeOnValidDataFailed.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234\215\222\317K\033Q\020\307\337wv\263Y\177@\213"
 	.ascii	"'\021Z\217\001\333d\241\3753\372WDil\300\366\240\275"
 	.ascii	"\006_L*\236\254\204\012\005\177\200\207Rk\374\325\264"
@@ -663,7 +663,7 @@
 	.ascii	"\015\366y/\323\331W^f \333\377\342\265\227Ig\007\206"
 	.ascii	"\322\231\347\251>\365\007^\316\361\233"
 	.text
-	.section	.gnu.lto_.symbol_nodes.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234U\317\311J\303P\024\006\340?\3676\315U[\255C'\265"
 	.ascii	"\316S\235\347\011\304\327\321GpuJ\351Bp\241+]UJ)\342"
 	.ascii	"s\224\010]H\334\353FK\240EPDA\034@Mn\"\344f\221\377"
@@ -684,7 +684,7 @@
 	.ascii	"\365KK\343Q\240\352~u\334\377\213\204\237I/\361\007"
 	.ascii	"\355\352\271\221"
 	.text
-	.section	.gnu.lto_.refs.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_.refs.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234%\217]+\205q\020\304\3477\317\3779\347<\347\335"
 	.ascii	"\313!.\\\211\242(\\(\276=\345\003PR\342\306\205\022"
 	.ascii	"%\345\012\231?[\263;\273;[;\215\244\003\364\027C\011"
@@ -698,7 +698,7 @@
 	.ascii	"6V\302\274Z[\027/\342*\332f\255\272\2537\275\262\376"
 	.ascii	"O\345x\355\353\027\251\002\030\244"
 	.text
-	.section	.gnu.lto_.decls.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_.decls.6430f114ac82df0b,"",%progbits
 	.ascii	"x\234\275z\011T\224I\226nFF\002I\222$.Ue\225\325\335"
 	.ascii	"eY=N\315LuY==\257O\237y\363^\027**\325n\0158\323=\357"
 	.ascii	"\235\223/\013\262\224)\266\316L,\353\234w\316\373\001"
@@ -1136,7 +1136,7 @@
 	.ascii	"\006*\357z\215\376\373\005\001ZM\300\2670\275\337\004"
 	.ascii	"\010I\367\177\001\213pa\341"
 	.text
-	.section	.gnu.lto_.symtab.8a2aa992ab2834e0,"",%progbits
+	.section	.gnu.lto_.symtab.6430f114ac82df0b,"",%progbits
 	.ascii	"failsafeUpdateState\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\000\000\347\000\000\000useFailsafeConfig\000"
 	.ascii	"\000\000\000\000\000\000\000\000\000\000\000\022\001"

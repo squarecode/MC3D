@@ -14,10 +14,10 @@
 	.file	"acceleration.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_.profile.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234cf```c\200\000F\206{L\267\030\001\005\325\001\306"
 	.text
-	.section	.gnu.lto_.jmpfuncs.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234u\216\261\012\302\000\014D\357\222*\005\335t\352"
 	.ascii	"\240\237\351T\332\321\311Op\022\254\016~\206\213 \024"
 	.ascii	"\347\322\325\325\261\210`\256\326M3\274\020\336\221"
@@ -28,7 +28,7 @@
 	.ascii	"\015\016\310\250\372N\005\260\320'\313\376\3257\030"
 	.ascii	"\242(E"
 	.text
-	.section	.gnu.lto_.inline.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_.inline.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234m\220\253\016\0021\020Eg\246\335\322\360\\\036"
 	.ascii	"\011\011\202%\010\022\014\301\221 \320(>\211\3400\210"
 	.ascii	"\225 H\370\000\024_\001\016\315\027 \361 \350m7\254"
@@ -43,11 +43,11 @@
 	.ascii	"'(]\371+\000\343\354l\222\015=\323\035;\326K\267yd\266"
 	.ascii	"\0245\261\275_\374\360\244\210\350\013\322=/l"
 	.text
-	.section	.gnu.lto_.pureconst.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_.pureconst.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234cf``\220d\200\000\036\006\011&\026f\026\026\026"
 	.ascii	"V)6)n)aI\021\011)\0119\011y\011\000\022\344\001\261"
 	.text
-	.section	.gnu.lto_accSetCalibrationCycles.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_accSetCalibrationCycles.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234eP\277KBQ\030\375\316}\026\202Q\322\226\243 N\351"
 	.ascii	"\177\020A\320\034\375\007\366z\303\003S\362\325\320"
 	.ascii	" \336'\016MaC\021\375\202\212\310\2624h\211\2467\010"
@@ -69,7 +69,7 @@
 	.ascii	"\305\315\231\036\234X\322\343\2065m\314/\232)c\366\027"
 	.ascii	"g\271\203M"
 	.text
-	.section	.gnu.lto_isAccelerationCalibrationComplete.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_isAccelerationCalibrationComplete.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234eN=K\003Q\020\334\331\223$\220F\254$\245\012A\010"
 	.ascii	"\271\337t\034W\004\364\002w\266!\357\342\211\026\"\306"
 	.ascii	"\326\217N\215\037\250)\305F,\264\021ER\010A\264\211"
@@ -87,7 +87,7 @@
 	.ascii	"\207\345 \264\035\327\365\026\274\300Y*\225\375\242"
 	.ascii	"K\277\224Bd\330"
 	.text
-	.section	.gnu.lto_isOnFinalAccelerationCalibrationCycle.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_isOnFinalAccelerationCalibrationCycle.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234eN\317K\002a\020\2357+&x\211N\3411\202%\020\367"
 	.ascii	"oZ\226=\010\245\260\333U\374\264\215<Ez-\273E\366\203"
 	.ascii	"\212<u\353\346%\213\360\020H\324\305\300n-\035b\011"
@@ -105,7 +105,7 @@
 	.ascii	"RX\016B\307\365<\177\335\017\334\315b\271T\360\350\027"
 	.ascii	"?\201d\351"
 	.text
-	.section	.gnu.lto_isOnFirstAccelerationCalibrationCycle.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_isOnFirstAccelerationCalibrationCycle.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234eOMK\303@\024|\363\"5\320\203\342Iz\024\241(\245"
 	.ascii	"\371M!\344P\320\024\022\257\245\233\032\321\223\264"
 	.ascii	"^\253\336\304\370\201\037x\352A\360\007\210E*\010E\024"
@@ -123,7 +123,7 @@
 	.ascii	"\252]\361\254\300\365\202\252\037X\266\343\270+\256"
 	.ascii	"o\257U\252^\331\241_S\022fC"
 	.text
-	.section	.gnu.lto_resetRollAndPitchTrims.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_resetRollAndPitchTrims.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234\215\220\277K[Q\024\307\317\367\274\370PB\261v"
 	.ascii	"\222L\"\004\007y\311\346(\2728w\350?\020\236\001\003"
 	.ascii	"1\201\367\334s#v)\010\332\202\010\255t\020\25165\321"
@@ -148,7 +148,7 @@
 	.ascii	"l\332K\315d\362\271\204K}^>\233\035\317M>\316\314\270"
 	.ascii	"SO\274\314\264\177\003\232v\2633"
 	.text
-	.section	.gnu.lto_performAcclerationCalibration.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_performAcclerationCalibration.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234\235V\353OTG\024\2373w\357\335\275\260\262<\012"
 	.ascii	"\022T \010\301\324\300~lc\023\333~\352\327~\350?@)I"
 	.ascii	"I\020\023\360C\323\304xyHM\2236\262\222\326T\255\032"
@@ -233,7 +233,7 @@
 	.ascii	"\3127V\026\227\262\224\252\215\025\025\357W~\362a\371"
 	.ascii	"\246\322O?\252*\337Pm+\371\254\274\372_4\270|\001"
 	.text
-	.section	.gnu.lto_performInflightAccelerationCalibration.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_performInflightAccelerationCalibration.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234\235XkPT\347\031\376\336o\227e\257,x\0037\244V"
 	.ascii	"\215\356X\273\354\350\244\342%\2411\306\231N3\223\311"
 	.ascii	"\217\374\352L\177Xk\247v\214\316@~\244?l\226\213\227"
@@ -365,7 +365,7 @@
 	.ascii	"\316\362U+3\226\262\224\354U+V,\\\371\3737\227\277\263"
 	.ascii	"\364\217oe/\177;\307\270\344\335\3459\377\003&+]\002"
 	.text
-	.section	.gnu.lto_applyAccelerationTrims.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_applyAccelerationTrims.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234\235\224Oh\023A\024\306\347\315&\333M\266ibO%'"
 	.ascii	"\377\205\036$\335\233\027/\336\005O\336<\205\220C\300"
 	.ascii	"\246\220x-\335\324\210=I\215\012E\253\202E\2146M\265"
@@ -404,7 +404,7 @@
 	.ascii	"\201\323\341\236HW\220\355\261\326'\242\341\356\330"
 	.ascii	"\037\331\335\316\013"
 	.text
-	.section	.gnu.lto_updateAccelerationReadings.part.0.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_updateAccelerationReadings.part.0.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234\215Vkl\024U\024\276\347\316\356\354\354\373\325"
 	.ascii	"\227E\012Rj\201(\353\037!!1J|\3746J\342\357Z\233X\003"
 	.ascii	"m\322\022\365O\303\364\001\251\204 \026c\020\225P\205"
@@ -497,7 +497,7 @@
 	.ascii	"tq\311{o\026//|\177IY\361\262r+Z,~\355\325\267\012>"
 	.ascii	"2\025|\\\\\376\037\022\300>2"
 	.text
-	.section	.gnu.lto_updateAccelerationReadings.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_updateAccelerationReadings.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234u\224\357O[U\030\307\317\367\334\337mW\312:&\362"
 	.ascii	"F#\022\022\015\253\211q\232%&\022\177\2746\306\177\240"
 	.ascii	"V\022\2330H\332%3\321\206\003t\263\361\205.u1\213\272"
@@ -555,7 +555,7 @@
 	.ascii	"t\310\242\371\205\347_\211\356\325\243o\306\223\377"
 	.ascii	"\002\206\226\346g"
 	.text
-	.section	.gnu.lto_setAccelerationTrims.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_setAccelerationTrims.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234e\220?K\003A\020\305gf\317p\020\020\261\220\220"
 	.ascii	"J\204\220Fr`k\3437\260\211\037 \034W\004L\002w\266!"
 	.ascii	"{!\202\225\004\003\022\361O\243b4\232\240U\324\346J"
@@ -577,7 +577,7 @@
 	.ascii	"\246\265h\331\251\245t.\2330a\342\257N\332\351\214\223"
 	.ascii	"\314-8\326\017v\200\200E"
 	.text
-	.section	.gnu.lto_setAccelerationFilter.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_setAccelerationFilter.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234e\220\301K\002A\024\306\337\233\331V\301C\341I"
 	.ascii	"<E ^\302=t\350Zt\351\020\3647,\213\301\202\255\341\332"
 	.ascii	"%\020g\303\240C\007)\010!\204 *\313T(:d\035\366\226"
@@ -598,7 +598,7 @@
 	.ascii	"#\236\210\247\364\264\231\264b\006\004M\313L\233zb\326"
 	.ascii	"0\026V\226\346V\323\363k\277\2748~\303"
 	.text
-	.section	.gnu.lto_.symbol_nodes.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234U\216\271N\0031\020\206\177\333\273\233M6w\\\005"
 	.ascii	"A\310\315}\337\347\353\360\026\023!\252\024\010\021"
 	.ascii	")\035(D\373 \\\012\242\241\201\007@\010\020\005\022"
@@ -619,7 +619,7 @@
 	.ascii	"W\024%\372\355\357\230S\304\323\363/\003\376\000~\313"
 	.ascii	"\212\203"
 	.text
-	.section	.gnu.lto_.refs.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_.refs.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234\035\217[O\203@\030D\317p\333o\201e)\024J\253\366"
 	.ascii	"\246\361n\214\321\250\017\376x\023\377\230\264'\223"
 	.ascii	"\3638\231I\201B\234\021\232INNO\312f\305\002%r\031."
@@ -633,7 +633,7 @@
 	.ascii	"\027\3422\327\325|\251\322V^\332i.\371\007\236\336\014"
 	.ascii	"\216"
 	.text
-	.section	.gnu.lto_.decls.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_.decls.fefe5a901cee3993,"",%progbits
 	.ascii	"x\234\255zyXTI\226o\306\215\004\222$\201r)\253\232\232"
 	.ascii	"\356\266\354j\277\356\231j-\253{zz\246\273\277.\\\252"
 	.ascii	"\236=\226\345\240\325U\275\274\246\022H5g\020l\300\252"
@@ -1091,7 +1091,7 @@
 	.ascii	"F\256\352\256\200\235\273$gkwj=\365\001\273\035\315"
 	.ascii	"\234\377\277\001\345\024\200\273"
 	.text
-	.section	.gnu.lto_.symtab.14231932981bb2cd,"",%progbits
+	.section	.gnu.lto_.symtab.fefe5a901cee3993,"",%progbits
 	.ascii	"accSetCalibrationCycles\000\000\000\000\000\000\000"
 	.ascii	"\000\000\000\000\000\017\001\000\000calibratingA\000"
 	.ascii	"\000\000\000\000\000\000\000\000\000\000\000\265\001"

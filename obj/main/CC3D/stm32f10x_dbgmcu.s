@@ -14,14 +14,14 @@
 	.file	"stm32f10x_dbgmcu.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.5e3f7de571b9cf2f,"",%progbits
+	.section	.gnu.lto_.profile.28aa84359f57eb4,"",%progbits
 	.ascii	"x\234cf```a\200\000F\006\005a\000\000\307\000<"
 	.text
-	.section	.gnu.lto_.jmpfuncs.5e3f7de571b9cf2f,"",%progbits
+	.section	.gnu.lto_.jmpfuncs.28aa84359f57eb4,"",%progbits
 	.ascii	"x\234cf\300\016\244\2404\013\003##c=#\023##s}=#s9P\210"
 	.ascii	"\211\201\201\031H\001\000#\314\002*"
 	.text
-	.section	.gnu.lto_.inline.5e3f7de571b9cf2f,"",%progbits
+	.section	.gnu.lto_.inline.28aa84359f57eb4,"",%progbits
 	.ascii	"x\234cf\300\016:\2414\013\003\003;\033##\003#\003\003"
 	.ascii	"3\333\007=\006\266\005\362L\014L\027\370Y@\222\214\014"
 	.ascii	"\\<\214\314\214\231\037\231\030\357?9\177\221\343\005"
@@ -30,11 +30,11 @@
 	.ascii	"~L\014\254,\214\014L@9\210\" `\306\024b\000\000\301"
 	.ascii	"\032\022\261"
 	.text
-	.section	.gnu.lto_.pureconst.5e3f7de571b9cf2f,"",%progbits
+	.section	.gnu.lto_.pureconst.28aa84359f57eb4,"",%progbits
 	.ascii	"x\234cf``\340d\200\000\026\006)F)&)f)\000\002\305\000"
 	.ascii	"\177"
 	.text
-	.section	.gnu.lto_DBGMCU_Config.part.0.5e3f7de571b9cf2f,"",%progbits
+	.section	.gnu.lto_DBGMCU_Config.part.0.28aa84359f57eb4,"",%progbits
 	.ascii	"x\234\225Q_HSa\024\377~\337\275\273[M\313z\032{\012"
 	.ascii	"dh\340\\\351s %\005\201\022\254z\035\376Y5h\021seo~"
 	.ascii	"[S|\322\261\036\024b\017\261\376X3M+#)\030\"\264\227"
@@ -67,7 +67,7 @@
 	.ascii	"i\363uD\303\365u\2478\335\336z:\334v\241\266M\2247\036"
 	.ascii	"<\322t\350D\300*v4\007;\375\321\226h\3607q\323\364\011"
 	.text
-	.section	.gnu.lto_DBGMCU_Config.5e3f7de571b9cf2f,"",%progbits
+	.section	.gnu.lto_DBGMCU_Config.28aa84359f57eb4,"",%progbits
 	.ascii	"x\234\225RMHTQ\024\276\337\275\357\275\236\177!\255"
 	.ascii	"d\026\322f\320\250\361\225n\013\206\222Z)\201\325v\360"
 	.ascii	"g\252\201&b\234\312\215x\325\021fe\303\024$\304\264"
@@ -102,7 +102,7 @@
 	.ascii	"\2135\255\254\254\376\360\261\206#'}\016\330l\364_n"
 	.ascii	"\0127\207\375\277\001;S\365\307"
 	.text
-	.section	.gnu.lto_DBGMCU_GetREVID.5e3f7de571b9cf2f,"",%progbits
+	.section	.gnu.lto_DBGMCU_GetREVID.28aa84359f57eb4,"",%progbits
 	.ascii	"x\234e\216?HBQ\024\306\317\271\317\314\260B\032\235"
 	.ascii	"\032\002\207\320WJc\264D[\020\330.\371\247|\220\021"
 	.ascii	"O\2136o%\321h\177\006#\204\226\310\262\224\206\202\232"
@@ -124,7 +124,7 @@
 	.ascii	"&Ue\325\247\312A\325#\007C\001\207}\236l\257{!\340Y"
 	.ascii	"\261y\340\027n\230\204\310"
 	.text
-	.section	.gnu.lto_DBGMCU_GetDEVID.5e3f7de571b9cf2f,"",%progbits
+	.section	.gnu.lto_DBGMCU_GetDEVID.28aa84359f57eb4,"",%progbits
 	.ascii	"x\234e\217?HBQ\024\306\317\271\317\036\206\024\321\350"
 	.ascii	"RC\340\244\257\024\332\242%\332\202\300v\311?\345\203"
 	.ascii	"\214xZ\264y+\211F\255\006%\204\226\310\322\224\226\244"
@@ -146,16 +146,16 @@
 	.ascii	"\274\263>M]\361\273\2464u\315\247)A\315\243\004C\001"
 	.ascii	"\207}\201l\257{1\340Y\265y\340\007\013\336\205H"
 	.text
-	.section	.gnu.lto_.symbol_nodes.5e3f7de571b9cf2f,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.28aa84359f57eb4,"",%progbits
 	.ascii	"x\234cf``\360b\200\002&\205z\006\206\011\347\030\030"
 	.ascii	"\352\353\031\347.\342``\222\257g\204\362\031\346-\000"
 	.ascii	"\362e\353\231P\370r\365\314\310|fF\006\206C+\31712\000"
 	.ascii	"\000\3354\023\232"
 	.text
-	.section	.gnu.lto_.refs.5e3f7de571b9cf2f,"",%progbits
+	.section	.gnu.lto_.refs.28aa84359f57eb4,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.decls.5e3f7de571b9cf2f,"",%progbits
+	.section	.gnu.lto_.decls.28aa84359f57eb4,"",%progbits
 	.ascii	"x\234\215\224\177LSW\024\307\337y\257\005\332B1a\301"
 	.ascii	"\215\177\006li\346\202Ta\177\316\214I\221\260\014G\254"
 	.ascii	".K\374\243)\345!M\240t\355\253\321\354\237\013eJ\034"
@@ -230,7 +230,7 @@
 	.ascii	"\035\357D\351:17$C\227\372\206.\215O\335\361/\026\314"
 	.ascii	"l["
 	.text
-	.section	.gnu.lto_.symtab.5e3f7de571b9cf2f,"",%progbits
+	.section	.gnu.lto_.symtab.28aa84359f57eb4,"",%progbits
 	.ascii	"DBGMCU_Config\000\000\000\000\000\000\000\000\000\000"
 	.ascii	"\000\000\307\000\000\000DBGMCU_GetREVID\000\000\000"
 	.ascii	"\000\000\000\000\000\000\000\000\000\312\000\000\000"

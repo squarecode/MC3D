@@ -14,24 +14,24 @@
 	.file	"usb_desc.c"
 	.text
 .Ltext0:
-	.section	.gnu.lto_.profile.eaef5dfd1046d902,"",%progbits
+	.section	.gnu.lto_.profile.936373c20b44e627,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.inline.eaef5dfd1046d902,"",%progbits
+	.section	.gnu.lto_.inline.936373c20b44e627,"",%progbits
 	.ascii	"x\234cf\300\016\230\340,\000\000\234\000\006"
 	.text
-	.section	.gnu.lto_.pureconst.eaef5dfd1046d902,"",%progbits
+	.section	.gnu.lto_.pureconst.936373c20b44e627,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.symbol_nodes.eaef5dfd1046d902,"",%progbits
+	.section	.gnu.lto_.symbol_nodes.936373c20b44e627,"",%progbits
 	.ascii	"x\234cf``\320a\200\002V%\206\205L\365\014\254\212\214"
 	.ascii	"`J\201\011L\3113\203)9\0260%\313\012\242\030\000\263"
 	.ascii	"2\007\346"
 	.text
-	.section	.gnu.lto_.refs.eaef5dfd1046d902,"",%progbits
+	.section	.gnu.lto_.refs.936373c20b44e627,"",%progbits
 	.ascii	"x\234cf```d\200\002\000\000=\000\005"
 	.text
-	.section	.gnu.lto_.decls.eaef5dfd1046d902,"",%progbits
+	.section	.gnu.lto_.decls.936373c20b44e627,"",%progbits
 	.ascii	"x\234\265WyP\225\327\025\177\367{\010\362\304Gc\232"
 	.ascii	"WKj4\265\332\230(tIl\332&M\032\235\311d\246m\354\330"
 	.ascii	"\332?\031\202\304\274\031\005\347\361\310L\332\177>"
@@ -177,7 +177,7 @@
 	.ascii	"\225M\306\235f?\323\213\036\033}\2766z\373\314z\254"
 	.ascii	"q\347yx\231\275\334\277\327\363?\355\215D\244"
 	.text
-	.section	.gnu.lto_.symtab.eaef5dfd1046d902,"",%progbits
+	.section	.gnu.lto_.symtab.936373c20b44e627,"",%progbits
 	.ascii	"Virtual_Com_Port_StringSerial\000\000\000\000\000\000"
 	.ascii	"\000\000\000\000\000\000\311\000\000\000Virtual_Com"
 	.ascii	"_Port_StringProduct\000\000\000\000\000\000\000\000"
