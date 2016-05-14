@@ -808,7 +808,7 @@ VPATH		:= $(VPATH):$(STDPERIPH_DIR)/src
 #
 
 # Tool names
-CC		 = arm-none-eabi-gcc
+CC		 = arm-none-eabi-gcc-4.8.4
 OBJCOPY		 = arm-none-eabi-objcopy
 SIZE		 = arm-none-eabi-size
 
