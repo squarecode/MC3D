@@ -1,3 +1,0 @@
-python stm32loader.py -p MySerialPort -evw espruino_for_your_device.bin
-
-/dev/tty.usbserial###
